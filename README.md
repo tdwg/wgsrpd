@@ -1,4 +1,4 @@
-# World geographical scheme for recording plant distributions (WGSRPD)
+# World Geographical Scheme for Recording Plant Distributions (WGSRPD)
 
 * **Download link**: [Download](109-488-1-ED)
 * **Status**: TDWG prior standard
