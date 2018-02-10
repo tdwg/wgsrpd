@@ -1,0 +1,610 @@
+L4 code*L4 country*L3 code*L4 ISOcode*Ed2status*Notes
+ABT-OO*Alberta*ABT*CA**
+AFG-OO*Afghanistan*AFG*AF**
+AGE-BA*Buenos Aires*AGE*AR**
+AGE-CH*Chaco*AGE*AR**
+AGE-CN*Corrientes*AGE*AR**
+AGE-CO*Córdoba*AGE*AR**
+AGE-DF*Argentina Distrito Federal*AGE*AR**
+AGE-ER*Entre Ríos*AGE*AR**
+AGE-FO*Formosa*AGE*AR**
+AGE-LP*La Pampa*AGE*AR**
+AGE-MI*Misiones*AGE*AR**
+AGS-CB*Chubut*AGS*AR**
+AGS-NE*Neuquén*AGS*AR**
+AGS-RN*Rio Negro*AGS*AR**
+AGS-SC*Santa Cruz*AGS*AR**
+AGS-SF*Santa Fé*AGS*AR**
+AGS-TF*Tierra del Fuego (Argentina)*AGS*AR**
+AGW-CA*Catamarca*AGW*AR**
+AGW-JU*Jujuy*AGW*AR**
+AGW-LR*La Rioja*AGW*AR**
+AGW-ME*Mendoza*AGW*AR**
+AGW-SA*Salta*AGW*AR**
+AGW-SE*Santiago del Estero*AGW*AR**
+AGW-SJ*San Juan*AGW*AR**
+AGW-SL*San Luis*AGW*AR**
+AGW-TU*Tucuman*AGW*AR**
+ALA-OO*Alabama*ALA*US**
+ALB-OO*Albania*ALB*AL**
+ALD-OO*Aldabra*ALD*SC**
+ALG-OO*Algeria*ALG*DZ**
+ALT-OO*Altay*ALT*RU**
+ALU-OO*Aleutian Is.*ALU*US**
+AMU-OO*Amur*AMU*RU**
+AND-AN*Andaman Is.*AND*IN**
+AND-CO*Coco Is.*AND*BU**
+ANG-OO*Angola*ANG*AO**
+ANT-OO*Antarctica*ANT*AQ**
+ARI-OO*Arizona*ARI*US**
+ARK-OO*Arkansas*ARK*US**
+ARU-OO*Aruba*ARU*AW**
+ASC-OO*Ascension*ASC*SH**
+ASK-OO*Alaska*ASK*US**
+ASP-OO*Amsterdam-St.Paul Is.*ASP*TF**
+ASS-AS*Assam*ASS*IN**
+ASS-MA*Manipur*ASS*IN**
+ASS-ME*Meghalaya*ASS*IN**
+ASS-MI*Mizoram*ASS*IN**
+ASS-NA*Nagaland*ASS*IN**
+ASS-TR*Tripura*ASS*IN**
+ATP-OO*Antipodean Is.*ATP*NZ**
+AUT-AU*Austria*AUT*AT**
+AUT-LI*Liechtenstein*AUT*LI**
+AZO-OO*Açôres*AZO*PT**
+BAH-OO*Bahamas*BAH*BS**
+BAL-OO*Baleares*BAL*ES**
+BAN-OO*Bangladesh*BAN*BD**
+BEN-OO*Benin*BEN*BJ**
+BER-OO*Bermuda*BER*BM**
+BGM-BE*Belgium*BGM*BE**
+BGM-LU*Luxembourg*BGM*LU**
+BIS-OO*Bismarck Archipelago*BIS*PG**
+BKN-OO*Burkina*BKN*BF**
+BLR-OO*Belarus*BLR*RU**
+BLT-ES*Estonia*BLT*EE**
+BLT-KA*Kaliningrad*BLT*RU**
+BLT-LA*Latvia*BLT*RU**
+BLT-LI*Lithuania*BLT*LT**
+BLZ-OO*Belize*BLZ*BZ**
+BOL-OO*Bolivia*BOL*BO**
+BOR-BR*Brunei*BOR*BN**
+BOR-KA*Kalimantan*BOR*ID**
+BOR-SB*Sabah*BOR*MY**
+BOR-SR*Sarawak*BOR*MY**
+BOT-OO*Botswana*BOT*BW**
+BOU-OO*Bouvet I.*BOU*BV**
+BRC-OO*British Columbia*BRC*CA**
+BRY-OO*Buryatiya*BRY*RU**
+BUL-OO*Bulgaria*BUL*BG**
+BUR-OO*Burundi*BUR*BI**
+BZC-DF*Brazilia Distrito Federal*BZC*BR**
+BZC-GO*Goiás*BZC*BR**
+BZC-MS*Mato Grosso do Sul*BZC*BR**
+BZC-MT*Mato Grosso*BZC*BR**
+BZE-AL*Alagoas*BZE*BR**
+BZE-BA*Bahia*BZE*BR**
+BZE-CE*Ceará*BZE*BR**
+BZE-FN*Fernando de Noronha*BZE*BR**
+BZE-MA*Maranhao*BZE*BR**
+BZE-PB*Paraíba*BZE*BR**
+BZE-PE*Pernambuco*BZE*BR**
+BZE-PI*Piauí*BZE*BR**
+BZE-RN*Rio Grande do Norte*BZE*BR**
+BZE-SE*Sergipe*BZE*BR**
+BZL-ES*Espirito Santo*BZL*BR**
+BZL-MG*Minas Gerais*BZL*BR**
+BZL-RJ*Rio de Janeiro*BZL*BR**
+BZL-SP*São Paulo*BZL*BR**
+BZL-TR*Trindade*BZL*BR**
+BZN-AC*Acre*BZN*BR**
+BZN-AM*Amazonas*BZN*BR**
+BZN-AP*Amapá*BZN*BR**
+BZN-PA*Pará*BZN*BR**
+BZN-RM*Roraima*BZN*BR**
+BZN-RO*Rondônia*BZN*BR**
+BZN-TO*Tocantins*BZN*BR**
+BZS-PR*Paraná*BZS*BR**
+BZS-RS*Rio Grande do Sul*BZS*BR**
+BZS-SC*Santa Catarina*BZS*BR**
+CAB-OO*Cabinda*CAB*AO**
+CAF-OO*Central African Republic*CAF*CF**
+CAL-OO*California*CAL*US**
+CAY-OO*Cayman Is.*CAY*KY**
+CBD-OO*Cambodia*CBD*KH**
+CGS-OO*Chagos Archipelago*CGS*IO**
+CHA-OO*Chad*CHA*TD**
+CHC-GZ*Guizhou*CHC*CN**
+CHC-HU*Hubei*CHC*CN**
+CHC-SC*Sichuan*CHC*CN**
+CHC-YN*Yunnan*CHC*CN**
+CHH-OO*Hainan*CHH*CN**
+CHI-NM*Nei Mongol*CHI*CN**
+CHI-NX*Ningxia*CHI*CN**
+CHM-HJ*Heilongjiang*CHM*CN**
+CHM-JL*Jilin*CHM*CN**
+CHM-LN*Liaoning*CHM*CN**
+CHN-BJ*Beijing*CHN*CN**
+CHN-GS*Gansu*CHN*CN**
+CHN-HB*Hebei*CHN*CN**
+CHN-SA*Shaanxi*CHN*CN**
+CHN-SD*Shandong*CHN*CN**
+CHN-SX*Shanxi*CHN*CN**
+CHN-TJ*Tianjin*CHN*CN**
+CHQ-OO*Qinghai*CHQ*CN**
+CHS-AH*Anhui*CHS*CN**
+CHS-FJ*Fujian*CHS*CN**
+CHS-GD*Guangdong*CHS*CN**
+CHS-GX*Guangxi*CHS*CN**
+CHS-HE*Henan*CHS*CN**
+CHS-HK*Hong Kong*CHS*HK**
+CHS-HN*Hunan*CHS*CN**
+CHS-JS*Jiangsu*CHS*CN**
+CHS-JX*Jiangxi*CHS*CN**
+CHS-KI*Kin-Men*CHS*TW**
+CHS-MA*Macau*CHS*MO**
+CHS-MP*Ma-tsu-Pai-chúan*CHS*TW**
+CHS-SH*Shanghai*CHS*CN**
+CHS-ZJ*Zhejiang*CHS*CN**
+CHT-OO*Tibet*CHT*CN**Sube del nivel 4 al nivel 3. El código en el libro es CHT-XI.
+CHX-OO*Xinjiang*CHX*CN**
+CKI-OO*Cocos (Keeling) Is.*CKI*CC**
+CLC-BI*Biobío*CLC*CL**
+CLC-CO*Coquimbo*CLC*CL**
+CLC-LA*La Araucania*CLC*CL**
+CLC-MA*Maule*CLC*CL**
+CLC-OH*O'Higgins*CLC*CL**
+CLC-SA*Santiago*CLC*CL**
+CLC-VA*Valparaíso*CLC*CL**
+CLM-OO*Colombia*CLM*CO**
+CLN-AN*Antofagasta*CLN*CL**
+CLN-AT*Atacama*CLN*CL**
+CLN-TA*Tarapaca*CLN*CL**
+CLS-AI*Aisén*CLS*CL**
+CLS-LL*Los Lagos*CLS*CL**
+CLS-MG*Magellanes*CLS*CL**
+CMN-OO*Cameroon*CMN*CM**
+CNT-OO*Connecticut*CNT*US**
+CNY-OO*Canary Is.*CNY*ES**
+COL-OO*Colorado*COL*US**
+COM-CO*Comoros*COM*KM**
+COM-MA*Mayotte*COM*YT**
+CON-OO*Congo*CON*CG**
+COO-OO*Cook Is.*COO*CK**
+COR-OO*Corse*COR*FR**
+COS-OO*Costa Rica*COS*CR**
+CPI-CL*Clipperton I.*CPI*PF**
+CPI-CO*Cocos I.*CPI*CR**
+CPI-MA*Malpelo I.*CPI*CO**
+CPP-EC*Eastern Cape Province*CPP*ZA**
+CPP-NC*Northern Cape Province*CPP*ZA**
+CPP-WC*Western Cape Province*CPP*ZA**
+CPV-OO*Caprivi Strip*CPV*NA**
+CRL-MF*Micronesia Federated States*CRL*FM**
+CRL-PA*Palau*CRL*PW**
+CRZ-OO*Crozet Is.*CRZ*TF**
+CTA-OO*Chita*CTA*RU**
+CTM-OO*Chatham Is.*CTM*NZ**
+CUB-OO*Cuba*CUB*CU**
+CVI-OO*Cape Verde*CVI*CV**
+CYP-OO*Cyprus*CYP*CY**
+CZE-CZ*Czech Republic*CZE*SK**
+CZE-SK*Slovakia*CZE*CZ**
+DEL-OO*Delaware*DEL*US**
+DEN-OO*Denmark*DEN*DK**
+DJI-OO*Djibouti*DJI*DJ**
+DOM-OO*Dominican Republic*DOM*DO**
+DSV-OO*Desventurados Is.*DSV*CL**
+EAI-OO*East Aegean Is.*EAI*GR**
+EAS-OO*Easter Is.*EAS*CL**
+ECU-OO*Ecuador*ECU*EC**
+EGY-OO*Egypt*EGY*EG**
+EHM-AP*Arunachal Pradesh*EHM*IN**
+EHM-BH*Bhutan*EHM*BT**
+EHM-DJ*Darjiling*EHM*IN**
+EHM-SI*Sikkim*EHM*IN**
+ELS-OO*El Salvador*ELS*SV**
+EQG-OO*Equatorial Guinea*EQG*GQ**
+ERI-OO*Eritrea*ERI*ER**
+ETH-OO*Ethiopia*ETH*ET**
+FAL-OO*Falkland Is.*FAL*FK**
+FIJ-OO*Fiji*FIJ*FJ**
+FIN-OO*Finland*FIN*FI**
+FLA-OO*Florida*FLA*US**
+FOR-OO*Føroyar*FOR*FO**
+FRA-CI*Channel Is.*FRA*UK**
+FRA-FR*France*FRA*FR**
+FRA-MO*Monaco*FRA*MC**
+FRG-OO*French Guiana*FRG*GF**
+GAB-OO*Gabon*GAB*GA**
+GAL-OO*Galápagos*GAL*EC**
+GAM-OO*Gambia, The*GAM*GM**
+GEO-OO*Georgia*GEO*US**
+GER-OO*Germany*GER*DE**
+GGI-AN*Annobón*GGI*GQ**
+GGI-BI*Bioko*GGI*GQ**
+GGI-PR*Principe*GGI*ST**
+GGI-ST*São Tomé*GGI*ST**
+GHA-OO*Ghana*GHA*GH**
+GIL-OO*Gilbert Is.*GIL*KI**
+GNB-OO*Guinea-Bissau*GNB*GW**
+GNL-OO*Greenland*GNL*GL**
+GRB-OO*Great Britain*GRB*UK**
+GRC-OO*Greece*GRC*GR**
+GST-BA*Bahrain*GST*BH**
+GST-QA*Qatar*GST*QA**
+GST-UA*United Arab Emirates*GST*AE**
+GUA-OO*Guatemala*GUA*GT**
+GUI-OO*Guinea*GUI*GN**
+GUY-OO*Guyana*GUY*GY**
+HAI-HA*Haiti*HAI*HT**
+HAI-NI*Navassa I.*HAI*PR**
+HAW-HI*Hawaiian Is.*HAW*US**
+HAW-JI*Johnston I.*HAW*UM**
+HAW-MI*Midway Is.*HAW*UM**
+HBI-OO*Howland-Baker Is.*HBI*UM**
+HMD-OO*Heard-McDonald Is.*HMD*HM**
+HON-OO*Honduras*HON*HN**
+HUN-OO*Hungary*HUN*HU**
+ICE-OO*Iceland*ICE*IS**
+IDA-OO*Idaho*IDA*US**
+ILL-OO*Illinois*ILL*US**
+IND-AP*Andhra Pradesh*IND*IN**
+IND-BI*Bihar*IND*IN**
+IND-CH*Chandigarh*IND*IN**
+IND-DD*Dadra-Nagar-Haveli*IND*IN**
+IND-DE*Delhi*IND*IN**
+IND-DI*Diu*IND*IN**
+IND-DM*Daman*IND*IN**
+IND-GO*Goa*IND*IN**
+IND-GU*Gujarat*IND*IN**
+IND-HA*Haryana*IND*IN**
+IND-KE*Kerala*IND*IN**
+IND-KL*Karaikal*IND*IN**
+IND-KT*Karnataka*IND*IN**
+IND-MH*Mahé*IND*IN**
+IND-MP*Madhya Pradesh*IND*IN**
+IND-MR*Maharashtra*IND*IN**
+IND-OR*Orissa*IND*IN**
+IND-PO*Pondicherry*IND*IN**
+IND-PU*Punjab*IND*IN**
+IND-RA*Rajasthan*IND*IN**
+IND-TN*Tamil Nadu*IND*IN**
+IND-UP*Uttar Pradesh*IND*IN**
+IND-WB*West Bengal*IND*IN**
+IND-YA*Yanam*IND*IN**
+INI-OO*Indiana*INI*US**
+IOW-OO*Iowa*IOW*US**
+IRE-IR*Ireland*IRE*IE**
+IRE-NI*Northern Ireland*IRE*UK**
+IRK-OO*Irkutsk*IRK*RU**
+IRN-OO*Iran*IRN*IR**
+IRQ-OO*Iraq*IRQ*IQ**
+ITA-IT*Italy*ITA*IT**
+ITA-SM*San Marino*ITA*SM**
+ITA-VC*Vatican City*ITA*VA**
+IVO-OO*Ivory Coast*IVO*CI**
+JAM-OO*Jamaica*JAM*JM**
+JAP-HK*Hokkaido*JAP*JP**
+JAP-HN*Honshu*JAP*JP**
+JAP-KY*Kyushu*JAP*JP**
+JAP-SH*Shikoku*JAP*JP**
+JAW-OO*Jawa*JAW*ID**
+JNF-OO*Juan Fernández Is.*JNF*CL**
+KAM-OO*Kamchatka*KAM*RU**
+KAN-OO*Kansas*KAN*US**
+KAZ-OO*Kazakhstan*KAZ*KZ**
+KEG-OO*Kerguelen*KEG*TF**
+KEN-OO*Kenya*KEN*KE**
+KER-OO*Kermadec Is.*KER*NZ**
+KGZ-OO*Kirgizistan*KGZ*KG**
+KHA-OO*Khabarovsk*KHA*RU**
+KOR-NK*North Korea*KOR*KP**
+KOR-SK*South Korea*KOR*KR**
+KRA-OO*Krasnoyarsk*KRA*RU**
+KRI-OO*Kriti*KRI*GR**
+KRY-OO*Krym*KRY*UA**
+KTY-OO*Kentucky*KTY*US**
+KUR-OO*Kuril Is.*KUR*RU**
+KUW-OO*Kuwait*KUW*KW**
+KZN-OO*Kazan-retto*KZN*JP**
+LAB-OO*Labrador*LAB*CA**
+LAO-OO*Laos*LAO*LA**
+LBR-OO*Liberia*LBR*LR**
+LBS-LB*Lebanon*LBS*LB**
+LBS-SY*Syria*LBS*SY**
+LBY-OO*Libya*LBY*LY**
+LDV-OO*Laccadive Is.*LDV*IN**
+LEE-AB*Antigua-Barbuda*LEE*AG**
+LEE-AG*Anguilla*LEE*AI**
+LEE-AV*Aves I.*LEE*VE**
+LEE-BV*British Virgin Is.*LEE*VG**
+LEE-GU*Guadeloupe*LEE*GP**
+LEE-MO*Montserrat*LEE*MS**
+LEE-NL*Netherlands Leeward Is.*LEE*AN**
+LEE-SK*St.Kitts-Nevis*LEE*KN**
+LEE-SM*St.Martin-St.Barthélémy*LEE*GP**
+LEE-VI*Virgin Is.*LEE*VI**
+LES-OO*Lesotho*LES*LS**
+LIN-KI*Kiribati Line Is.*LIN*KI**
+LIN-US*U.S. Line Is.*LIN*UM**
+LOU-OO*Louisiana*LOU*US**
+LSI-BA*Bali*LSI*ID**
+LSI-ET*East Timor*LSI*TP**
+LSI-LS*Lesser Sunda Is.*LSI*ID**
+MAG-OO*Magadan*MAG*RU**
+MAI-OO*Maine*MAI*US**
+MAN-OO*Manitoba*MAN*CA**
+MAQ-OO*Macquarie Is.*MAQ*AU**
+MAS-OO*Masachusettes*MAS*US**
+MAU-OO*Mauritius*MAU*MU**
+MCI-OO*Mozambique Channel Is.*MCI*RE**
+MCS-OO*Marcus I.*MCS*JP**
+MDG-OO*Madagascar*MDG*MG**
+MDR-OO*Madeira*MDR*PT**
+MDV-OO*Maldives*MDV*MV**
+MIC-OO*Michigan*MIC*US**
+MIN-OO*Minnesota*MIN*US**
+MLI-OO*Mali*MLI*ML**
+MLW-OO*Malawi*MLW*MW**
+MLY-PM*Peninsular Malaysia*MLY*MY**
+MLY-SI*Singapore*MLY*SG**
+MNT-OO*Montana*MNT*US**
+MOL-OO*Maluku*MOL*ID**
+MON-OO*Mongolia*MON*MN**
+MOR-MO*Morocco*MOR*MA**
+MOR-SP*Spanish North African Territories*MOR*ES**
+MOZ-OO*Mozambique*MOZ*MZ**
+MPE-OO*Marion-Prince Edward Is.*MPE*ZA**
+MRN-GU*Guam*MRN*GU**
+MRN-NM*Northern Marianas*MRN*MP**
+MRQ-OO*Marquesas*MRQ*PF**
+MRS-OO*Marshall Is.*MRS*MH**
+MRY-OO*Maryland*MRY*US**
+MSI-OO*Mississippi*MSI*US**
+MSO-OO*Missouri*MSO*US**
+MTN-OO*Mauritania*MTN*MR**
+MXC-DF*Mexico Distrito Federal*MXC*MX**
+MXC-ME*México State*MXC*MX**
+MXC-MO*Morelos*MXC*MX**
+MXC-PU*Puebla*MXC*MX**
+MXC-TL*Tlaxcala*MXC*MX**
+MXE-AG*Aguascalientes*MXE*MX**
+MXE-CO*Coahuila*MXE*MX**
+MXE-CU*Chihuahua*MXE*MX**
+MXE-DU*Durango*MXE*MX**
+MXE-GU*Guanajuato*MXE*MX**
+MXE-HI*Hidalgo*MXE*MX**
+MXE-NL*Nuevo León*MXE*MX**
+MXE-QU*Querétaro*MXE*MX**
+MXE-SL*San Luis Potosí*MXE*MX**
+MXE-TA*Tamaulipas*MXE*MX**
+MXE-ZA*Zacatecas*MXE*MX**
+MXG-VC*Veracruz*MXG*MX**
+MXI-GU*Guadalupe I.*MXI*MX**
+MXI-RA*Rocas Alijos*MXI*MX**
+MXI-RG*Revillagigedo Is.*MXI*MX**
+MXN-BC*Baja California*MXN*MX**
+MXN-BS*Baja California Sur*MXN*MX**
+MXN-SI*Sinaloa*MXN*MX**
+MXN-SO*Sonora*MXN*MX**
+MXS-CL*Colima*MXS*MX**
+MXS-GR*Guerrero*MXS*MX**
+MXS-JA*Jalisco*MXS*MX**
+MXS-MI*Michoacán*MXS*MX**
+MXS-NA*Nayarit*MXS*MX**
+MXS-OA*Oaxaca*MXS*MX**
+MXT-CA*Campeche*MXT*MX**
+MXT-CI*Chiapas*MXT*MX**
+MXT-QR*Quintana Roo*MXT*MX**
+MXT-TB*Tabasco*MXT*MX**
+MXT-YU*Yucatán*MXT*MX**
+MYA-OO*Myanmar*MYA*MM**
+NAM-OO*Namibia*NAM*ZA**
+NAT-OO*KwaZulu-Natal*NAT*ZA**
+NBR-OO*New Brunswick*NBR*CA**
+NCA-OO*North Carolina*NCA*US**
+NCB-OO*Nicobar Is.*NCB*IN**
+NCS-DA*Dagestan*NCS*RU**
+NCS-KB*Kabardino-Balkariya*NCS*RU**
+NCS-KC*Karacheyevo-Cherkessiya*NCS*RU**
+NCS-KR*Krasnodar*NCS*RU**
+NCS-SO*Severo-Osetiya*NCS*RU**
+NCS-ST*Stavropol*NCS*RU**
+NDA-OO*North Dakota*NDA*US**
+NEB-OO*Nebraska*NEB*US**
+NEP-OO*Nepal*NEP*NP**
+NET-OO*Netherlands*NET*NL**
+NEV-OO*Nevada*NEV*US**
+NFK-LH*Lord Howe I.*NFK*AU**
+NFK-NI*Norfolk I.*NFK*NF**
+NFL-NE*Newfoundland*NFL*CA**
+NFL-SP*St.Pierre-Miquelon*NFL*PM**
+NGA-OO*Nigeria*NGA*NG**
+NGR-OO*Niger*NGR*NE**
+NIC-OO*Nicaragua*NIC*NI**
+NLA-BO*Bonaire*NLA*AN**
+NLA-CU*Curaçao*NLA*AN**
+NNS-OO*Nansei-shoto*NNS*JP**
+NOR-OO*Norway*NOR*NO**
+NRU-OO*Nauru*NRU*NR**
+NSC-OO*Nova Scotia*NSC*CA**
+NSW-CT*Australian Capital Territory*NSW*AU**
+NSW-NS*New South Wales*NSW*AU**
+NTA-OO*Northern Territory*NTA*AU**
+NUE-OO*Niue*NUE*NU**
+NUN-OO*Nunavut*NUN*CA**
+NWC-OO*New Caledonia*NWC*NC**
+NWG-IJ*Irian Jaya*NWG*ID**
+NWG-PN*Papua New Guinea*NWG*PG**
+NWH-OO*New Hampshire*NWH*US**
+NWJ-OO*New Jersey*NWJ*US**
+NWM-OO*New Mexico*NWM*US**
+NWT-OO*Northwest Territories*NWT*CA**
+NWY-OO*New York*NWY*US**
+NZN-OO*New Zealand North*NZN*NZ**
+NZS-OO*New Zealand South*NZS*NZ**
+OFS-OO*Free State*OFS*ZA**
+OGA-OO*Ogasawara-shoto*OGA*JP**
+OHI-OO*Ohio*OHI*US**
+OKL-OO*Oklahoma*OKL*US**
+OMA-OO*Oman*OMA*OM**
+ONT-OO*Ontario*ONT*CA**
+ORE-OO*Oregon*ORE*US**
+PAK-OO*Pakistan*PAK*PK**
+PAL-IS*Israel*PAL*IL**
+PAL-JO*Jordan*PAL*JO**
+PAN-OO*Panamá*PAN*PA**
+PAR-OO*Paraguay*PAR*PY**
+PEI-OO*Prince Edward I.*PEI*CA**
+PEN-OO*Pennsylvania*PEN*US**
+PER-OO*Peru*PER*PE**
+PHI-OO*Philippines*PHI*PH**
+PHX-OO*Phoenix Is.*PHX*KI**
+PIT-OO*Pitcairn Is.*PIT*PN**
+POL-OO*Poland*POL*PL**
+POR-OO*Portugal*POR*PT**
+PRM-OO*Primorye*PRM*RU**
+PUE-OO*Puerto Rico*PUE*PR**
+QLD-CS*Coral Sea Is. Territory*QLD*AU**
+QLD-QU*Queensland*QLD*AU**
+QUE-OO*Québec*QUE*CA**
+REU-OO*Réunion*REU*RE**
+RHO-OO*Rhode I.*RHO*US**
+ROD-OO*Rodrigues*ROD*MU**
+ROM-OO*Romania*ROM*RO**
+RUC-OO*Central European Russia*RUC*RU**
+RUE-OO*East European Russia*RUE*RU**
+RUN-OO*North European Russia*RUN*RU**
+RUS-OO*South European Russia*RUS*RU**
+RUW-OO*Northwest European Russia*RUW*RU**
+RWA-OO*Rwanda*RWA*RW**
+SAK-OO*Sakhalin*SAK*RU**
+SAM-AS*American Samoa*SAM*AS**
+SAM-WS*Samoa*SAM*WS*N*Western Samoa
+SAR-OO*Sardegna*SAR*IT**
+SAS-OO*Saskatchewan*SAS*CA**
+SAU-OO*Saudi Arabia*SAU*SA**
+SCA-OO*South Carolina*SCA*US**
+SCI-OO*Society Is.*SCI*PF**
+SCS-PI*Paracel Is.*SCS*PI**
+SCS-SI*Spratly Is.*SCS*SI**
+SCZ-OO*Santa Cruz Is.*SCZ*SB**
+SDA-OO*South Dakota*SDA*US**
+SEL-OO*Selvagens*SEL*PT**
+SEN-OO*Senegal*SEN*SN**
+SEY-OO*Seychelles*SEY*SC**
+SGE-OO*South Georgia*SGE*GS**
+SIC-MA*Malta*SIC*MT**
+SIC-SI*Sicilia*SIC*IT**
+SIE-OO*Sierra Leone*SIE*SL**
+SIN-OO*Sinai*SIN*EG**
+SOA-OO*South Australia*SOA*AU**
+SOC-OO*Socotra*SOC*YE**
+SOL-NO*North Solomons*SOL*PG**
+SOL-SO*South Solomons*SOL*SB**
+SOM-OO*Somalia*SOM*SO**
+SPA-AN*Andorra*SPA*AD**
+SPA-GI*Gilbraltar*SPA*GI**
+SPA-SP*Spain*SPA*ES**
+SRL-OO*Sri Lanka*SRL*LK**
+SSA-OO*South Sandwich Is.*SSA*GS**
+STH-OO*St.Helena*STH*SH**
+SUD-OO*Sudan*SUD*SD**
+SUL-OO*Sulawesi*SUL*ID**
+SUM-OO*Sumatera*SUM*ID**
+SUR-OO*Surinam*SUR*SR**
+SVA-OO*Svalbard*SVA*SJ**
+SWC-CC*Colombian Caribbean Is.*SWC*CO**
+SWC-HC*Honduran Caribbean Is.*SWC*HN**
+SWC-NC*Nicaraguan Caribbean Is.*SWC*NI**
+SWE-OO*Sweden*SWE*SE**
+SWI-OO*Switzerland*SWI*CH**
+SWZ-OO*Swaziland*SWZ*SZ**
+TAI-OO*Taiwan*TAI*TW**
+TAN-OO*Tanzania*TAN*TZ**
+TAS-OO*Tasmania*TAS*AU**
+TCI-OO*Turks-Caicos Is.*TCI*TC**
+TCS-AB*Abkhaziya*TCS*GE**
+TCS-AD*Adzhariya*TCS*GE**
+TCS-AR*Armenia*TCS*AM**
+TCS-AZ*Azerbaijan*TCS*AZ**
+TCS-GR*Georgia*TCS*GE**
+TCS-NA*Nakhichevan*TCS*AZ**
+TCS-NK*Nagorno Karabakh*TCS*AZ**
+TDC-OO*Tristan da Cunha*TDC*SH**
+TEN-OO*Tennessee*TEN*US**
+TEX-OO*Texas*TEX*US**
+THA-OO*Thailand*THA*TH**
+TKM-OO*Turkmenistan*TKM*TM**
+TOG-OO*Togo*TOG*TG**
+TOK-MA*Manihiki Is.*TOK*CK**
+TOK-SW*Swains I.*TOK*AS**
+TOK-TO*Tokelau*TOK*TK**
+TON-OO*Tonga*TON*TO**
+TRT-OO*Trinidad-Tobago*TRT*TT**
+TUA-OO*Tuamotu*TUA*PF**
+TUB-OO*Tubuai Is.*TUB*PF**
+TUE-OO*Turkey-in-Europe*TUE*TR**
+TUN-OO*Tunisia*TUN*TN**
+TUR-OO*Turkey*TUR*TR**
+TUV-OO*Tuvalu*TUV*TV**
+TVA-OO*Tuva*TVA*RU**
+TVL-GA*Gauteng*TVL*ZA**
+TVL-MP*Mpumalanga*TVL*ZA**
+TVL-NP*Northern Province*TVL*ZA**
+TVL-NW*North-West Province*TVL*ZA**
+TZK-OO*Tadzhikistan*TZK*TJ**
+UGA-OO*Uganda*UGA*UG**
+UKR-MO*Moldova*UKR*MD**
+UKR-UK*Ukraine*UKR*UA**
+URU-OO*Uruguay*URU*UY**
+UTA-OO*Utah*UTA*US**
+UZB-OO*Uzbekistan*UZB*UZ**
+VAN-OO*Vanuatu*VAN*VU**
+VEN-OO*Venezuela*VEN*VE**
+VER-OO*Vermont*VER*US**
+VIC-OO*Victoria*VIC*AU**
+VIE-OO*Vietnam*VIE*VN**
+VNA-OO*Venezuelan Antilles*VNA*VE**
+VRG-OO*Virginia*VRG*US**
+WAK-OO*Wake I.*WAK*UM**
+WAL-OO*Wallis-Futuna Is.*WAL*WF**
+WAS-OO*Washington*WAS*US**
+WAU-AC*Ashmore-Cartier Is.*WAU*AU**
+WAU-WA*Western Australia*WAU*AU**
+WDC-OO*District of Columbia*WDC*US**
+WHM-HP*Himachal Pradesh*WHM*IN**
+WHM-JK*Jammu-Kashmir*WHM*IN**
+WHM-UT*Uttaranchal*WHM*IN**
+WIN-BA*Barbados*WIN*BB**
+WIN-DO*Dominica*WIN*DM**
+WIN-GR*Grenada*WIN*GD**
+WIN-MA*Martinique*WIN*MQ**
+WIN-SL*St.Lucia*WIN*LC**
+WIN-SV*St.Vincent*WIN*VC**
+WIS-OO*Wisconsin*WIS*US**
+WSA-OO*Western Sahara*WSA*EH**
+WSB-OO*West Siberia*WSB*RU**
+WVA-OO*West Virginia*WVA*US**
+WYO-OO*Wyoming*WYO*US**
+XMS-OO*Christmas I.*XMS*CX**
+YAK-OO*Yakutskiya*YAK*RU**
+YEM-NY*North Yemen*YEM*YE**
+YEM-SY*South Yemen*YEM*YE**
+YUG-BH*Bosnia-Herzegovina*YUG*YU**
+YUG-CR*Croatia*YUG*HR**
+YUG-KO*Kosovo*YUG*YU**
+YUG-MA*Macedonia*YUG*MK**
+YUG-MN*Montenegro*YUG*YU**
+YUG-SE*Serbia*YUG*YU**
+YUG-SL*Slovenia*YUG*SL**
+YUK-OO*Yukon*YUK*CA**
+ZAI-OO*Zaire*ZAI*CD**
+ZAM-OO*Zambia*ZAM*ZM**
+ZIM-OO*Zimbabwe*ZIM*ZW**
+IND-JK*Jharkhand*IND*IN**
+IND-CT*Chattisgarh*IND*IN**
+NCS-CH*Chechnya*NCS*RU*A*Una de las partes en que se divide Checheno-Ingushetiya
+NCS-IN*Ingushetiya*NCS*RU*A*Una de las partes en que se divide Checheno-Ingushetiya
+CHC-CQ*Chongqing*CHC*CN*A*Anteriormente parte de Sichuan

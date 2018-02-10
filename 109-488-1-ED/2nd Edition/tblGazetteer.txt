@@ -1,0 +1,2177 @@
+ID*Gazetteer*L1 code*L2 code*L3 code*L4 code*Kew region code*Kew region subdivision*Kew region*Synonym*Notes
+1*Abu Dhabi*3,00*35,00*GST*GST-UA*2,00*A*Orient*Abu Zabi;  United Arab Emirates*
+2*Afghanistan*3,00*34,00*AFG*AFG-OO*2,00*A*Orient**
+3*Ajman*3,00*35,00*GST*GST-UA*2,00*A*Orient*United Arab Emirates*
+4*Åland Is.*1,00*10,00*FIN*FIN-OO*1,00**Europe**self-governing I. province of Finland
+5*Albania*1,00*13,00*ALB*ALB-OO*1,00**Europe**
+6*Aleutian Is.*7,00*70,00*ALU*ALU-OO*13,00**North America**territory of U.S.A.
+7*Algeria*2,00*20,00*ALG*ALG-OO*2,00*B*North Africa**
+8*American Samoa*6,00*60,00*SAM*SAM-AS*9,00*D*Samoan Islands**unincorporated territory of U.S.A.
+9*Andorra*1,00*12,00*SPA*SPA-AN*1,00**Europe**principality under Franco-Spanish sovereignty
+10*Angola*2,00*26,00*ANG*ANG-OO*10,00*E*South Tropical Africa**excluding Cabinda
+11*Anguilla*8,00*81,00*LEE*LEE-AG*15,00**West Indies**U.K. dependent territory
+12*Antigua-Barbuda*8,00*81,00*LEE*LEE-AB*15,00**West Indies**
+14*Armeniya*3,00*33,00*TCS*TCS-AR*2,00*A*Orient**
+15*Aruba*8,00*81,00*ARU*ARU-OO*15,00**West Indies**self-governing I. of Netherlands Antilles
+16*Ascension*2,00*28,00*ASC*ASC-OO*10,00*F*St Helena and Ascension**I. Dependency of St.Helena
+17*Ashmore and Cartier Is.*5,00*50,00*WAU*WAU-AC*7,00**Australia**External Territory of Australia
+18*Australia*5,00*50,00***7,00**Australia*Region 50 Australia*
+19*Australian Antarctic Territory*9,00*91,00*ANT*ANT-OO*19,00**Antarctica and Subantarctic Islands**
+20*Austria*1,00*11,00*AUT*AUT-AU*1,00**Europe**
+21*Azerbaijan*3,00*33,00*TCS*TCS-AZ*2,00*A*Orient*Azerbaydzhan*
+22*Azores*2,00*21,00*AZO*AZO-OO*2,00*C*Atlantic Islands**self-governing I. Region of Portugal
+23*Bahamas*8,00*81,00*BAH*BAH-OO*15,00**West Indies**
+24*Bahrain*3,00*35,00*GST*GST-BA*2,00*A*Orient**
+26*Bangladesh*4,00*40,00*BAN*BAN-OO*5,00**India**
+27*Barbados*8,00*81,00*WIN*WIN-BA*15,00**West Indies**
+28*Bear I.*1,00*10,00*SVA*SVA-OO*1,00**Europe*Bjornoya*I. of Svalbard (to Norway)
+29*Belgium*1,00*11,00*BGM*BGM-BE*1,00**Europe**
+30*Belize*8,00*80,00*BLZ*BLZ-OO*14,00**Central America**
+31*Belorussiya*1,00*14,00*BLR*BLR-OO*1,00**Europe*Belarus*
+32*Benin*2,00*22,00*BEN*BEN-OO*10,00*A*West Tropical Africa**
+33*Bermuda*8,00*81,00*BER*BER-OO*15,00**West Indies**self-governing U.K. Crown Colony
+34*Bhutan*4,00*40,00*EHM*EHM-BH*5,00**India**
+35*Bioko*2,00*23,00*GGI*GGI-BI*10,00*B*Cameroons and Congo**I. of Equatorial Guinea
+36*Bolivia*8,00*83,00*BOL*BOL-OO*17,00**West Tropical South America**
+37*Bonaire*8,00*81,00*NLA*NLA-BO*15,00**West Indies**self-governing I. of Netherlands Antilles
+38*Bonin Is.*3,00*38,00*OGA*OGA-OO*4,00**Eastern Asia*Ogasawara-Shoto*Is. of Japan
+39*Bophutatswana*2,00*27,00***12,00**South Africa**Transvaal or Cape Province
+40*Borneo*4,00*42,00*BOR**6,00*C*Malay Islands**comprises Brunei, Kalimantan, Sabah, Sarawak
+41*Bosnia*1,00*13,00*YUG*YUG-BH*1,00**Europe*Bosnia-Herzegovina*
+42*Botswana*2,00*27,00*BOT*BOT-OO*10,00*E*South Tropical Africa**
+43*Bougainville*6,00*60,00*SOL*SOL-NO*9,00*A*Melanesia**part of Papua New Guinea
+44*Brazil*8,00*84,00***16,00**East Tropical South America*Region 84 Brazil*
+45*British Antarctic Territory*9,00*91,00*ANT*ANT-OO*19,00**Antarctica and Subantarctic Islands**U.K. dependent territory
+46*British Indian Ocean Territory*4,00*40,00*CGS*CGS-OO*11,00**Madagascar and Mascarenes**U.K. dependent territory comprising Chagos Archipelago
+47*Brunei*4,00*42,00*BOR*BOR-BR*6,00*C*Malay Islands**
+48*Bulgaria*1,00*13,00*BUL*BUL-OO*1,00**Europe**
+49*Burkina*2,00*22,00*BKN*BKN-OO*10,00*A*West Tropical Africa**
+50*Burma*4,00*41,00*MYA*MYA-OO*5,00**India*Myanmar*
+51*Burundi*2,00*23,00*BUR*BUR-OO*10,00*B*Cameroons and Congo**
+52*Cambodia*4,00*41,00*CBD*CBD-OO*6,00*B*Indo-China**
+331**2,00*24,00*SOC*SOC-OO*10,00*C*North East Tropical Africa**
+332*Abemama*6,00*60,00*GIL*GIL-OO*9,00*D*Samoan Islands**
+333**3,00*33,00*TCS*TCS-AB*2,00*A*Orient**
+334*Abyssinia*2,00*24,00*ETH*ETH-OO*10,00*C*North East Tropical Africa*Ethiopia*
+335*Acklins I.*8,00*81,00*BAH*BAH-OO*15,00**West Indies**
+336*Açôres*2,00*21,00*AZO*AZO-OO*2,00*C*Atlantic Islands**
+337*Acre*8,00*84,00*BZN*BZN-AC*16,00**East Tropical South America**
+338*Actaeon Group*6,00*61,00*TUA*TUA-OO*9,00*E*S.E. Polynesia**
+339*Addu Atoll*4,00*40,00*MDV*MDV-OO*5,00**India**
+340*Aden*3,00*35,00*YEM*YEM-SY*2,00*A*Orient**
+341*Admiralty Is.*4,00*42,00*BIS*BIS-OO*6,00*E*New Guinea**
+342*Adygeysk*3,00*33,00*NCS*NCS-KR*2,00*A*Orient**
+343*Adzhariya*3,00*33,00*TCS*TCS-AD*2,00*A*Orient**
+344*African Banks*2,00*29,00*ALD*ALD-OO*11,00**Madagascar and Mascarenes*African Is.*part of Amirante group
+345*Agalega*2,00*29,00*MAU*MAU-OO*11,00**Madagascar and Mascarenes**
+346*Aginsky Buryat*3,00*30,00*CTA*CTA-OO*3,00**Northern Asia**
+347*Agrihan*6,00*62,00*MRN*MRN-NM*9,00*F*Micronesia**
+348*Aguascalientes*7,00*79,00*MXE*MXE-AG*14,00**Central America**
+349*Ahvenanmaa*1,00*10,00*FIN*FIN-OO*1,00**Europe*Aland Is.*
+350*Aisén*8,00*85,00*CLS*CLS-AI*18,00**Temperate South America**
+351*Aitutaki*6,00*61,00*COO*COO-OO*9,00*E*S.E. Polynesia**
+352*Al Fujayrah*3,00*35,00*GST*GST-UA*2,00*A*Orient**
+353*Al Manamah*3,00*35,00*GST*GST-BA*2,00*A*Orient**
+354*Alabama*7,00*78,00*ALA*ALA-OO*13,00**North America**
+355*Alagoas*8,00*84,00*BZE*BZE-AL*16,00**East Tropical South America**
+356*Alamagan*6,00*62,00*MRN*MRN-NM*9,00*F*Micronesia**
+357*Alaska*7,00*70,00*ASK*ASK-OO*13,00**North America**
+358*Alberta*7,00*71,00*ABT*ABT-OO*13,00**North America**
+359*Alboran*1,00*12,00*SPA*SPA-SP*1,00**Europe**
+360*Albuquerque Cay*8,00*81,00*SWC*SWC-CC*14,00**Central America**
+361*Aldabra I.*2,00*29,00*ALD*ALD-OO*11,00**Madagascar and Mascarenes**
+362*Alderney*1,00*12,00*FRA*FRA-CI*1,00**Europe**
+363*Alegranza*2,00*21,00*CNY*CNY-OO*2,00*C*Atlantic Islands**
+364*Alejandro Selkirk I.*8,00*85,00*JNF*JNF-OO*18,00**Temperate South America**
+365*Alexander Archipelago*7,00*70,00*ASK*ASK-OO*13,00**North America**
+366*Alexander I.*9,00*91,00*ANT*ANT-OO*19,00**Antarctica and Subantarctic Islands**part of British Antarctic Territory
+367*Alofi*6,00*60,00*WAL*WAL-OO*9,00*D*Samoan Islands**
+368*Alor Is.*4,00*42,00*LSI*LSI-LS*6,00*C*Malay Islands**
+369*Alphonse I.*2,00*29,00*ALD*ALD-OO*11,00**Madagascar and Mascarenes**part of Amirante group
+370*Altai*3,00*30,00*ALT*ALT-OO*3,00**Northern Asia*Altay*
+371*Altay*3,00*30,00*ALT*ALT-OO*3,00**Northern Asia**
+372*Altayskiy Kray*3,00*30,00*ALT*ALT-OO*3,00**Northern Asia**
+373*Amami O-shima*3,00*38,00*NNS*NNS-OO*4,00**Eastern Asia**part of Amami-shoto
+374*Amapá*8,00*84,00*BZN*BZN-AP*16,00**East Tropical South America**
+375*Amazonas*8,00*84,00*BZN*BZN-AM*16,00**East Tropical South America**
+376*Ambergris Cays*8,00*81,00*TCI*TCI-OO*15,00**West Indies**
+377*Ambitle I.*6,00*60,00*SOL*SOL-NO*9,00*A*Melanesia**one of Feni Is.
+378*Ambon*4,00*42,00*MOL*MOL-OO*6,00*C*Malay Islands**
+379*Amboyna Cay*4,00*41,00*SCS*SCS-SI*6,00*F*South China Sea Islands**
+380*Ambrym*6,00*60,00*VAN*VAN-OO*9,00*A*Melanesia**
+381*America, United States of*7,00****13,00**North America*U.S.A.*
+382*Amindivi Is.*4,00*40,00*LDV*LDV-OO*5,00**India**
+383*Amirante group*2,00*29,00*ALD*ALD-OO*11,00**Madagascar and Mascarenes**
+384*Amorgos*1,00*13,00*GRC*GRC-OO*1,00**Europe**one of Kikladhes
+385*Amsterdam I.*9,00*90,00*ASP*ASP-OO*19,00**Antarctica and Subantarctic Islands**
+386*Amsterdam-St.Paul Is.*9,00*90,00*ASP*ASP-OO*19,00**Antarctica and Subantarctic Islands**
+387*Amur*3,00*31,00*AMU*AMU-OO*3,00**Northern Asia**
+388*Amurskaya oblast*3,00*31,00*AMU*AMU-OO*3,00**Northern Asia*Amur*
+389*Anafi*1,00*13,00*GRC*GRC-OO*1,00**Europe**one of Kikladhes
+390*Anambas Is.*4,00*42,00*BOR*BOR-KA*6,00*C*Malay Islands**
+391*Anatahan*6,00*62,00*MRN*MRN-NM*9,00*F*Micronesia**
+392*Anatom*6,00*60,00*VAN*VAN-OO*9,00*A*Melanesia**
+393*Anchorage I.*6,00*60,00*TOK*TOK-MA*9,00*E*S.E. Polynesia*Suvorov I.*
+394*Andaman Is.*4,00*41,00*AND*AND-AN*5,00**India**
+395*Andhra Pradesh*4,00*40,00*IND*IND-AP*5,00**India**
+396*Andikithira*1,00*13,00*GRC*GRC-OO*1,00**Europe**
+397*Andipsara*3,00*34,00*EAI*EAI-OO*2,00*A*Orient**
+398*Andros*8,00*81,00*BAH*BAH-OO*15,00**West Indies**
+399*Andros*1,00*13,00*GRC*GRC-OO*1,00**Europe**[Kikladhes] one of Kikladhes
+400*Anegada*8,00*81,00*LEE*LEE-BV*15,00**West Indies**
+401*Aneityum*6,00*60,00*VAN*VAN-OO*9,00*A*Melanesia*Anatom*
+402*Angatau*6,00*61,00*TUA*TUA-OO*9,00*E*S.E. Polynesia*Fangatau*
+404*Anhui*3,00*36,00*CHS*CHS-AH*4,00**Eastern Asia**
+405*Anhwei*3,00*36,00*CHS*CHS-AH*4,00**Eastern Asia*Anhui*
+406*Annam*4,00*41,00*VIE*VIE-OO*6,00*B*Indo-China**
+407*Annobón*2,00*23,00*GGI*GGI-AN*10,00*B*Cameroons and Congo**
+408*Antarctica*9,00*91,00*ANT*ANT-OO*19,00**Antarctica and Subantarctic Islands**
+409*Antigua*8,00*81,00*LEE*LEE-AB*15,00**West Indies**
+410*Antipodean Is.*5,00*51,00*ATP*ATP-OO*19,00**Antarctica and Subantarctic Islands**
+411*Antipodes Is.*5,00*51,00*ATP*ATP-OO*19,00**Antarctica and Subantarctic Islands**
+412*Antofagasta*8,00*85,00*CLN*CLN-AN*18,00**Temperate South America**
+413*Aoba*6,00*60,00*VAN*VAN-OO*9,00*A*Melanesia**
+414*Aoga-shima*3,00*38,00*JAP*JAP-HN*4,00**Eastern Asia**
+415*Arab Emirates*3,00*35,00*GST*GST-UA*2,00*A*Orient**
+416*Arabia*3,00*35,00***2,00*A*Orient*Region 35 Arabian Peninsula*
+417*Aranuka*6,00*60,00*GIL*GIL-OO*9,00*D*Samoan Islands**
+418*Argentina Northeast*8,00*85,00*AGE**18,00**Temperate South America**
+419*Argentina Northwest*8,00*85,00*AGW**18,00**Temperate South America**
+420*Argentina South*8,00*85,00*AGS**18,00**Temperate South America**
+421*Aride I.*2,00*29,00*SEY*SEY-OO*11,00**Madagascar and Mascarenes**
+422*Arizona*7,00*76,00*ARI*ARI-OO*13,00**North America**
+423*Arkansas*7,00*78,00*ARK*ARK-OO*13,00**North America**
+424*Arkhangelsk*1,00*14,00*RUN*RUN-OO*1,00**Europe**
+425*Armathia*1,00*13,00*KRI*KRI-OO*1,00**Europe**
+426*Armenia*3,00*33,00*TCS*TCS-AR*2,00*A*Orient*Armeniya*
+428*Arorae*6,00*60,00*GIL*GIL-OO*9,00*D*Samoan Islands**
+429*Aru Is.*4,00*42,00*NWG*NWG-IJ*6,00*E*New Guinea**
+431*Arunachal Pradesh*4,00*40,00*EHM*EHM-AP*5,00**India**
+432*Ash Shariquah*3,00*35,00*GST*GST-UA*2,00*A*Orient**
+433*Ashmore Reef*5,00*50,00*WAU*WAU-AC*7,00**Australia**
+434*Asia Is.*4,00*42,00*NWG*NWG-IJ*6,00*E*New Guinea**
+435*Assam*4,00*40,00*ASS*ASS-AS*5,00**India**
+436*Assumption I.*2,00*29,00*ALD*ALD-OO*11,00**Madagascar and Mascarenes**
+437*Astakidha*1,00*13,00*GRC*GRC-OO*1,00**Europe**
+438*Astipalaia*1,00*13,00*GRC*GRC-OO*1,00**Europe**one of Kikladhes
+439*Astove I.*2,00*29,00*ALD*ALD-OO*11,00**Madagascar and Mascarenes**
+440*Astrakhan*1,00*14,00*RUS*RUS-OO*1,00**Europe**
+441*Asuncion*6,00*62,00*MRN*MRN-NM*9,00*F*Micronesia**
+442*Ata*6,00*60,00*TON*TON-OO*9,00*D*Samoan Islands**
+443*Atacama*8,00*85,00*CLN*CLN-AT*18,00**Temperate South America**
+444*Atafu*6,00*60,00*TOK*TOK-TO*9,00*D*Samoan Islands**
+445*Atiu*6,00*61,00*COO*COO-OO*9,00*E*S.E. Polynesia**
+446*Atol das Rocas*8,00*84,00*BZE*BZE-FN*16,00**East Tropical South America**
+447*Auckland I.*5,00*51,00*ATP*ATP-OO*19,00**Antarctica and Subantarctic Islands**
+448*Aunuu*6,00*60,00*SAM*SAM-AS*9,00*D*Samoan Islands**
+449*Austral Is.*6,00*61,00*TUB*TUB-OO*9,00*E*S.E. Polynesia*Tubuai Is.*
+450*Australian Capital Territory*5,00*50,00*NSW*NSW-CT*7,00**Australia**
+451*Avarau*6,00*61,00*COO*COO-OO*9,00*E*S.E. Polynesia**
+452*Aves I.*8,00*81,00*LEE*LEE-AV*15,00**West Indies**[West Indies]
+453*Aves, Islas Las*8,00*81,00*VNA*VNA-OO*17,00**West Tropical South America**[off Venezuela]
+454*Avgo*1,00*13,00*GRC*GRC-OO*1,00**Europe**[off Kithira]
+455*Avgo*1,00*13,00*KRI*KRI-OO*1,00**Europe**[off Kriti]
+456*Ayios Evstratios*1,00*13,00*GRC*GRC-OO*1,00**Europe**
+457*Ayu Is.*4,00*42,00*NWG*NWG-IJ*6,00*E*New Guinea**
+458*Az Zuqur I.*3,00*35,00*YEM*YEM-SY*2,00*A*Orient**
+460*Azerbaydzhan*3,00*33,00*TCS*TCS-AZ*2,00*A*Orient**excluding Nagorno Karabakh and Nakhichevan
+462*Babar Is.*4,00*42,00*LSI*LSI-LS*6,00*C*Malay Islands**
+463*Babase I.*6,00*60,00*SOL*SOL-NO*9,00*A*Melanesia**one of Feni Is.
+464*Babelthaup*6,00*62,00*CRL*CRL-PA*9,00*F*Micronesia**part of Belau Is.
+465*Badu I.*5,00*50,00*QLD*QLD-QU*7,00**Australia**
+466*Baffin I.*7,00*70,00*NWT*NWT-OO*13,00**North America**
+467*Bahawalpur*4,00*40,00*PAK*PAK-OO*5,00**India**
+468*Bahia*8,00*84,00*BZE*BZE-BA*16,00**East Tropical South America**
+469*Bahia Is.*8,00*81,00*SWC*SWC-HC*14,00**Central America**[Honduras]
+470*Bahia Isabel*8,00*83,00*GAL*GAL-OO*17,00**West Tropical South America**
+471*Baiko Dajudia*2,00*29,00*MCI*MCI-OO*11,00**Madagascar and Mascarenes*Bassas da India*
+472*Baja California*7,00*79,00*MXN*MXN-BC*14,00**Central America**
+473*Baja California Sur*7,00*79,00*MXN*MXN-BS*14,00**Central America**
+474*Baja Nuevo*8,00*81,00*SWC*SWC-CC*15,00**West Indies**
+475*Baker I.*6,00*60,00*HBI*HBI-OO*9,00*D*Samoan Islands**
+476*Balabac*4,00*42,00*PHI*PHI-OO*6,00*D*Philippines**
+477*Baleares*1,00*12,00*BAL*BAL-OO*1,00**Europe**I. Province of Spain
+478*Bali*4,00*42,00*LSI*LSI-BA*6,00*C*Malay Islands**
+479*Ball's Pyramid*5,00*50,00*NFK*NFK-LH*7,00**Australia**
+480*Balleny Is.*9,00*91,00*ANT*ANT-OO*19,00**Antarctica and Subantarctic Islands**part of Ross Dependency
+481*Baltic States*1,00*14,00*BLT**1,00**Europe**
+482*Baltistan*4,00*40,00*WHM*WHM-JK*5,00**India**
+483*Baluchistan*4,00*40,00*PAK*PAK-OO*2,00*A*Orient**
+484*Banaba*6,00*60,00*GIL*GIL-OO*9,00*D*Samoan Islands**
+485*Banda Is.*4,00*42,00*MOL*MOL-OO*6,00*C*Malay Islands**
+486*Banggai Is.*4,00*42,00*SUL*SUL-OO*6,00*C*Malay Islands**
+487*Bangka*4,00*42,00*SUM*SUM-OO*6,00*C*Malay Islands**
+488*Banks I.*5,00*50,00*QLD*QLD-QU*7,00**Australia**in Torres Strait
+489*Banks Is.*6,00*60,00*VAN*VAN-OO*9,00*A*Melanesia**
+490*Barat Daya Is.*4,00*42,00*LSI*LSI-LS*6,00*C*Malay Islands**
+491*Barbuda*8,00*81,00*LEE*LEE-AB*15,00**West Indies**
+492*Barotseland*2,00*26,00*ZAM*ZAM-OO*10,00*E*South Tropical Africa**
+493*Barren I.*4,00*41,00*AND*AND-AN*5,00**India**
+494*Bashkiriya*1,00*14,00*RUE*RUE-OO*1,00**Europe**
+495*Bass Islets*6,00*61,00*TUB*TUB-OO*9,00*E*S.E. Polynesia*Marotiri*
+496*Bassas da India*2,00*29,00*MCI*MCI-OO*11,00**Madagascar and Mascarenes**
+497*Basse Terre*8,00*81,00*LEE*LEE-GU*15,00**West Indies**
+498*Basutoland*2,00*27,00*LES*LES-OO*12,00**South Africa*Lesotho*
+499*Batan Is.*4,00*42,00*PHI*PHI-OO*6,00*D*Philippines**
+500*Bathurst I.*5,00*50,00*NTA*NTA-OO*7,00**Australia**
+501*Bawean*4,00*42,00*JAW*JAW-OO*6,00*C*Malay Islands**
+503*Becerro Cays*8,00*81,00*SWC*SWC-HC*14,00**Central America**
+504*Bechuanaland Protectorate*2,00*27,00*BOT*BOT-OO*10,00*E*South Tropical Africa*Botswana*
+505*Bechuanaland, British*2,00*27,00*CPP*CPP-NC*12,00**South Africa**
+506*Beijing*3,00*36,00*CHN*CHN-HB*4,00**Eastern Asia**
+507*Belau Is.*6,00*62,00*CRL*CRL-PA*9,00*F*Micronesia**
+508*Belep I.*6,00*60,00*NWC*NWC-OO*9,00*B*New Caledonia**
+509*Belgian Congo*2,00*23,00*ZAI*ZAI-OO*10,00*B*Cameroons and Congo*Zaire*
+510*Belgique*1,00*11,00*BGM*BGM-BE*1,00**Europe*Belgium*
+511*Belgorod*1,00*14,00*RUC*RUC-OO*1,00**Europe**
+512*Belitung*4,00*42,00*SUM*SUM-OO*6,00*C*Malay Islands**
+513*Bellona*6,00*60,00*SOL*SOL-SO*9,00*A*Melanesia**
+514*Belarus*1,00*14,00*BLR*BLR-OO*1,00**Europe**
+515*Benin Province, Nigeria*2,00*22,00*NGA*NGA-OO*10,00*A*West Tropical Africa*Bendel Province*
+516*Bequia*8,00*81,00*WIN*WIN-SV*15,00**West Indies**part of Grenadines of St.Vincent
+517*Beveridge Reef*6,00*60,00*NUE*NUE-OO*9,00*D*Samoan Islands**
+518*Bhutan-Sikkim*4,00*40,00*EHM**5,00**India*Bhutan and  Sikkim*
+519*Biak*4,00*42,00*NWG*NWG-IJ*6,00*E*New Guinea**
+520*Bihar*4,00*40,00*IND*IND-BI*5,00**India**
+521*Bikini*6,00*62,00*MRS*MRS-OO*9,00*F*Micronesia**part of Ralik I. chain
+522*Bimini Is.*8,00*81,00*BAH*BAH-OO*15,00**West Indies**
+523*Biobío*8,00*85,00*CLS*CLC-BI*18,00**Temperate South America**
+524*Bird I.*2,00*29,00*SEY*SEY-OO*11,00**Madagascar and Mascarenes**[Indian Ocean]
+525*Bird I.*8,00*81,00*LEE*LEE-AV*15,00**West Indies**[West Indies]
+526*Bird I.*8,00*81,00*VNA*VNA-OO*17,00**West Tropical South America*Islas Las Aves*[off Venezuela]
+527*Birnie I.*6,00*60,00*PHX*PHX-OO*9,00*D*Samoan Islands**
+528*Bishop and Clerk Is.*9,00*90,00*MAQ*MAQ-OO*19,00**Antarctica and Subantarctic Islands**
+529*Bismark Archipelago*4,00*42,00*BIS*BIS-OO*6,00*E*New Guinea**
+530*Bjørnøya*1,00*10,00*SVA*SVA-OO*1,00**Europe**
+531*Blanquilla Is.*8,00*81,00*VNA*VNA-OO*17,00**West Tropical South America**
+532*Bohol*4,00*42,00*PHI*PHI-OO*6,00*D*Philippines**
+533*Boigu I.*5,00*50,00*QLD*QLD-QU*7,00**Australia**
+534*Bombom I.*2,00*23,00*GGI*GGI-PR*10,00*B*Cameroons and Congo**
+535*Bone de Joquei*2,00*23,00*GGI*GGI-PR*10,00*B*Cameroons and Congo*Caroco Is.*
+536*Bonerate Is.*4,00*42,00*SUL*SUL-OO*6,00*C*Malay Islands**
+538*Bora-Bora*6,00*61,00*SCI*SCI-OO*9,00*E*S.E. Polynesia**one of Iles sous le Vent
+540*Bornholm*1,00*10,00*DEN*DEN-OO*1,00**Europe**
+541*Borodino Is.*3,00*38,00*NNS*NNS-OO*4,00**Eastern Asia*Daito Is.*
+542*Bosna*1,00*13,00*YUG*YUG-BH*1,00**Europe*Bosnia*
+543*Bounty I.*5,00*51,00*ATP*ATP-OO*19,00**Antarctica and Subantarctic Islands**
+544*Bouvet I.*9,00*90,00*BOU*BOU-OO*19,00**Antarctica and Subantarctic Islands**
+545*Bozca*3,00*34,00*TUR*TUR-OO*2,00*A*Orient*Bozcaada*
+546*Bozcaada*3,00*34,00*TUR*TUR-OO*2,00*A*Orient**
+547*Brazil North*8,00*84,00*BZN**16,00**East Tropical South America**
+548*Brazil Northeast*8,00*84,00*BZE**16,00**East Tropical South America**
+549*Brazil South*8,00*84,00*BZS**16,00**East Tropical South America**
+550*Brazil Southeast*8,00*84,00*BZL**16,00**East Tropical South America**
+551*Brazil West-Central*8,00*84,00*BZC**16,00**East Tropical South America**
+552*Brazilia Distrito Federal*8,00*84,00*BZC*BZC-DF*16,00**East Tropical South America**
+553*Bristow I.*4,00*42,00*NWG*NWG-PN*6,00*E*New Guinea**
+555*British Cameroons North*2,00*22,00*NGA*NGA-OO*10,00*A*West Tropical Africa**
+556*British Cameroons South*2,00*23,00*CMN*CMN-OO*10,00*B*Cameroons and Congo**
+557*British Columbia*7,00*71,00*BRC*BRC-OO*13,00**North America**
+558*British Guiana*8,00*82,00*GUY*GUY-OO*16,00**East Tropical South America*Guyana*
+559*British Honduras*8,00*80,00*BLZ*BLZ-OO*14,00**Central America*Belize*
+560*British Isles*1,00*10,00***1,00**Europe*Great Britain and Ireland*
+561*British Somaliland*2,00*24,00*SOM*SOM-OO*10,00*C*North East Tropical Africa**
+562*British Virgin Is.*8,00*81,00*LEE*LEE-BV*15,00**West Indies**
+563*Brunei Darussalem*4,00*42,00*BOR*BOR-BR*6,00*C*Malay Islands*Brunei*
+564*Bryansk*1,00*14,00*RUC*RUC-OO*1,00**Europe**
+565*Buenos Aires*8,00*85,00*AGE*AGE-BA*18,00**Temperate South America**
+566*Bughotu*6,00*60,00*SOL*SOL-SO*9,00*A*Melanesia*Santa Isabel*
+567*Bugio*2,00*21,00*MDR*MDR-OO*2,00*C*Atlantic Islands**
+568*Buka*6,00*60,00*SOL*SOL-NO*9,00*A*Melanesia**
+569*Bunguran Is.*4,00*42,00*BOR*BOR-KA*6,00*C*Malay Islands**
+570*Bunguran Selatan Is.*4,00*42,00*BOR*BOR-KA*6,00*C*Malay Islands**
+571*Burkina Faso*2,00*22,00*BKN*BKN-OO*10,00*A*West Tropical Africa*Burkina*
+572*Buru*4,00*42,00*MOL*MOL-OO*6,00*C*Malay Islands**
+573*Buryatiya*3,00*30,00*BRY*BRY-OO*3,00**Northern Asia**
+574*Buryatskaya A.S.S.R.*3,00*30,00*BRY*BRY-OO*3,00**Northern Asia*Buryatiya*
+575*Byelorussiya*1,00*14,00*BLR*BLR-OO*1,00**Europe**
+576*Cabinda*2,00*23,00*CAB*CAB-OO*10,00*B*Cameroons and Congo**
+577*Cabo Verde, Ilhas do*2,00*21,00*CVI*CVI-OO*10,00*A*West Tropical Africa*Cape Verde*
+578*Cabras Is.*2,00*23,00*GGI*GGI-ST*10,00*B*Cameroons and Congo**
+579*Cabrera*1,00*12,00*BAL*BAL-OO*1,00**Europe**
+580*Cagayan Is.*4,00*42,00*PHI*PHI-OO*6,00*D*Philippines**
+581*Caicos Is.*8,00*81,00*TCI*TCI-OO*15,00**West Indies**
+582*Cajones Cays*8,00*81,00*SWC*SWC-HC*14,00**Central America**
+583*Calamian Is.*4,00*42,00*PHI*PHI-OO*6,00*D*Philippines**
+584*California*7,00*76,00*CAL*CAL-OO*13,00**North America**
+585*Cambodge*4,00*41,00*CBD*CBD-OO*6,00*B*Indo-China**
+586*Cameroon*2,00*23,00*CMN*CMN-OO*10,00*B*Cameroons and Congo**
+587*Cameroun*2,00*23,00*CMN*CMN-OO*10,00*B*Cameroons and Congo*Cameroon*
+588*Campbell I.*5,00*51,00*ATP*ATP-OO*19,00**Antarctica and Subantarctic Islands**
+589*Campeche*7,00*79,00*MXT*MXT-CA*14,00**Central America**
+590*Canada*7,00****13,00**North America*Regions 70 Subarctic America, 71 Western Canada and 72 Eastern Canada*excluding St.Pierre-Miquelon
+591*Canary Is.*2,00*21,00*CNY*CNY-OO*2,00*C*Atlantic Islands**I. Province of Spain
+592*Canouan*8,00*81,00*WIN*WIN-SV*15,00**West Indies**part of Grenadines of St.Vincent
+593*Canton*3,00*36,00*CHS*CHS-GD*4,00**Eastern Asia*Guangzhou*
+594*Canton I.*6,00*60,00*PHX*PHX-OO*9,00*D*Samoan Islands*Kanton I.*
+595*Cape Province*2,00*27,00*CPP**12,00**South Africa**
+596*Cape Verde*2,00*21,00*CVI*CVI-OO*10,00*A*West Tropical Africa**
+597*Caprivi Strip*2,00*27,00*CPV*CPV-OO*12,00**South Africa**
+598*Caratasca Cays*8,00*81,00*SWC*SWC-HC*14,00**Central America**
+599*Cargados Carajos*2,00*29,00*MAU*MAU-OO*11,00**Madagascar and Mascarenes**
+600*Caroco Is.*2,00*23,00*GGI*GGI-PR*10,00*B*Cameroons and Congo**
+601*Caroline I.*6,00*61,00*LIN*LIN-KI*9,00*E*S.E. Polynesia**[Central Pacific]
+602*Caroline Is.*6,00*62,00*CRL**9,00*F*Micronesia**part of Trust Territory of Pacific Is. (United Nations Trust Territory administered by U.S.A.)
+603*Carpathos*1,00*13,00*KRI*KRI-OO*1,00**Europe*Karpathos*
+604*Carriacao*8,00*81,00*WIN*WIN-GR*15,00**West Indies**one of Grenadines of Grenada
+605*Cartier Is.*5,00*50,00*WAU*WAU-AC*7,00**Australia**
+606*Cat I.*8,00*81,00*BAH*BAH-OO*15,00**West Indies**
+607*Catamarca*8,00*85,00*AGW*AGW-CA*18,00**Temperate South America**
+608*Cato*5,00*50,00*QLD*QLD-CS*7,00**Australia**
+609*Caucasus*3,00*33,00***2,00*A*Orient*Region 33 Caucasus*
+610*Caucasus, North*3,00*33,00*NCS**2,00*A*Orient**
+611*Cay Sal Bank*8,00*81,00*BAH*BAH-OO*15,00**West Indies**
+612*Cayenne*8,00*82,00*FRG*FRG-OO*16,00**East Tropical South America**
+613*Cayman Brac*8,00*81,00*CAY*CAY-OO*15,00**West Indies**
+614*Cayman Is.*8,00*81,00*CAY*CAY-OO*15,00**West Indies**U.K. Dependent Territory
+615*Ceará*8,00*84,00*BZE*BZE-CE*16,00**East Tropical South America**
+616*Cebu*4,00*42,00*PHI*PHI-OO*6,00*D*Philippines**
+617*Cedros I.*7,00*79,00*MXN*MXN-BC*14,00**Central America**
+618*Celebes*4,00*42,00*SUL*SUL-OO*6,00*C*Malay Islands*Sulawesi*
+619*Central African Empire*2,00*23,00*CAF*CAF-OO*10,00*B*Cameroons and Congo*Central African Republic*
+620*Central African Republic*2,00*23,00*CAF*CAF-OO*10,00*B*Cameroons and Congo**
+621*Central American Pacific Is.*8,00*80,00*CPI******split between areas 14 Central America and 17 West Tropical South America of Kew system
+622*Cephalonia*1,00*13,00*GRC*GRC-OO*1,00**Europe*Kefallinia*
+623*Ceram*4,00*42,00*MOL*MOL-OO*6,00*C*Malay Islands*Seram*
+624*Ceuta*2,00*20,00*MOR*MOR-SP*2,00*B*North Africa**
+625*Ceylon*4,00*40,00*SRL*SRL-OO*5,00**India*Sri Lanka*
+626*Chaco*8,00*85,00*AGE*AGE-CH*18,00**Temperate South America**
+627*Chad*2,00*24,00*CHA*CHA-OO*10,00*B*Cameroons and Congo**
+628*Chagos Archipelago*4,00*40,00*CGS*CGS-OO*11,00**Madagascar and Mascarenes**
+629*Chandigarh*4,00*40,00*IND*IND-CH*5,00**India**
+630*Channel Is.*1,00*12,00*FRA*FRA-CI*1,00**Europe**British Crown Dependencies
+631*Channel Is.*7,00*76,00*CAL*CAL-OO*13,00**North America**[off California]
+632*Charcot I.*9,00*91,00*ANT*ANT-OO*19,00**Antarctica and Subantarctic Islands**part of British Antactic Territory
+633*Chari*2,00*23,00*CAF*CAF-OO*10,00*B*Cameroons and Congo**
+634*Chatham Is.*5,00*51,00*CTM*CTM-OO*8,00**New Zealand**
+635*Checheno-Ingushetiya*3,00*33,00*NCS**2,00*A*Orient*See Chechnya and Ingushetiya*
+636*Cheju Do*3,00*38,00*KOR*KOR-SK*4,00**Eastern Asia**
+637*Chekiang*3,00*36,00*CHS*CHS-ZJ*4,00**Eastern Asia*Zhejiang*
+638*Chelyabinsk*3,00*30,00*WSB*WSB-OO*3,00**Northern Asia**
+639*Cherry I.*6,00*60,00*SCZ*SCZ-OO*9,00*A*Melanesia**
+640*Chesterfield Is.*6,00*60,00*NWC*NWC-OO*9,00*B*New Caledonia**
+641*Chiapas*7,00*79,00*MXT*MXT-CI*14,00**Central America**
+642*Chichijima*3,00*38,00*OGA*OGA-OO*4,00**Eastern Asia**
+643*Chihuahua*7,00*79,00*MXE*MXE-CU*14,00**Central America**
+644*Chilcott I.*5,00*50,00*QLD*QLD-CS*7,00**Australia**one of Coringa Is.
+645*Chile North*8,00*85,00*CLN**18,00**Temperate South America**
+646*Chile South*8,00*85,00*CLS**18,00**Temperate South America**
+647*China*3,00*36,00***4,00**Eastern Asia*Region 36 China*
+648*China North-central*3,00*36,00*CHN**4,00**Eastern Asia**
+649*China South-central*3,00*36,00*CHC**4,00**Eastern Asia**
+650*China South-east*3,00*36,00*CHS**4,00**Eastern Asia**
+651*Chios*3,00*34,00*EAI*EAI-OO*2,00*A*Orient*Khios*
+652*Chita*3,00*30,00*CTA*CTA-OO*3,00**Northern Asia**
+653*Chitinskaya Oblast*3,00*30,00*CTA*CTA-OO*3,00**Northern Asia*Chita*
+654*Chitral*4,00*40,00*PAK*PAK-OO*5,00**India**
+655*Chittagong*4,00*40,00*BAN*BAN-OO*5,00**India**
+656*Choiseul*6,00*60,00*SOL*SOL-SO*9,00*A*Melanesia**
+657*Chongqing*3,00*36,00*CHC*CHC-SC*4,00**Eastern Asia**
+658*Christmas I.*4,00*42,00*XMS*XMS-OO*6,00*C*Malay Islands**[Indian Ocean] External Territory of Australia
+659*Christmas I.*6,00*61,00*LIN*LIN-KI*9,00*E*S.E. Polynesia**[Pacific Ocean]
+660*Chubut*8,00*85,00*AGS*AGS-CB*18,00**Temperate South America**
+661*Chukota*3,00*31,00*MAG*MAG-OO*3,00**Northern Asia**
+662*Chungking*3,00*36,00*CHC*CHC-SC*4,00**Eastern Asia*Chongqing*
+663*Chuvashiya*1,00*14,00*RUC*RUC-OO*1,00**Europe**
+664*Ciskei*2,00*27,00*CPP*CPP-EC*12,00**South Africa**
+665*Città del Vaticano*1,00*13,00*ITA*ITA-VC*1,00**Europe*Vatican City*
+666*Clarence I.*9,00*91,00*ANT*ANT-OO*19,00**Antarctica and Subantarctic Islands**one of South Shetland Is., a part of British Antarctic Territory
+667*Clipperton I.*8,00*80,00*CPI*CPI-CL*14,00**Central America**
+668*Coahuila*7,00*79,00*MXE*MXE-CO*14,00**Central America**
+669*Coats I.*7,00*70,00*NUN*NUN-OO*13,00**North America**
+670*Coche I.*8,00*81,00*VNA*VNA-OO*17,00**West Tropical South America**
+671*Cochin Chine*4,00*41,00*VIE*VIE-OO*6,00*B*Indo-China**
+672*Cochinchina*4,00*41,00*VIE*VIE-OO*6,00*B*Indo-China*Cochin Chine*
+673*Cochons, Isle aux*9,00*90,00*CRZ*CRZ-OO*19,00**Antarctica and Subantarctic Islands**
+674*Coco I., Great*4,00*41,00*AND*AND-CO*5,00**India**
+675*Coco Is.*4,00*41,00*AND*AND-CO*5,00**India**
+676*Cocos (Keeling) Is.*4,00*42,00*CKI*CKI-OO*6,00*C*Malay Islands**External Territory of Australia
+677*Cocos I.*8,00*80,00*CPI*CPI-CO*17,00**West Tropical South America**[Pacific Ocean]
+678*Cöetivy*2,00*29,00*ALD*ALD-OO*11,00**Madagascar and Mascarenes**
+679*Colima*7,00*79,00*MXS*MXS-CL*14,00**Central America**
+680*Colombia*8,00*83,00*CLM*CLM-OO*17,00**West Tropical South America**
+681*Colombian Caribbean Is.*8,00*81,00*SWC*SWC-CC*****split between areas 14 Central America and 15 West Indies of Kew system
+682*Colón I.*8,00*80,00*PAN*PAN-OO*17,00**West Tropical South America**
+683*Colón Archipelago*8,00*83,00*GAL*GAL-OO*17,00**West Tropical South America**
+684*Colorado*7,00*73,00*COL*COL-OO*13,00**North America**
+685*Comandor Is.*3,00*31,00*KAM*KAM-OO*3,00**Northern Asia*Komandor Is.*
+686*Comoros*2,00*29,00*COM**11,00**Madagascar and Mascarenes**including Mayotte
+687*Comoros*2,00*29,00*COM*COM-CO*11,00**Madagascar and Mascarenes**
+688*Con Son*4,00*41,00*VIE*VIE-OO*6,00*B*Indo-China**
+689*Condore Is.*4,00*41,00*VIE*VIE-OO*6,00*B*Indo-China**part of Con Son
+690*Congo*2,00*23,00*CON*CON-OO*10,00*B*Cameroons and Congo**
+691*Congo-Brazzaville*2,00*23,00*CON*CON-OO*10,00*B*Cameroons and Congo*Congo*
+692*Congo-Kinshasa*2,00*23,00*ZAI*ZAI-OO*10,00*B*Cameroons and Congo*Zaire*
+693*Connecticut*7,00*75,00*CNT*CNT-OO*13,00**North America**
+694*Cooch Behar*4,00*40,00*IND*IND-WB*5,00**India*Koch Bihar*
+695*Cook Is.*6,00*61,00*COO*COO-OO*9,00*E*S.E. Polynesia**excluding Manihiki Is.; self-governing Territory Overseas in Free Association with New Zealand
+696*Coquimbo*8,00*85,00*CLN*CLC-CO*18,00**Temperate South America**
+697*Coral Sea Is. Territory*5,00*50,00*QLD*QLD-CS*7,00**Australia**External Territory of Australia
+698*Córdoba*8,00*85,00*AGE*AGE-CO*18,00**Temperate South America**
+699*Corea*3,00*38,00*KOR**4,00**Eastern Asia*Korea*
+700*Corfu*1,00*13,00*GRC*GRC-OO*1,00**Europe*Kerkira*
+701*Coringa Is.*5,00*50,00*QLD*QLD-CS*7,00**Australia**
+702*Corisco I.*2,00*23,00*EQG*EQG-OO*10,00*B*Cameroons and Congo**
+703*Corn Is.*8,00*81,00*SWC*SWC-NC*14,00**Central America*Maiz Is.*
+704*Coronation I.*9,00*91,00*ANT*ANT-OO*19,00**Antarctica and Subantarctic Islands**one of South Orkney Is.
+705*Corrientes*8,00*85,00*AGE*AGE-CN*18,00**Temperate South America**
+706*Corse*1,00*12,00*COR*COR-OO*1,00**Europe**I. Region of France
+707*Corsica*1,00*12,00*COR*COR-OO*1,00**Europe*Corse*
+708*Corvo*2,00*21,00*AZO*AZO-OO*2,00*C*Atlantic Islands**
+709*Cos*3,00*34,00*EAI*EAI-OO*2,00*A*Orient*Kos*one of Dhodekanisos
+710*Cosmoledo*2,00*29,00*ALD*ALD-OO*11,00**Madagascar and Mascarenes**
+711*Costa Rica*8,00*80,00*COS*COS-OO*14,00**Central America**
+712*Cote d'Ivoire*2,00*22,00*IVO*IVO-OO*10,00*A*West Tropical Africa*Ivory Coast*
+713*Courtown Cays*8,00*81,00*SWC*SWC-CC*14,00**Central America*Cayos del E.S.E.*
+714*Cozumel I.*7,00*79,00*MXT*MXT-QR*14,00**Central America**
+715*Crab I.*8,00*81,00*PUE*PUE-OO*15,00**West Indies**
+716*Crete*1,00*13,00*KRI*KRI-OO*1,00**Europe*Kriti*I. Province of Greece
+717*Crimea*1,00*14,00*KRY*KRY-OO*1,00**Europe*Krym*
+718*Crna Gora*1,00*13,00*YUG*YUG-MN*1,00**Europe*Montenegro*
+719*Croatia*1,00*13,00*YUG*YUG-CR*1,00**Europe**
+720*Crooked I.*8,00*81,00*BAH*BAH-OO*15,00**West Indies**
+721*Crozet Is.*9,00*90,00*CRZ*CRZ-OO*19,00**Antarctica and Subantarctic Islands**
+722*Cuba*8,00*81,00*CUB*CUB-OO*15,00**West Indies**
+723*Cubagua*8,00*81,00*VNA*VNA-OO*17,00**West Tropical South America**
+724*Culebra I.*8,00*81,00*PUE*PUE-OO*15,00**West Indies**
+725*Culpepper I.*8,00*83,00*GAL*GAL-OO*17,00**West Tropical South America**
+726*Curaçao*8,00*81,00*NLA*NLA-CU*15,00**West Indies**self-governing I. of Netherlands Antilles
+727*Curtis I.*5,00*51,00*KER*KER-OO*8,00**New Zealand**
+728*Cyclades*1,00*13,00*GRC*GRC-OO*1,00**Europe*Kikladhes*
+729*Cyprus*3,00*34,00*CYP*CYP-OO*2,00*A*Orient**
+730*Czechoslovakia*1,00*11,00*CZE**1,00**Europe**
+731*D'Arros I.*2,00*29,00*ALD*ALD-OO*11,00**Madagascar and Mascarenes**one of Amirante group
+732*D'Entrecastaux Is.*4,00*42,00*NWG*NWG-PN*6,00*E*New Guinea**
+733*Dadra*4,00*40,00*IND*IND-DD*5,00**India**
+734*Dadra-Nagar-Haveli*4,00*40,00*IND*IND-DD*5,00**India**
+735*Dagestan*3,00*33,00*NCS*NCS-DA*2,00*A*Orient**
+736*Daghestan*3,00*33,00*NCS*NCS-DA*2,00*A*Orient*Dagestan*
+737*Dahlak Is.*2,00*24,00*ERI*ERI-OO*10,00*C*North East Tropical Africa**
+738*Dahomey*2,00*22,00*BEN*BEN-OO*10,00*A*West Tropical Africa*Benin*
+739*Daito Is.*3,00*38,00*NNS*NNS-OO*4,00**Eastern Asia**
+740*Daman*4,00*40,00*IND*IND-DM*5,00**India**
+741*Danger I.*6,00*60,00*TOK*TOK-MA*9,00*E*S.E. Polynesia*Pukapuka*
+742*Danmark*1,00*10,00*DEN*DEN-OO*1,00**Europe*Denmark*
+743*Darjeeling*4,00*40,00*IND*EHM-DJ*5,00**India*Darjiling*
+744*Darjiling*4,00*40,00*IND*EHM-DJ*5,00**India**
+745*Darsa I.*2,00*24,00*SOC*SOC-OO*10,00*C*North East Tropical Africa**
+746*Daru I.*4,00*42,00*NWG*NWG-PN*6,00*E*New Guinea**
+747*Dauan I.*5,00*50,00*QLD*QLD-QU*7,00**Australia**
+748*Delaware*7,00*78,00*DEL*DEL-OO*13,00**North America**
+749*Delhi*4,00*40,00*IND*IND-DE*5,00**India**
+750*Delos*1,00*13,00*GRC*GRC-OO*1,00**Europe*Dhilos*one of Kikladhes
+751*Denis I.*2,00*29,00*SEY*SEY-OO*11,00**Madagascar and Mascarenes**
+752*Denmark*1,00*10,00*DEN*DEN-OO*1,00**Europe**excluding Foroyar and Greenland
+753*Deserta Grande*2,00*21,00*MDR*MDR-OO*2,00*C*Atlantic Islands**
+754*Desirade, La*8,00*81,00*LEE*LEE-GU*15,00**West Indies**
+755*Desroches I.*2,00*29,00*ALD*ALD-OO*11,00**Madagascar and Mascarenes**part of Amirante group
+756*Desventurados Is.*8,00*85,00*DSV*DSV-OO*18,00**Temperate South America**
+757*Dhilos*1,00*13,00*GRC*GRC-OO*1,00**Europe**one of Kikladhes
+758*Dhodekanisos*3,00*34,00*EAI*EAI-OO*2,00*A*Orient**
+759*Dhofar*3,00*35,00*OMA*OMA-OO*2,00*A*Orient*Zufar*
+760*Dia*1,00*13,00*KRI*KRI-OO*1,00**Europe**
+761*Diamond Islets*5,00*50,00*QLD*QLD-CS*7,00**Australia**
+762*Diego Garcia*4,00*40,00*CGS*CGS-OO*11,00**Madagascar and Mascarenes**
+763*Disappearing I.*6,00*63,00*HAW*HAW-HI*9,00*G*Hawai'ian Islands**
+764*Disappointment Is.*6,00*61,00*TUA*TUA-OO*9,00*E*S.E. Polynesia**
+765*District of Columbia*7,00*78,00*WDC*WDC-OO*13,00**North America**
+766*Diu*4,00*40,00*IND*IND-DI*5,00**India**
+767*Djibouti*2,00*24,00*DJI*DJI-OO*10,00*C*North East Tropical Africa**
+768*Dog I.*8,00*81,00*LEE*LEE-AG*15,00**West Indies**
+769*Dolgano-Nenets*3,00*30,00*KRA*KRA-OO*3,00**Northern Asia*Taymyr*
+770*Dominica*8,00*81,00*WIN*WIN-DO*15,00**West Indies**
+771*Dominican Republic*8,00*81,00*DOM*DOM-OO*15,00**West Indies**
+772*Dongsha Qundao*3,00*36,00*CHS*CHS-GD*4,00**Eastern Asia**
+773*Dronning Maud Land*9,00*91,00*ANT*ANT-OO*19,00**Antarctica and Subantarctic Islands*Norwegian Antarctic Territory*
+774*Dubai*3,00*35,00*GST*GST-UA*2,00*A*Orient*Dubavy*
+775*Dubayy*3,00*35,00*GST*GST-UA*2,00*A*Orient**
+776*Ducie I.*6,00*61,00*PIT*PIT-OO*9,00*E*S.E. Polynesia**
+777*Duff Is.*6,00*60,00*SCZ*SCZ-OO*9,00*A*Melanesia**
+778*Duke of Gloucester Is.*6,00*61,00*TUA*TUA-OO*9,00*E*S.E. Polynesia**
+779*Duke of York Is.*4,00*42,00*BIS*BIS-OO*6,00*E*New Guinea**off New Britain
+780*Durango*7,00*79,00*MXE*MXE-DU*14,00**Central America**
+781*Dutch Antilles*8,00*81,00*NLA**15,00**West Indies*Netherlands Antilles*
+782*Dutch Guiana*8,00*82,00*SUR*SUR-OO*16,00**East Tropical South America*Surinam*
+783*Dzungaria*3,00*36,00*CHX*CHX-OO*4,00**Eastern Asia**
+784*E.S.E., Cayos del*8,00*81,00*SWC*SWC-CC*14,00**Central America**
+785*Eaglestone Reef*6,00*60,00*WAL*WAL-OO*9,00*D*Samoan Islands**
+786*East Aegean Is.*3,00*34,00*EAI*EAI-OO*2,00*A*Orient**
+787*East Germany*1,00*11,00*GER*GER-OO*1,00**Europe**
+788*East Pakistan*4,00*40,00*BAN*BAN-OO*5,00**India*Bangladesh*
+789*East Timor*4,00*42,00*LSI*LSI-ET*6,00*C*Malay Islands**
+790*Easter I.*6,00*61,00*EAS*EAS-OO*9,00*E*S.E. Polynesia**
+791*Easter Is.*6,00*61,00*EAS*EAS-OO*9,00*E*S.E. Polynesia**
+792*Eastern I.*6,00*63,00*HAW*HAW-MI*9,00*G*Hawai'ian Islands**
+793*Ecuador*8,00*83,00*ECU*ECU-OO*17,00**West Tropical South America**excluding Galapagos
+794*Efate*6,00*60,00*VAN*VAN-OO*9,00*A*Melanesia**
+795*Egadi Is.*1,00*13,00*SIC*SIC-SI*1,00**Europe**
+796*Egypt*2,00*20,00*EGY*EGY-OO*2,00*A*Orient**excluding Sinai
+797*Eiao*6,00*61,00*MRQ*MRQ-OO*9,00*E*S.E. Polynesia**
+798*Eire*1,00*10,00*IRE*IRE-IR*1,00**Europe*Ireland*
+799*El Salvador*8,00*80,00*ELS*ELS-OO*14,00**Central America**
+800*Elba*1,00*13,00*ITA*ITA-IT*1,00**Europe**
+801*Elephant I.*9,00*91,00*ANT*ANT-OO*19,00**Antarctica and Subantarctic Islands**one of South Shetland Is., part of British Antarctic Territory
+802*Eleuthera*8,00*81,00*BAH*BAH-OO*15,00**West Indies**
+803*Elizabeth Reef*5,00*50,00*NFK*NFK-LH*7,00**Australia**
+804*Ellesmere I.*7,00*70,00*NWT*NWT-OO*13,00**North America**
+805*Ellice Is.*6,00*60,00*TUV*TUV-OO*9,00*D*Samoan Islands*Tuvalu*
+806*Ellsworth I.*9,00*91,00*ANT*ANT-OO*19,00**Antarctica and Subantarctic Islands**
+807*Elobey Grande*2,00*23,00*EQG*EQG-OO*10,00*B*Cameroons and Congo**
+808*Emae*6,00*60,00*VAN*VAN-OO*9,00*A*Melanesia**
+809*Enderbury I.*6,00*60,00*PHX*PHX-OO*9,00*D*Samoan Islands**
+810*Enderby Land*9,00*91,00*ANT*ANT-OO*19,00**Antarctica and Subantarctic Islands**part of Australian Antarctic Territory
+811*Enewetak*6,00*62,00*MRS*MRS-OO*9,00*F*Micronesia**part of Ralik chain
+812*Enggano*4,00*42,00*SUM*SUM-OO*6,00*C*Malay Islands**
+813*England*1,00*10,00*GRB*GRB-OO*1,00**Europe**
+814*Eniwetok*6,00*62,00*MRS*MRS-OO*9,00*F*Micronesia*Enewetak*part of Ralik chain
+815*Entre Ríos*8,00*85,00*AGE*AGE-ER*18,00**Temperate South America**
+816*Epi*6,00*60,00*VAN*VAN-OO*9,00*A*Melanesia*Lopevi*
+817*Equatorial Guinea*2,00*23,00*EQG*EQG-OO*10,00*B*Cameroons and Congo**excluding Annobon and Pagalu
+818*Eritraea*2,00*24,00*ERI*ERI-OO*10,00*C*North East Tropical Africa*Eritrea*
+819*Eromanga*6,00*60,00*VAN*VAN-OO*9,00*A*Melanesia*Erromango*
+820*Erromango*6,00*60,00*VAN*VAN-OO*9,00*A*Melanesia**
+821*Erta*2,00*24,00*ERI*ERI-OO*10,00*C*North East Tropical Africa*Eritraea*
+822*Espanola I.*8,00*83,00*GAL*GAL-OO*17,00**West Tropical South America**
+823*Espírito Santo*8,00*84,00*BZL*BZL-ES*16,00**East Tropical South America**
+824*Espiritu Santo*6,00*60,00*VAN*VAN-OO*9,00*A*Melanesia**
+825*Estonia*1,00*14,00*BLT*BLT-ES*1,00**Europe**
+826*Estoniya*1,00*14,00*BLT*BLT-ES*1,00**Europe*Estonia*
+827*Ethiopia*2,00*24,00*ETH*ETH-OO*10,00*C*North East Tropical Africa**
+828*Eua*6,00*60,00*TON*TON-OO*9,00*D*Samoan Islands**
+829*Euboea*1,00*13,00*GRC*GRC-OO*1,00**Europe*Evvoia*
+830*Europa I.*2,00*29,00*MCI*MCI-OO*11,00**Madagascar and Mascarenes**
+831*Evenki*3,00*30,00*KRA*KRA-OO*3,00**Northern Asia**
+832*Evvoia*1,00*13,00*GRC*GRC-OO*1,00**Europe**
+833*Faeroe Is.*1,00*10,00*FOR*FOR-OO*1,00**Europe*Foroyar*self-governing I. Territory of Denmark
+834*Faeroerne*1,00*10,00*FOR*FOR-OO*1,00**Europe*Foroyar*
+835*Faial*2,00*21,00*AZO*AZO-OO*2,00*C*Atlantic Islands**
+836*Fais*6,00*62,00*CRL*CRL-MF*9,00*F*Micronesia**
+837*Fakaofo*6,00*60,00*TOK*TOK-TO*9,00*D*Samoan Islands**
+838*Fakarava*6,00*61,00*TUA*TUA-OO*9,00*E*S.E. Polynesia**
+839*Falkland Is.*9,00*90,00*FAL*FAL-OO*18,00**Temperate South America**excluding South Georgia and South Sandwich Is.; U.K. Crown Colony
+840*Fangatau*6,00*61,00*TUA*TUA-OO*9,00*E*S.E. Polynesia**
+841*Fangataufa*6,00*61,00*TUA*TUA-OO*9,00*E*S.E. Polynesia*Fangatau*
+842*Fanning I.*6,00*61,00*LIN*LIN-KI*9,00*E*S.E. Polynesia*Tabuaeran*
+843*Farallon de Medinilla*6,00*62,00*MRN*MRN-NM*9,00*F*Micronesia**
+844*Farasan Is.*3,00*35,00*SAU*SAU-OO*2,00*A*Orient**
+845*Faraulep*6,00*62,00*CRL*CRL-MF*9,00*F*Micronesia**
+846*Farquhar I.*2,00*29,00*ALD*ALD-OO*11,00**Madagascar and Mascarenes**part of Providence group
+847*Fatu Hiva*6,00*61,00*MRQ*MRQ-OO*9,00*E*S.E. Polynesia**
+848*Fauro*6,00*60,00*SOL*SOL-SO*9,00*A*Melanesia**one of Shortland Is.
+849*Fayal*2,00*21,00*AZO*AZO-OO*2,00*C*Atlantic Islands*Faial*
+850*Feni Is.*6,00*60,00*SOL*SOL-NO*9,00*A*Melanesia**
+851*Fernando de Noronha*8,00*84,00*BZE*BZE-FN*16,00**East Tropical South America**
+852*Fernando Po*2,00*23,00*GGI*GGI-BI*10,00*B*Cameroons and Congo*Bioko*
+853*Fiji*6,00*60,00*FIJ*FIJ-OO*9,00*C*Fiji Islands**
+854*Finland*1,00*10,00*FIN*FIN-OO*1,00**Europe**
+855*Flat I.*2,00*29,00*MAU*MAU-OO*11,00**Madagascar and Mascarenes**
+856*Flint I.*6,00*61,00*LIN*LIN-KI*9,00*E*S.E. Polynesia**
+857*Flores*2,00*21,00*AZO*AZO-OO*2,00*C*Atlantic Islands**[Azores]
+858*Flores*4,00*42,00*LSI*LSI-LS*6,00*C*Malay Islands**[Indonesia]
+859*Florida*7,00*78,00*FLA*FLA-OO*13,00**North America**
+860*Florida Is.*6,00*60,00*SOL*SOL-SO*9,00*A*Melanesia**
+861*Formentera*1,00*12,00*BAL*BAL-OO*1,00**Europe**
+862*Formosa*8,00*85,00*AGE*AGE-FO*18,00**Temperate South America**[Argentina]
+863*Formosa*3,00*38,00*TAI*TAI-OO*4,00**Eastern Asia**[Asia]
+864*Føroyar*1,00*10,00*FOR*FOR-OO*1,00**Europe**self-governing I. Territory of Denmark
+865*Fotuna*6,00*60,00*WAL*WAL-OO*9,00*D*Samoan Islands*Futuna*
+866*France*1,00*12,00*FRA*FRA-FR*1,00**Europe**excluding Corse
+867*France*1,00*12,00*FRA**1,00**Europe**including Channel Is.
+868*Franklin*7,00*70,00*NWT*NWT-OO*13,00**North America**
+869*Franz Josef Land*3,00*30,00*WSB*WSB-OO*3,00**Northern Asia*Zemlya Frantsa-Iosifa*
+870*French Cameroons*2,00*23,00*CMN*CMN-OO*10,00*B*Cameroons and Congo**
+871*French Congo*2,00*23,00*CON*CON-OO*10,00*B*Cameroons and Congo*Congo*
+872*French Guiana*8,00*82,00*FRG*FRG-OO*16,00**East Tropical South America**
+873*French Guinea*2,00*22,00*GUI*GUI-OO*10,00*A*West Tropical Africa*Guinea*
+874*French Morocco*2,00*20,00*MOR*MOR-MO*2,00*B*North Africa**
+875*French Somaliland*2,00*24,00*DJI*DJI-OO*10,00*C*North East Tropical Africa*Djibouti*
+876*Friendly Is.*6,00*60,00*TON*TON-OO*9,00*D*Samoan Islands*Tonga*
+877*Frigate I.*2,00*29,00*SEY*SEY-OO*11,00**Madagascar and Mascarenes**
+878*Fuerteventura*2,00*21,00*CNY*CNY-OO*2,00*C*Atlantic Islands**
+879*Fujairah*3,00*35,00*GST*GST-UA*2,00*A*Orient*Al Fajayrah*
+880*Fujeira*3,00*35,00*GST*GST-UA*2,00*A*Orient*Al Fajayrah*
+881*Fujian*3,00*36,00*CHS*CHS-FJ*4,00**Eastern Asia**
+882*Fukien*3,00*36,00*CHS*CHS-FJ*4,00**Eastern Asia*Fujian*
+883*Funafuti*6,00*60,00*TUV*TUV-OO*9,00*D*Samoan Islands**
+884*Futuna*6,00*60,00*WAL*WAL-OO*9,00*D*Samoan Islands**
+885*Futuna*6,00*60,00*VAN*VAN-OO*9,00*A*Melanesia**[Vanuatu]
+886*Gabon*2,00*23,00*GAB*GAB-OO*10,00*B*Cameroons and Congo**
+887*Gaboon*2,00*23,00*GAB*GAB-OO*10,00*B*Cameroons and Congo*Gabon*
+888*Gabun*2,00*23,00*GAB*GAB-OO*10,00*B*Cameroons and Congo*Gabon*
+889*Gago Coutinho Is.*2,00*23,00*GGI*GGI-ST*10,00*B*Cameroons and Congo*Rolas Is.*
+890*Gaidhouronisi*1,00*13,00*KRI*KRI-OO*1,00**Europe**
+891*Galápagos*8,00*83,00*GAL*GAL-OO*17,00**West Tropical South America**
+892*Gambia, The*2,00*22,00*GAM*GAM-OO*10,00*A*West Tropical Africa**
+893*Gambier Is.*6,00*61,00*TUA*TUA-OO*9,00*E*S.E. Polynesia**
+894*Gan*4,00*40,00*MDV*MDV-OO*5,00**India**
+895*Gansu*3,00*36,00*CHN*CHN-GS*4,00**Eastern Asia**
+896*Gardner I.*6,00*60,00*PHX*PHX-OO*9,00*D*Samoan Islands*Nikumaroro*[Phoenix Is.]
+897*Gardner Pinnacles*6,00*63,00*HAW*HAW-HI*9,00*G*Hawai'ian Islands**
+898*Gavdhopoula*1,00*13,00*KRI*KRI-OO*1,00**Europe**
+899*Gavdhos*1,00*13,00*KRI*KRI-OO*1,00**Europe**
+900*Gaza Strip*3,00*34,00*PAL*PAL-IS*2,00*A*Orient**
+901*Genovesa I.*8,00*83,00*GAL*GAL-OO*17,00**West Tropical South America**
+902*Georgia*3,00*33,00*TCS*TCS-GR*2,00*A*Orient*Gruziya*[Caucasus]
+903*Georgia*7,00*78,00*GEO*GEO-OO*13,00**North America**[U.S.A.]
+904*Germany*1,00*11,00*GER*GER-OO*1,00**Europe**
+905*Ghana*2,00*22,00*GHA*GHA-OO*10,00*A*West Tropical Africa**
+906*Gibraltar*1,00*12,00*SPA*SPA-GI*1,00**Europe**U.K. Crown Colony
+907*Gilbert Is.*6,00*60,00*GIL*GIL-OO*9,00*D*Samoan Islands**
+908*Gilgit*4,00*40,00*WHM*WHM-JK*5,00**India**
+909*Glorieuses Is.*2,00*29,00*MCI*MCI-OO*11,00**Madagascar and Mascarenes**
+910*Glorioso Is.*2,00*29,00*MCI*MCI-OO*11,00**Madagascar and Mascarenes*Glorieuses Is.*
+911*Goa*4,00*40,00*IND*IND-GO*5,00**India**
+912*Goiás*8,00*84,00*BZC*BZC-GO*16,00**East Tropical South America**
+913*Gokçeada*1,00*13,00*TUE*TUE-OO*1,00**Europe**
+914*Gold Coast*2,00*22,00*GHA*GHA-OO*10,00*A*West Tropical Africa*Ghana*
+915*Gomera*2,00*21,00*CNY*CNY-OO*2,00*C*Atlantic Islands**
+916*Gonave I.*8,00*81,00*HAI*HAI-HA*15,00**West Indies**
+917*Gonzalez I.*8,00*85,00*DSV*DSV-OO*18,00**Temperate South America**
+918*Gorkiy*1,00*14,00*RUC*RUC-OO*1,00**Europe*Nizhny Novgorod*
+919*Gorno-Badakhshan*3,00*32,00*TZK*TZK-OO*3,00**Northern Asia**
+920*Gotland*1,00*10,00*SWE*SWE-OO*1,00**Europe**
+921*Gough I.*9,00*90,00*TDC*TDC-OO*19,00**Antarctica and Subantarctic Islands**
+922*Gozo*1,00*13,00*SIC*SIC-MA*1,00**Europe**
+923*Graciosa*2,00*21,00*AZO*AZO-OO*2,00*C*Atlantic Islands**[Azores]
+924*Graciosa*2,00*21,00*CNY*CNY-OO*2,00*C*Atlantic Islands**[Canary Is.]
+925*Graham Land*9,00*91,00*ANT*ANT-OO*19,00**Antarctica and Subantarctic Islands**part of British Antarctic Territory
+926*Gran Canaria*2,00*21,00*CNY*CNY-OO*2,00*C*Atlantic Islands**
+927*Grand Bahama*8,00*81,00*BAH*BAH-OO*15,00**West Indies**
+928*Grand Cayman*8,00*81,00*CAY*CAY-OO*15,00**West Indies**
+929*Grande Terre*8,00*81,00*LEE*LEE-GU*15,00**West Indies**
+930*Great Abaco*8,00*81,00*BAH*BAH-OO*15,00**West Indies**
+931*Great Britain*1,00*10,00*GRB*GRB-OO*1,00**Europe**excluding Northern Ireland and Channel Is.
+932*Great Camanoe*8,00*81,00*LEE*LEE-BV*15,00**West Indies**
+933*Great Coco I.*4,00*41,00*AND*AND-CO*5,00**India**
+934*Great Exuma*8,00*81,00*BAH*BAH-OO*15,00**West Indies**
+935*Great Inagua*8,00*81,00*BAH*BAH-OO*15,00**West Indies**
+936*Greece*1,00*13,00*GRC*GRC-OO*1,00**Europe**excluding Kriti (with Karpathos) and East Aegean Is. (including Rhodos).
+937*Green Is.*6,00*60,00*SOL*SOL-NO*9,00*A*Melanesia**
+938*Greenland*7,00*70,00*GNL*GNL-OO*13,00**North America**self-governing I. Territory of Denmark
+939*Greenwich I.*6,00*62,00*CRL*CRL-MF*9,00*F*Micronesia*Kapingamarangi*
+940*Grenada*8,00*81,00*WIN*WIN-GR*15,00**West Indies**
+941*Grenadines of Grenada*8,00*81,00*WIN*WIN-GR*15,00**West Indies**
+942*Grenadines of St.Vincent*8,00*81,00*WIN*WIN-SV*15,00**West Indies**
+943*Gruziya*3,00*33,00*TCS*TCS-GR*2,00*A*Orient**excluding Abkhasiya and Adzhariya
+944*Guadalcanal*6,00*60,00*SOL*SOL-SO*9,00*A*Melanesia**
+945*Guadeloupe*8,00*81,00*LEE*LEE-GU*15,00**West Indies**[Caribbean] Overseas Departement of France
+946*Guadelupe I.*7,00*79,00*MXI*MXI-GU*14,00**Central America**[Pacific]
+947*Guam*6,00*62,00*MRN*MRN-GU*9,00*F*Micronesia**unincorporated territory of U.S.A.
+948*Guana I.*8,00*81,00*LEE*LEE-BV*15,00**West Indies**
+949*Guanaja*8,00*81,00*SWC*SWC-HC*14,00**Central America**one of Bahia Is.
+950*Guanajuato*7,00*79,00*MXE*MXE-GU*14,00**Central America**
+951*Guangdong*3,00*36,00*CHS*CHS-GD*4,00**Eastern Asia**
+952*Guangxi*3,00*36,00*CHS*CHS-GX*4,00**Eastern Asia**
+953*Guangzhou*3,00*36,00*CHS*CHS-GD*4,00**Eastern Asia**
+954*Guatemala*8,00*80,00*GUA*GUA-OO*14,00**Central America**
+955*Guernsey*1,00*12,00*FRA*FRA-CI*1,00**Europe**
+956*Guerrero*7,00*79,00*MXS*MXS-GR*14,00**Central America**
+957*Guinea*2,00*22,00*GUI*GUI-OO*10,00*A*West Tropical Africa**
+958*Guinea-Bissau*2,00*22,00*GNB*GNB-OO*10,00*A*West Tropical Africa**
+959*Guizhou*3,00*36,00*CHC*CHC-GZ*4,00**Eastern Asia**
+960*Gujarat*4,00*40,00*IND*IND-GU*5,00**India**
+961*Gulf of Guinea Is.*2,00*23,00*GGI**10,00*B*Cameroons and Congo**
+962*Gulf States*3,00*35,00*GST**2,00*A*Orient**
+963*Gunners Quoin*2,00*29,00*MAU*MAU-OO*11,00**Madagascar and Mascarenes**
+964*Gunungapi*4,00*42,00*MOL*MOL-OO*6,00*C*Malay Islands**
+965*Guyana*8,00*82,00*GUY*GUY-OO*16,00**East Tropical South America**
+966*Guyane Francais*8,00*82,00*FRG*FRG-OO*16,00**East Tropical South America*French Guiana*
+967*Ha'apai Is.*6,00*60,00*TON*TON-OO*9,00*D*Samoan Islands**
+968*Habomai-shoto*3,00*31,00*KUR*KUR-OO*3,00**Northern Asia**
+969*Hachijo-jima*3,00*38,00*JAP*JAP-HN*4,00**Eastern Asia**
+970*Hahajima*3,00*38,00*OGA*OGA-OO*4,00**Eastern Asia**
+971*Hainan*3,00*36,00*CHH*CHH-OO*4,00**Eastern Asia**
+972*Haiti*8,00*81,00*HAI*HAI-HA*15,00**West Indies**excluding Navassa I.
+973*Haiti*8,00*81,00*HAI**15,00**West Indies**including Navassa I.
+974*Half Moon Reefs*8,00*81,00*SWC*SWC-HC*14,00**Central America*Media Luna, Arrecife*
+975*Hall I.*6,00*62,00*CRL*CRL-MF*9,00*F*Micronesia**
+976*Halmahera*4,00*42,00*MOL*MOL-OO*6,00*C*Malay Islands**
+977*Hanish al Kabir*3,00*35,00*YEM*YEM-SY*2,00*A*Orient**
+978*Hanish Is.*3,00*35,00*YEM*YEM-SY*2,00*A*Orient*Hanish al Kabir*
+979*Hao*6,00*61,00*TUA*TUA-OO*9,00*E*S.E. Polynesia**
+980*Haryana*4,00*40,00*IND*IND-HA*5,00**India**
+981*Haute Volta*2,00*22,00*BKN*BKN-OO*10,00*A*West Tropical Africa*Burkina*
+982*Hawai'i*6,00*63,00*HAW**9,00*G*Hawai'ian Islands**
+983*Hawai'i*6,00*63,00*HAW*HAW-HI*9,00*G*Hawai'ian Islands**one of Hawai'ian Is.
+984*Hawai'ian Is.*6,00*63,00*HAW*HAW-HI*9,00*G*Hawai'ian Islands**
+985*Heard I.*9,00*90,00*HMD*HMD-OO*19,00**Antarctica and Subantarctic Islands**
+986*Heard-McDonald Is.*9,00*90,00*HMD*HMD-OO*19,00**Antarctica and Subantarctic Islands**External Territory of Australia
+987*Hebei*3,00*36,00*CHN*CHN-HB*4,00**Eastern Asia**
+988*Heilongjiang*3,00*36,00*CHM*CHM-HJ*4,00**Eastern Asia**
+989*Heilungkiang*3,00*36,00*CHM*CHM-HJ*4,00**Eastern Asia*Heilongjiang*
+990*Helen Reef*6,00*62,00*CRL*CRL-PA*9,00*F*Micronesia**
+991*Henan*3,00*36,00*CHS*CHS-HE*4,00**Eastern Asia**
+992*Henderson I.*6,00*61,00*PIT*PIT-OO*9,00*E*S.E. Polynesia**
+993*Herzegovina*1,00*13,00*YUG*YUG-BH*1,00**Europe**part of Bosnia-Herzegovina
+994*Hereheretue*6,00*61,00*TUA*TUA-OO*9,00*E*S.E. Polynesia**
+995*Herm*1,00*12,00*FRA*FRA-CI*1,00**Europe**
+996*Hermanos, Los*8,00*81,00*VNA*VNA-OO*17,00**West Tropical South America**
+997*Hermit Is.*4,00*42,00*BIS*BIS-OO*6,00*E*New Guinea**
+998*Hervey I.*6,00*61,00*COO*COO-OO*9,00*E*S.E. Polynesia**
+999*Hidalgo*7,00*79,00*MXE*MXE-HI*14,00**Central America**
+1000*Hierro*2,00*21,00*CNY*CNY-OO*2,00*C*Atlantic Islands**
+1001*Himachal Pradesh*4,00*40,00*WHM*WHM-HP*5,00**India**
+1002*Hisiangkang*3,00*36,00*CHS*CHS-HK*4,00**Eastern Asia*Hong Kong*
+1003*Hispaniola*8,00*81,00***15,00**West Indies*Dominican Republic and Haiti*
+1004*Hiva Oa*6,00*61,00*MRQ*MRQ-OO*9,00*E*S.E. Polynesia**
+1005*Hokkaido*3,00*38,00*JAP*JAP-HK*4,00**Eastern Asia**
+1006*Holland*1,00*11,00*NET*NET-OO*1,00**Europe*Netherlands*
+1007*Hon Panjang*4,00*41,00*VIE*VIE-OO*6,00*B*Indo-China**
+1008*Honan*3,00*36,00*CHS*CHS-HE*4,00**Eastern Asia*Henan*
+1009*Honduran Caribbean Is.*8,00*81,00*SWC*SWC-HC*14,00**Central America**
+1010*Honduras*8,00*80,00*HON*HON-OO*14,00**Central America**
+1011*Hong Kong*3,00*36,00*CHS*CHS-HK*4,00**Eastern Asia**U.K. Dependent Territory
+1012*Honshu*3,00*38,00*JAP*JAP-HN*4,00**Eastern Asia**
+1013*Hoorn Is.*6,00*60,00*WAL*WAL-OO*9,00*D*Samoan Islands**
+1014*Hopei*3,00*36,00*CHN*CHN-HB*4,00**Eastern Asia*Hebei*
+1015*Horne Is.*6,00*60,00*WAL*WAL-OO*9,00*D*Samoan Islands*Hoorn Is.*
+1016*Howland I.*6,00*60,00*HBI*HBI-OO*9,00*D*Samoan Islands**
+1017*Howland-Baker Is.*6,00*60,00*HBI*HBI-OO*9,00*D*Samoan Islands**
+1018*Hrvatska*1,00*13,00*YUG*YUG-CR*1,00**Europe*Croatia*
+1019*Huahine*6,00*61,00*SCI*SCI-OO*9,00*E*S.E. Polynesia**one of Iles sous le Vent
+1020*Hubei*3,00*36,00*CHC*CHC-HU*4,00**Eastern Asia**
+1021*Hull I.*6,00*60,00*PHX*PHX-OO*9,00*D*Samoan Islands*Orona*
+1022*Humphrey I.*6,00*60,00*TOK*TOK-MA*9,00*E*S.E. Polynesia*Manihiki*
+1023*Hunan*3,00*36,00*CHS*CHS-HN*4,00**Eastern Asia**
+1024*Hungary*1,00*11,00*HUN*HUN-OO*1,00**Europe**
+1025*Hunter Is.*6,00*60,00*NWC*NWC-OO*9,00*B*New Caledonia**
+1026*Huon I.*6,00*60,00*NWC*NWC-OO*9,00*B*New Caledonia**
+1027*Hupeh*3,00*36,00*CHC*CHC-HU*4,00**Eastern Asia*Hubei*
+1028*Ibiza*1,00*12,00*BAL*BAL-OO*1,00**Europe**
+1029*Iceland*1,00*10,00*ICE*ICE-OO*1,00**Europe**
+1030*Idaho*7,00*73,00*IDA*IDA-OO*13,00**North America**
+1031*Ifni*2,00*20,00*MOR*MOR-MO*2,00*B*North Africa**
+1032*Ikaria*3,00*34,00*EAI*EAI-OO*2,00*A*Orient**one of Dhodekanisos
+1033*Ile de France*2,00*29,00*MAU*MAU-OO*11,00**Madagascar and Mascarenes*Mauritius*
+1034*Iles du Vent*6,00*61,00*SCI*SCI-OO*9,00*E*S.E. Polynesia**
+1035*Iles sous le Vent*6,00*61,00*SCI*SCI-OO*9,00*E*S.E. Polynesia**
+1036*Iliodhromia*1,00*13,00*GRC*GRC-OO*1,00**Europe**one of Voriai Sporadhes
+1037*Illinois*7,00*74,00*ILL*ILL-OO*13,00**North America**
+1038*Imbroz*1,00*13,00*TUE*TUE-OO*1,00**Europe*Gokceada*
+1039*Imroz*1,00*13,00*TUE*TUE-OO*1,00**Europe*Gokceada*
+1040*Inaccessible I.*9,00*90,00*TDC*TDC-OO*19,00**Antarctica and Subantarctic Islands**
+1041*Inagua Is.*8,00*81,00*BAH*BAH-OO*15,00**West Indies**
+1042*Inamba-jima*3,00*38,00*JAP*JAP-HN*4,00**Eastern Asia**
+1043*India*4,00*40,00*IND**5,00**India**excluding Andaman Is., Assam, Jammu-Kashmir, Laccadive Is. and Sikkim
+1044*Indiana*7,00*75,00*INI*INI-OO*13,00**North America**
+1045*Indonesia*4,00*42,00******Irian Jaya, Jawa, Kalimantan, Lesser Sunda Is., Moluccas, Sulawesi and Sumatera*split between areas 6 C Malay Is. and 6 E New Guinea of Kew system
+1046*Inhaca I.*2,00*26,00*MOZ*MOZ-OO*10,00*E*South Tropical Africa**
+1047*Inner Mongolia*3,00*36,00*CHI**4,00**Eastern Asia**
+1048*Ioinianisia*1,00*13,00*GRC*GRC-OO*1,00**Europe**
+1049*Ionian Is.*1,00*13,00*GRC*GRC-OO*1,00**Europe*Ionioi Nisoi*
+1050*Ionioi Nisoi*1,00*13,00*GRC*GRC-OO*1,00**Europe**
+1051*Voriai*1,00*13,00*GRC*GRC-OO*1,00**Europe**one of Kikladhes
+1052*Iowa*7,00*74,00*IOW*IOW-OO*13,00**North America**
+1053*Iran*3,00*34,00*IRN*IRN-OO*2,00*A*Orient**
+1054*Iraq*3,00*34,00*IRQ*IRQ-OO*2,00*A*Orient**
+1055*Ireland*1,00*10,00*IRE*IRE-IR*1,00**Europe**excluding Northern Ireland
+1056*Ireland*1,00*10,00*IRE**1,00**Europe**including Northern Ireland
+1057*Ireland, Northern*1,00*10,00*IRE*IRE-NI*1,00**Europe*Northern Ireland*
+1058*Irian Jaya*4,00*42,00*NWG*NWG-IJ*6,00*E*New Guinea**
+1059*Iriomote*3,00*38,00*NNS*NNS-OO*4,00**Eastern Asia**part of Sakishima-gunto
+1060*Irkutsk*3,00*30,00*IRK*IRK-OO*3,00**Northern Asia**
+1061*Irkutskaya Oblast*3,00*30,00*IRK*IRK-OO*3,00**Northern Asia*Irkutsk*
+1062*Isabela I.*8,00*83,00*GAL*GAL-OO*17,00**West Tropical South America**
+1063*Ishigaki*3,00*38,00*NNS*NNS-OO*4,00**Eastern Asia**part of Sakishima-gunto
+1064*Isle of Man*1,00*10,00*GRB*GRB-OO*1,00**Europe**
+1065*Isle of Pines*6,00*60,00*NWC*NWC-OO*9,00*B*New Caledonia**
+1066*Israel*3,00*34,00*PAL*PAL-IS*2,00*A*Orient**
+1067*Italia*1,00*13,00*ITA*ITA-IT*1,00**Europe*Italy*
+1068*Italian Somaliland*2,00*24,00*SOM*SOM-OO*10,00*C*North East Tropical Africa**
+1069*Italy*1,00*13,00*ITA**1,00**Europe**excluding Sardena and Sicilia; including SAN MArino and Vatican City
+1070*Italy*1,00*13,00*ITA*ITA-IT*1,00**Europe**excluding Sardena and Sicilia
+1071*Ivanovo*1,00*14,00*RUC*RUC-OO*1,00**Europe**
+1072*Iviza*1,00*12,00*BAL*BAL-OO*1,00**Europe*Ibiza*
+1073*Ivory Coast*2,00*22,00*IVO*IVO-OO*10,00*A*West Tropical Africa**
+1074*Iwo Jima*3,00*38,00*KZN*KZN-OO*4,00**Eastern Asia**
+1075*Jalisco*7,00*79,00*MXS*MXS-JA*14,00**Central America**
+1076*Jalpaiguri*4,00*40,00*IND*IND-WB*5,00**India**
+1077*Jaluit*6,00*62,00*MRS*MRS-OO*9,00*F*Micronesia**part of Ralik chain
+1078*Jamaica*8,00*81,00*JAM*JAM-OO*15,00**West Indies**
+1079*Jammu-Kashmir*4,00*40,00*WHM*WHM-JK*5,00**India**
+1080*Jan Mayen I.*1,00*10,00*SVA*SVA-OO*1,00**Europe**I. Territory of Norway
+1081*Japan*3,00*38,00*JAP**4,00**Eastern Asia**
+1082*Jarvis I.*6,00*61,00*LIN*LIN-US*9,00*E*S.E. Polynesia**
+1083*Java*4,00*42,00*JAW*JAW-OO*6,00*C*Malay Islands*Jawa*
+1084*Jawa*4,00*42,00*JAW*JAW-OO*6,00*C*Malay Islands**excluding Bali
+1085*Jersey*1,00*12,00*FRA*FRA-CI*1,00**Europe**
+1086*Jewish Autonomous Region*3,00*31,00*KHA*KHA-OO*3,00**Northern Asia*Yevreysk*
+1087*Jiangsu*3,00*36,00*CHS*CHS-JS*4,00**Eastern Asia**
+1088*Jiangxi*3,00*36,00*CHS*CHS-JX*4,00**Eastern Asia**
+1089*Jibouti*2,00*24,00*DJI*DJI-OO*10,00*C*North East Tropical Africa*Djibouti*
+1090*Jilin*3,00*36,00*CHM*CHM-JL*4,00**Eastern Asia**
+1091*Johnston I.*6,00*63,00*HAW*HAW-JI*9,00*G*Hawai'ian Islands**
+1092*Johore*4,00*42,00*MLY*MLY-PM*6,00*A*Malay Peninsula*Johor*
+1093*Jordan*3,00*34,00*PAL*PAL-JO*2,00*A*Orient**
+1094*Jost van Dyke*8,00*81,00*LEE*LEE-BV*15,00**West Indies**
+1095*Juan Fernández Is.*8,00*85,00*JNF*JNF-OO*18,00**Temperate South America**
+1096*Juan de Nova*2,00*29,00*MCI*MCI-OO*11,00**Madagascar and Mascarenes**
+1097*Judge and Clerk Is.*9,00*90,00*MAQ*MAQ-OO*19,00**Antarctica and Subantarctic Islands**
+1098*Jugoslavia*1,00*13,00*YUG**1,00**Europe*Yugoslavia*
+1099*Jujuy*8,00*85,00*AGW*AGW-JU*18,00**Temperate South America**
+1100*Juventud, Isla de la*8,00*81,00*CUB*CUB-OO*15,00**West Indies**
+1101*Kabara*6,00*60,00*FIJ*FIJ-OO*9,00*C*Fiji Islands**
+1102*Kabardino-Balkariya*3,00*33,00*NCS*NCS-KB*2,00*A*Orient**
+1103*Kadavu*6,00*60,00*FIJ*FIJ-OO*9,00*C*Fiji Islands**
+1104*Kahoolawe*6,00*63,00*HAW*HAW-HI*9,00*G*Hawai'ian Islands**
+1105*Kai Is.*4,00*42,00*MOL*MOL-OO*6,00*C*Malay Islands**
+1106*Kalaotoa*4,00*42,00*SUL*SUL-OO*6,00*C*Malay Islands**
+1107*Kalimantan*4,00*42,00*BOR*BOR-KA*6,00*C*Malay Islands**
+1108*Kalimnos*3,00*34,00*EAI*EAI-OO*2,00*A*Orient**one of Dhodekanisos
+1109*Kalinin*1,00*14,00*RUC*RUC-OO*1,00**Europe*Tver*
+1110*Kaliningrad*1,00*14,00*BLT*BLT-KA*1,00**Europe**
+1111*Kalmytskaya A.S.S.R.*1,00*14,00*RUS*RUS-OO*1,00**Europe*Kalmykyia*
+1112*Kaluga*1,00*14,00*RUC*RUC-OO*1,00**Europe**
+1113*Kamaran Is.*3,00*35,00*YEM*YEM-SY*2,00*A*Orient**
+1114*Kambara*6,00*60,00*FIJ*FIJ-OO*9,00*C*Fiji Islands*Kabara*
+1115*Kamchatka*3,00*31,00*KAM*KAM-OO*3,00**Northern Asia**
+1116*Kamodo*4,00*42,00*LSI*LSI-LS*6,00*C*Malay Islands**
+1117*Kampuchea*4,00*41,00*CBD*CBD-OO*6,00*B*Indo-China*Cambodia*
+1118*Kandavu*6,00*60,00*FIJ*FIJ-OO*9,00*C*Fiji Islands*Kadavu*
+1119*Kangaroo I.*5,00*50,00*SOA*SOA-OO*7,00**Australia**
+1120*Kangean Is.*4,00*42,00*JAW*JAW-OO*6,00*C*Malay Islands**
+1121*Kaniet Is.*4,00*42,00*BIS*BIS-OO*6,00*E*New Guinea**
+1122*Kansas*7,00*74,00*KAN*KAN-OO*13,00**North America**
+1123*Kansu*3,00*36,00*CHN*CHN-GS*4,00**Eastern Asia*Gansu*
+1124*Kanton I.*6,00*60,00*PHX*PHX-OO*9,00*D*Samoan Islands**
+1125*Kapingamaringi*6,00*62,00*CRL*CRL-MF*9,00*F*Micronesia**
+1126*Kaprivi Zipfel*2,00*27,00*CPV*CPV-OO*12,00**South Africa*Caprivi Strip*
+1127*Kara-Kalpakiya*3,00*32,00*UZB*UZB-OO*3,00**Northern Asia**
+1128*Karacheyevo-Cherkessiya*3,00*33,00*NCS*NCS-KC*2,00*A*Orient**
+1129*Karaikal*4,00*40,00*IND*IND-KL*5,00**India**
+1130*Karelia*1,00*14,00*RUN*RUN-OO*1,00**Europe**
+1131*Karkaralong Is.*4,00*42,00*SUL*SUL-OO*6,00*C*Malay Islands**
+1132*Karnataka*4,00*40,00*IND*IND-KT*5,00**India**
+1133*Kárpathos*1,00*13,00*KRI*KRI-OO*1,00**Europe**
+1134*Kasos*1,00*13,00*KRI*KRI-OO*1,00**Europe**
+1135*Kauai*6,00*63,00*HAW*HAW-HI*9,00*G*Hawai'ian Islands**
+1136*Kazakhstan*3,00*32,00*KAZ*KAZ-OO*3,00**Northern Asia**excluding West Kazakhstan
+1137*Kazan-retto*3,00*38,00*KZN*KZN-OO*4,00**Eastern Asia**
+1138*Kedah*4,00*42,00*MLY*MLY-PM*6,00*A*Malay Peninsula**
+1139*Keeling I.*4,00*42,00*CKI*CKI-OO*6,00*C*Malay Islands*Cocos (Keeling) I.*
+1140*Keewatin*7,00*70,00*NUN*NUN-OO*13,00**North America**
+1141*Kelantan*4,00*42,00*MLY*MLY-PM*6,00*A*Malay Peninsula**
+1142*Kemerovo*3,00*30,00*WSB*WSB-OO*3,00**Northern Asia**
+1143*Kentucky*7,00*78,00*KTY*KTY-OO*13,00**North America**
+1144*Kenya*2,00*25,00*KEN*KEN-OO*10,00*D*East Tropical Africa**
+1145*Kephalinia*1,00*13,00*GRC*GRC-OO*1,00**Europe*Kefallinia*
+1146*Kerala*4,00*40,00*IND*IND-KE*5,00**India**
+1147*Kerguelen*9,00*90,00*KEG*KEG-OO*19,00**Antarctica and Subantarctic Islands**part of French Southern and Antarctic Territories
+1148*Kérkira*1,00*13,00*GRC*GRC-OO*1,00**Europe**
+1149*Kermadec Is.*5,00*51,00*KER*KER-OO*8,00**New Zealand**
+1150*Khabarovsk*3,00*31,00*KHA*KHA-OO*3,00**Northern Asia**
+1151*Khakassiya*3,00*30,00*KRA*KRA-OO*3,00**Northern Asia**
+1152*Khalki*3,00*34,00*EAI*EAI-OO*2,00*A*Orient**one of Dhodekanisos
+1153*Khamili*1,00*13,00*GRC*GRC-OO*1,00**Europe**
+1154*Khanty-Mansi*3,00*30,00*WSB*WSB-OO*3,00**Northern Asia**
+1155*Khios*3,00*34,00*EAI*EAI-OO*2,00*A*Orient**
+1156*Khmer Republic*4,00*41,00*CBD*CBD-OO*6,00*B*Indo-China*Cambodia*
+1157*Khristiana*1,00*13,00*GRC*GRC-OO*1,00**Europe**one of Kikladhes
+1158*Kiangsi*3,00*36,00*CHS*CHS-JX*4,00**Eastern Asia*Jiangxi*
+1159*Kiangsu*3,00*36,00*CHS*CHS-JS*4,00**Eastern Asia*Jiangsu*
+1160*Kikai-shima*3,00*38,00*NNS*NNS-OO*4,00**Eastern Asia**part of Amami-shoto
+1161*Kikladhes*1,00*13,00*GRC*GRC-OO*1,00**Europe**
+1162*Kilinailau*6,00*60,00*SOL*SOL-NO*9,00*A*Melanesia**
+1163*Kin-Men*3,00*36,00*CHS*CHS-KI*4,00**Eastern Asia**
+1164*King George Is.*6,00*61,00*TUA*TUA-OO*9,00*E*S.E. Polynesia**
+1165*King George V Land*9,00*91,00*ANT*ANT-OO*19,00**Antarctica and Subantarctic Islands**part of Australian Antarctic Territory
+1166*Kingman Reef*6,00*61,00*LIN*LIN-US*9,00*E*S.E. Polynesia**
+1167*Kingsmill Is.*6,00*60,00*GIL*GIL-OO*9,00*D*Samoan Islands**
+1168*Kirgiziya*3,00*32,00*KGZ*KGZ-OO*3,00**Northern Asia*Kirgizistan*
+1169*Kirgizistan*3,00*32,00*KGZ*KGZ-OO*3,00**Northern Asia**
+1170*Kiribati*6,00*******Gilbert Is., Phoenix Is. and Kiribati Line Is.*split between areas 9 D Samoan Is. and 9 E S.E. Polynesia of Kew system
+1171*Kiribati Line Is.*6,00*61,00*LIN*LIN-KI*9,00*E*S.E. Polynesia**
+1172*Kirin*3,00*36,00*CHM*CHM-JL*4,00**Eastern Asia*Jilin*
+1173*Kiritimati*6,00*61,00*LIN*LIN-KI*9,00*E*S.E. Polynesia**
+1174*Kiriwina Is.*4,00*42,00*NWG*NWG-PN*6,00*E*New Guinea*Trobriand Is.*
+1175*Kirov*1,00*14,00*RUE*RUE-OO*1,00**Europe**
+1176*Kita Daito*3,00*38,00*NNS*NNS-OO*4,00**Eastern Asia**one of Daito Is.
+1177*Kita Iwo*3,00*38,00*KZN*KZN-OO*4,00**Eastern Asia**
+1178*Kitalo*3,00*38,00*KZN*KZN-OO*4,00**Eastern Asia**
+1179*Kithira*1,00*13,00*GRC*GRC-OO*1,00**Europe**
+1180*Kittery I.*6,00*63,00*HAW*HAW-HI*9,00*G*Hawai'ian Islands**
+1181*Ko Way*4,00*41,00*VIE*VIE-OO*6,00*B*Indo-China**
+1182*Kobisho*3,00*38,00*NNS*NNS-OO*4,00**Eastern Asia**
+1183*Koch Bihar*4,00*40,00*IND*IND-WB*5,00**India**
+1184*Kodiak I.*7,00*70,00*ASK*ASK-OO*13,00**North America**
+1185*Komandor Is.*3,00*31,00*KAM*KAM-OO*3,00**Northern Asia**
+1186*Komba*4,00*42,00*LSI*LSI-LS*6,00*C*Malay Islands**
+1187*Komi*1,00*14,00*RUN*RUN-OO*1,00**Europe**
+1188*Konigsberg*1,00*14,00*BLT*BLT-KA*1,00**Europe*Kaliningrad*
+1189*Korea*3,00*38,00*KOR**4,00**Eastern Asia**
+1190*Korea, People's Democratic Republic of*3,00*38,00*KOR*KOR-NK*4,00**Eastern Asia**
+1191*Korea, Republic of*3,00*38,00*KOR*KOR-SK*4,00**Eastern Asia**
+1192*Koryanskiy*3,00*31,00*KAM*KAM-OO*3,00**Northern Asia**
+1193*Kos*3,00*34,00*EAI*EAI-OO*2,00*A*Orient**one of Dhodekanisos
+1194*Kosovo*1,00*13,00*YUG*YUG-KO*1,00**Europe**
+1195*Kosrae*6,00*62,00*CRL*CRL-MF*9,00*F*Micronesia**
+1196*Kostroma*1,00*14,00*RUC*RUC-OO*1,00**Europe**
+1197*Koufonisi*1,00*13,00*KRI*KRI-OO*1,00**Europe**
+1198*Kozu-shima*3,00*38,00*JAP*JAP-HN*4,00**Eastern Asia**
+1199*Krasnodar*3,00*33,00*NCS*NCS-KR*2,00*A*Orient**
+1200*Krasnoyarsk*3,00*30,00*KRA*KRA-OO*3,00**Northern Asia**
+1201*Kriti*1,00*13,00*KRI*KRI-OO*1,00**Europe**
+1202*Krym*1,00*14,00*KRY*KRY-OO*1,00**Europe**
+1203*Kuchino-shima*3,00*38,00*NNS*NNS-OO*4,00**Eastern Asia**part of Tokara-retto
+1204*Kure I.*6,00*63,00*HAW*HAW-MI*9,00*G*Hawai'ian Islands**
+1205*Kurgan*3,00*30,00*WSB*WSB-OO*3,00**Northern Asia**
+1206*Kuria*6,00*60,00*GIL*GIL-OO*9,00*D*Samoan Islands**
+1207*Kuria Muria Is.*3,00*35,00*OMA*OMA-OO*2,00*A*Orient**
+1208*Kuril Is.*3,00*31,00*KUR*KUR-OO*3,00**Northern Asia**
+1209*Kursk*1,00*14,00*RUC*RUC-OO*1,00**Europe**
+1210*Kusaie*6,00*62,00*CRL*CRL-MF*9,00*F*Micronesia*Kosrae*
+1211*Kuwait*3,00*35,00*KUW*KUW-OO*2,00*A*Orient**
+1212*Kuybyshev*1,00*14,00*RUE*RUE-OO*1,00**Europe*Samara*
+1213*Kwajalein*6,00*62,00*MRS*MRS-OO*9,00*F*Micronesia**part of Ralik chain
+1214*Kwangsi*3,00*36,00*CHS*CHS-GX*4,00**Eastern Asia*Guangxi*
+1215*Kwantung*3,00*36,00*CHS*CHS-GD*4,00**Eastern Asia*Guangdong*
+1216*Kweichow*3,00*36,00*CHC*CHC-GZ*4,00**Eastern Asia*Guizhou*
+1217*Kyproz*3,00*34,00*CYP*CYP-OO*2,00*A*Orient*Cyprus*
+1218*Kyushu*3,00*38,00*JAP*JAP-KY*4,00**Eastern Asia**
+1219*La Araucania*8,00*85,00*CLS*CLC-LA*18,00**Temperate South America**
+1220*La Desirade*8,00*81,00*LEE*LEE-GU*15,00**West Indies**
+1221*La Digue I.*2,00*29,00*SEY*SEY-OO*11,00**Madagascar and Mascarenes**
+1222*La Palma*2,00*21,00*CNY*CNY-OO*2,00*C*Atlantic Islands**
+1223*La Pampa*8,00*85,00*AGE*AGE-LP*18,00**Temperate South America**
+1224*La Rioja*8,00*85,00*AGW*AGW-LR*18,00**Temperate South America**
+1225*Labrador*7,00*72,00*LAB*LAB-OO*13,00**North America**
+1226*Labuan*4,00*42,00*BOR*BOR-SB*6,00*C*Malay Islands**
+1227*Laccadive Is.*4,00*40,00*LDV*LDV-OO*5,00**India**
+1228*Ladakh*4,00*40,00*WHM*WHM-JK*5,00**India**
+1229*Lagoon Is.*6,00*60,00*TUV*TUV-OO*9,00*D*Samoan Islands*Tuvalu*
+1230*Lakshadweep*4,00*40,00*LDV*LDV-OO*5,00**India*Laccadive Is.*
+1231*Lampedusa*1,00*13,00*SIC*SIC-SI*1,00**Europe**
+1232*Lan Yu*3,00*38,00*TAI*TAI-OO*4,00**Eastern Asia*Lan Hsu*
+1233*Lan Hsu*3,00*38,00*TAI*TAI-OO*4,00**Eastern Asia**
+1234*Lanai*6,00*63,00*HAW*HAW-HI*9,00*G*Hawai'ian Islands**
+1235*Langkawi*4,00*42,00*MLY*MLY-PM*6,00*A*Malay Peninsula**part of Kedah
+1236*Langkesi Is.*4,00*42,00*SUL*SUL-OO*6,00*C*Malay Islands**
+1237*Lanzarote*2,00*21,00*CNY*CNY-OO*2,00*C*Atlantic Islands**
+1238*Laos*4,00*41,00*LAO*LAO-OO*6,00*B*Indo-China**
+1239*Laos, People's Democratic Republic of*4,00*41,00*LAO*LAO-OO*6,00*B*Indo-China*Laos*
+1240*Las Aves Is.*8,00*81,00*VNA*VNA-OO*17,00**West Tropical South America**
+1241*Latvia*1,00*14,00*BLT*BLT-LA*1,00**Europe**
+1242*Lau Is.*6,00*60,00*FIJ*FIJ-OO*9,00*C*Fiji Islands**
+1243*Laughlan Is.*4,00*42,00*NWG*NWG-PN*6,00*E*New Guinea**
+1244*Laurie I.*9,00*91,00*ANT*ANT-OO*19,00**Antarctica and Subantarctic Islands**one of South Orkney Is.
+1245*Lauru*6,00*60,00*SOL*SOL-SO*9,00*A*Melanesia*Choiseul*
+1246*Laut Kecil Is.*4,00*42,00*BOR*BOR-KA*6,00*C*Malay Islands**
+1247*Laysan I.*6,00*63,00*HAW*HAW-HI*9,00*G*Hawai'ian Islands**
+1248*Lebanon*3,00*34,00*LBS*LBS-LB*2,00*A*Orient**
+1249*Lebanon-Syria*3,00*34,00*LBS**2,00*A*Orient**
+1250*Leeward I.*5,00*51,00*ATP*ATP-OO*19,00**Antarctica and Subantarctic Islands**[New Zealand] one of Antipodean Is.
+1251*Leeward Is.*8,00*81,00*LEE**15,00**Caribbean**[Caribbean]
+1252*Leeward Is.*6,00*61,00*SCI*SCI-OO*9,00*E*S.E. Polynesia**[Pacific] one of Iles sous le Vent
+1253*Lemnos*1,00*13,00*GRC*GRC-OO*1,00**Europe*Limnos*
+1254*Leningrad*1,00*14,00*RUW*RUW-OO*1,00**Europe**
+1255*Leros*3,00*34,00*EAI*EAI-OO*2,00*A*Orient**one of Dhodekanisos
+1256*Lesbos*3,00*34,00*EAI*EAI-OO*2,00*A*Orient*Lesvos*
+1257*Lesotho*2,00*27,00*LES*LES-OO*12,00**South Africa**
+1258*Lesser Antilles*8,00*81,00***15,00**Caribbean*Leeward Is. and Windward Is.*
+1259*Lesser Sunda Is.*4,00*42,00*LSI*LSI-LS*6,00*C*Malay Islands**excluding East Timor
+1260*Lesvos*3,00*34,00*EAI*EAI-OO*2,00*A*Orient**
+1261*Leti Is.*4,00*42,00*LSI*LSI-LS*6,00*C*Malay Islands**
+1262*Levitha*1,00*13,00*GRC*GRC-OO*1,00**Europe**one of Kikladhes
+1263*Liancourt Rock*3,00*38,00*JAP*JAP-HN*4,00**Eastern Asia*Tok-to*
+1264*Liaoning*3,00*36,00*CHM*CHM-LN*4,00**Eastern Asia**
+1265*Liberia*2,00*22,00*LBR*LBR-OO*10,00*A*West Tropical Africa**
+1266*Libya*2,00*20,00*LBY*LBY-OO*2,00*B*North Africa**
+1267*Liechtenstein*1,00*11,00*AUT*AUT-LI*1,00**Europe**
+1268*Lihir Is.*4,00*42,00*BIS*BIS-OO*6,00*E*New Guinea**
+1269*Likhoma Is.*2,00*26,00*MLW*MLW-OO*10,00*E*South Tropical Africa**
+1270*Limnos*1,00*13,00*GRC*GRC-OO*1,00**Europe**
+1271*Line Is.*6,00*61,00*LIN**9,00*E*S.E. Polynesia**
+1272*Lingga Is.*4,00*42,00*SUM*SUM-OO*6,00*C*Malay Islands**
+1273*Linosa*1,00*13,00*SIC*SIC-SI*1,00**Europe**
+1274*Lipari Is.*1,00*13,00*SIC*SIC-SI*1,00**Europe**
+1275*Lipetsk*1,00*14,00*RUC*RUC-OO*1,00**Europe**
+1276*Lipsoi*3,00*34,00*EAI*EAI-OO*2,00*A*Orient**one of Dhodekanisos
+1277*Lisianski I.*6,00*63,00*HAW*HAW-HI*9,00*G*Hawai'ian Islands**
+1278*Lithuania*1,00*14,00*BLT*BLT-LI*1,00**Europe**
+1279*Litva*1,00*14,00*BLT*BLT-LI*1,00**Europe*Lithuania*
+1280*Little Cayman*8,00*81,00*CAY*CAY-OO*15,00**West Indies**
+1281*Little Coco I.*4,00*41,00*AND*AND-CO*5,00**India**
+1282*Little Inagua*8,00*81,00*BAH*BAH-OO*15,00**West Indies**
+1283*Loma-i-Viti Is.*6,00*60,00*FIJ*FIJ-OO*9,00*C*Fiji Islands**
+1284*Lombok*4,00*42,00*LSI*LSI-LS*6,00*C*Malay Islands**
+1285*Long I.*4,00*42,00*NWG*NWG-PN*6,00*E*New Guinea**[Bismarck Sea]
+1286*Long I.*8,00*81,00*BAH*BAH-OO*15,00**West Indies**[Caribbean]
+1287*Lopevi*6,00*60,00*VAN*VAN-OO*9,00*A*Melanesia**
+1289*Lord Howe I.*5,00*50,00*NFK*NFK-LH*7,00**Australia**[off Australia]
+1290*Lord Howe I.*6,00*60,00*SOL*SOL-SO*9,00*A*Melanesia*Ontong Java*[Solomon Is.]
+1291*Los Hermanos Is.*8,00*81,00*VNA*VNA-OO*17,00**West Tropical South America**
+1292*Los Lagos*8,00*85,00*CLS*CLS-LL*18,00**Temperate South America**
+1293*Los Roques Is.*8,00*81,00*VNA*VNA-OO*17,00**West Tropical South America**
+1294*Los Testigos Is.*8,00*81,00*VNA*VNA-OO*17,00**West Tropical South America**
+1295*Lot's Wife*3,00*38,00*JAP*JAP-HN*4,00**Eastern Asia*Sofu-gan*
+1296*Louisa Reef*4,00*41,00*SCS*SCS-SI*6,00*F*South China Sea Islands**politically and geographically disputed - region 6 F is a compromise solution
+1297*Louisiade Archipelago*4,00*42,00*NWG*NWG-PN*6,00*E*New Guinea**
+1298*Louisiana*7,00*78,00*LOU*LOU-OO*13,00**North America**
+1299*Low Archipelago*6,00*61,00*TUA*TUA-OO*9,00*E*S.E. Polynesia**
+1300*Loyalty Is.*6,00*60,00*NWC*NWC-OO*9,00*B*New Caledonia*Loyaute Is.*
+1301*Loyauté Is.*6,00*60,00*NWC*NWC-OO*9,00*B*New Caledonia**
+1302*Lucipara Is.*4,00*42,00*MOL*MOL-OO*6,00*C*Malay Islands**
+1303*Lusancay Is.*4,00*42,00*NWG*NWG-PN*6,00*E*New Guinea**
+1304*Luxembourg*1,00*11,00*BGM*BGM-LU*1,00**Europe**
+1305*Luzon*4,00*42,00*PHI*PHI-OO*6,00*D*Philippines**
+1306*Ma-tsu-Pai-chúan*3,00*36,00*CHS*CHS-MP*4,00**Eastern Asia**
+1307*Macau*3,00*36,00*CHS*CHS-MA*4,00**Eastern Asia**
+1308*Macao*3,00*36,00*CHS*CHS-MA*4,00**Eastern Asia*Macau*
+1309*Macauley I.*5,00*51,00*KER*KER-OO*8,00**New Zealand**
+1310*Macedonia*1,00*13,00*GRC*GRC-OO*1,00**Europe*Makedhonia*[Greece]
+1311*Macedonia*1,00*13,00*YUG*YUG-MA*1,00**Europe**[of former Yugoslavia]
+1312*Macias Nguema Biyoga*2,00*23,00*GGI*GGI-BI*10,00*B*Cameroons and Congo*Bioko*
+1313*Mackenzie*7,00*70,00*NWT*NWT-OO*13,00**North America**
+1314*Macquarie Is.*9,00*90,00*MAQ*MAQ-OO*19,00**Antarctica and Subantarctic Islands**
+1315*MacRobertson Land*9,00*91,00*ANT*ANT-OO*19,00**Antarctica and Subantarctic Islands**part of Australian Antarctic Territory
+1316*Madagascar*2,00*29,00*MDG*MDG-OO*11,00**Madagascar and Mascarenes**
+1317*Madeira*2,00*21,00*MDR*MDR-OO*2,00*C*Atlantic Islands**self-governing I. Region of Portugal
+1318*Madhya Pradesh*4,00*40,00*IND*IND-MP*5,00**India**
+1319*Madura*4,00*42,00*JAW*JAW-OO*6,00*C*Malay Islands**
+1320*Maewo*6,00*60,00*VAN*VAN-OO*9,00*A*Melanesia**
+1321*Mafia I.*2,00*25,00*TAN*TAN-OO*10,00*D*East Tropical Africa**
+1322*Magadan*3,00*31,00*MAG*MAG-OO*3,00**Northern Asia**
+1323*Magellanes*8,00*85,00*CLS*CLS-MG*18,00**Temperate South America**
+1324*Maharashtra*4,00*40,00*IND*IND-MR*5,00**India**
+1325*Mahé*4,00*40,00*IND*IND-MH*5,00**India**[India]
+1326*Mahé*2,00*29,00*SEY*SEY-OO*11,00**Madagascar and Mascarenes**[Seychelles]
+1327*Maiana*6,00*60,00*GIL*GIL-OO*9,00*D*Samoan Islands**
+1328*Maine*7,00*75,00*MAI*MAI-OO*13,00**North America**
+1329*Maio*6,00*61,00*SCI*SCI-OO*9,00*E*S.E. Polynesia**one of Iles du Vent
+1330*Maiz Is.*8,00*81,00*SWC*SWC-NC*14,00**Central America**
+1331*Majorca*1,00*12,00*BAL*BAL-OO*1,00**Europe*Mallorca*
+1332*Majuro*6,00*62,00*MRS*MRS-OO*9,00*F*Micronesia**part of Ratak chain
+1333*Makatea*6,00*61,00*TUA*TUA-OO*9,00*E*S.E. Polynesia**
+1334*Makedhonia*1,00*13,00*GRC*GRC-OO*1,00**Europe**
+1335*Makedonija*1,00*13,00*YUG*YUG-MA*1,00**Europe*Macedonia*
+1336*Makemo*6,00*61,00*TUA*TUA-OO*9,00*E*S.E. Polynesia**
+1337*Makin I.*6,00*60,00*GIL*GIL-OO*9,00*D*Samoan Islands*Butaritari*
+1338*Makira*6,00*60,00*SOL*SOL-SO*9,00*A*Melanesia*San Cristobal*
+1339*Mala*6,00*60,00*SOL*SOL-SO*9,00*A*Melanesia*Malaita*
+1340*Malacca*4,00*42,00*MLY*MLY-PM*6,00*A*Malay Peninsula*Melaka*
+1341*Malagasy Republic*2,00*29,00*MDG*MDG-OO*11,00**Madagascar and Mascarenes*Madagascar*
+1342*Malaita*6,00*60,00*SOL*SOL-SO*9,00*A*Melanesia**
+1343*Malakula*6,00*60,00*VAN*VAN-OO*9,00*A*Melanesia**
+1344*Malawi*2,00*26,00*MLW*MLW-OO*10,00*E*South Tropical Africa**
+1345*Malaya*4,00*42,00*MLY**6,00*A*Malay Peninsula**
+1346*Malaysia*4,00*42,00******Peninsular Malaysia, Sabah and Sarawak*split between areas 6 A Malay Peninsula and 6 C Malay Is. of Kew system
+1347*Malden I.*6,00*61,00*LIN*LIN-KI*9,00*E*S.E. Polynesia**
+1348*Maldives*4,00*40,00*MDV*MDV-OO*5,00**India**
+1349*Mali*2,00*22,00*MLI*MLI-OO*10,00*A*West Tropical Africa**
+1350*Mallicollo*6,00*60,00*VAN*VAN-OO*9,00*A*Melanesia*Malakula*
+1351*Mallorca*1,00*12,00*BAL*BAL-OO*1,00**Europe**
+1352*Maloelap*6,00*62,00*MRS*MRS-OO*9,00*F*Micronesia**part of Ratak chain
+1353*Malpelo I.*8,00*80,00*CPI*CPI-MA*17,00**West Tropical South America**
+1354*Malta*1,00*13,00*SIC*SIC-MA*1,00**Europe**
+1355*Maluku*4,00*42,00*MOL*MOL-OO*6,00*C*Malay Islands**
+1356*Malvinas*9,00*90,00*FAL*FAL-OO*18,00**Temperate South America*Falkland Is.*
+1357*Mamanutha Is.*6,00*60,00*FIJ*FIJ-OO*9,00*C*Fiji Islands*Mamanuca Is.*
+1358*Man, Isle of*1,00*10,00*GRB*GRB-OO*1,00**Europe**British Crown Dependency
+1359*Manamah*3,00*35,00*GST*GST-BA*2,00*A*Orient*Al Manamah*
+1360*Manchuria*3,00*36,00*CHM**4,00**Eastern Asia**
+1361*Mangaia*6,00*61,00*COO*COO-OO*9,00*E*S.E. Polynesia**
+1362*Mangareva*6,00*61,00*TUA*TUA-OO*9,00*E*S.E. Polynesia**one of Gambier Is.
+1363*Manihiki*6,00*60,00*TOK*TOK-MA*9,00*E*S.E. Polynesia**
+1364*Manihiki Is.*6,00*60,00*TOK*TOK-MA*9,00*E*S.E. Polynesia**
+1365*Manipur*4,00*40,00*ASS*ASS-MA*5,00**India**
+1366*Manitoba*7,00*71,00*MAN*MAN-OO*13,00**North America**
+1367*Manra*6,00*60,00*PHX*PHX-OO*9,00*D*Samoan Islands**
+1368*Mansel I.*7,00*70,00*NUN*NUN-OO*13,00**North America**
+1369*Manu'a*6,00*60,00*SAM*SAM-AS*9,00*D*Samoan Islands**
+1370*Manus Is.*4,00*42,00*BIS*BIS-OO*6,00*E*New Guinea**one of Admiralty Is.
+1371*Mapia I.*4,00*42,00*NWG*NWG-IJ*6,00*E*New Guinea**
+1372*Maranhão*8,00*84,00*BZE*BZE-MA*16,00**East Tropical South America**
+1373*Marchena I.*8,00*83,00*GAL*GAL-OO*17,00**West Tropical South America**
+1374*Marcus I.*6,00*62,00*MCS*MCS-OO*9,00*F*Micronesia**
+1375*Margarita I.*8,00*81,00*VNA*VNA-OO*17,00**West Tropical South America**
+1376*Mari*1,00*14,00*RUE*RUE-OO*1,00**Europe**
+1377*Marianas*6,00*62,00*MRN**9,00*F*Micronesia**part of Trust Territory of Pacific Is. (United Nations Trust Territory administered by U.S.A.)
+1378*Marias Is.*7,00*79,00*MXS*MXS-NA*14,00**Central America**
+1379*Marie Byrd Land*9,00*91,00*ANT*ANT-OO*19,00**Antarctica and Subantarctic Islands**
+1380*Marie Galante*8,00*81,00*LEE*LEE-GU*15,00**West Indies**
+1381*Marie Louise I.*2,00*29,00*ALD*ALD-OO*11,00**Madagascar and Mascarenes**one of Amirante group
+1382*Marion I.*9,00*90,00*MPE*MPE-OO*19,00**Antarctica and Subantarctic Islands**
+1383*Marion-Prince Edward Is.*9,00*90,00*MPE*MPE-OO*19,00**Antarctica and Subantarctic Islands**
+1384*Mariyskaya A.S.S.R.*1,00*14,00*RUE*RUE-OO*1,00**Europe*Mari*
+1385*Maro Reef*6,00*63,00*HAW*HAW-HI*9,00*G*Hawai'ian Islands**
+1386*Maroc*2,00*20,00*MOR*MOR-MO*2,00*B*North Africa*Morocco*
+1387*Marotiri*6,00*61,00*TUB*TUB-OO*9,00*E*S.E. Polynesia**
+1388*Marquesas*6,00*61,00*MRQ*MRQ-OO*9,00*E*S.E. Polynesia**
+1389*Marshall Is.*6,00*62,00*MRS*MRS-OO*9,00*F*Micronesia**part of Trust Territory of Pacific Is. (United Nations Trust Territory administered by U.S.A.)
+1390*Martin Vas Is.*8,00*84,00*BZL*BZL-TR*16,00**East Tropical South America**
+1391*Martinique*8,00*81,00*WIN*WIN-MA*15,00**West Indies**Overseas Departement of France
+1392*Maryland*7,00*78,00*MRY*MRY-OO*13,00**North America**
+1393*Mas a Tierra*8,00*85,00*JNF*JNF-OO*18,00**Temperate South America*Robinson Crusoe I.*
+1394*Mas Afuera*8,00*85,00*JNF*JNF-OO*18,00**Temperate South America*Alejandro Selkirk I.*
+1395*Masalembu Besar*4,00*42,00*JAW*JAW-OO*6,00*C*Malay Islands**
+1396*Masachusettes*7,00*75,00*MAS*MAS-OO*13,00**North America**
+1397*Mato Grosso*8,00*84,00*BZC*BZC-MT*16,00**East Tropical South America**
+1398*Mato Grosso do Sul*8,00*84,00*BZC*BZC-MS*16,00**East Tropical South America**
+1399*Matthew Is.*6,00*60,00*NWC*NWC-OO*9,00*B*New Caledonia**
+1400*Maug Is.*6,00*62,00*MRN*MRN-NM*9,00*F*Micronesia**
+1401*Maui*6,00*63,00*HAW*HAW-HI*9,00*G*Hawai'ian Islands**
+1402*Mauke*6,00*61,00*COO*COO-OO*9,00*E*S.E. Polynesia**
+1403*Maule*8,00*85,00*CLN*CLC-MA*18,00**Temperate South America**
+1404*Maupiti*6,00*61,00*SCI*SCI-OO*9,00*E*S.E. Polynesia**one of Iles sous le Vent
+1405*Mauritania*2,00*22,00*MTN*MTN-OO*10,00*A*West Tropical Africa**
+1406*Mauritius*2,00*29,00*MAU*MAU-OO*11,00**Madagascar and Mascarenes**
+1407*Mayaguana*8,00*81,00*BAH*BAH-OO*15,00**West Indies**
+1408*Mayotte*2,00*29,00*COM*COM-MA*11,00**Madagascar and Mascarenes**
+1409*Mayreau*8,00*81,00*WIN*WIN-SV*15,00**West Indies**one of Grenadines of St.Vincent
+1410*Mbengga*6,00*60,00*FIJ*FIJ-OO*9,00*C*Fiji Islands**
+1411*McDonald I.*9,00*90,00*HMD*HMD-OO*19,00**Antarctica and Subantarctic Islands**
+1412*McKean I.*6,00*60,00*PHX*PHX-OO*9,00*D*Samoan Islands**
+1413*Media Luna Reefs*8,00*81,00*SWC*SWC-HC*14,00**Central America**
+1414*Meghalaya*4,00*40,00*ASS*ASS-ME*5,00**India**
+1415*Mehetia*6,00*61,00*SCI*SCI-OO*9,00*E*S.E. Polynesia**one of Iles du Vent
+1416*Melaka*4,00*42,00*MLY*MLY-PM*6,00*A*Malay Peninsula**
+1417*Melilla*2,00*20,00*MOR*MOR-SP*2,00*B*North Africa**
+1418*Melville I.*5,00*50,00*NTA*NTA-OO*7,00**Australia**
+1419*Mendoza*8,00*85,00*AGW*AGW-ME*18,00**Temperate South America**
+1420*Menorca*1,00*12,00*BAL*BAL-OO*1,00**Europe**
+1421*Mentawai Is.*4,00*42,00*SUM*SUM-OO*6,00*C*Malay Islands**
+1422*Mergui Archipelago*4,00*41,00*MYA*MYA-OO*5,00**India**
+1423*Merit I.*6,00*62,00*CRL*CRL-PA*9,00*F*Micronesia**
+1424*Mesopotamia*3,00*34,00*IRQ*IRQ-OO*2,00*A*Orient*Iraq*
+1425*Mexican Pacific Is.*7,00*79,00*MXI**14,00**Central America**
+1426*Mexico*7,00*79,00***14,00**Central America*Region 79 Mexico*
+1427*Mexico Central*7,00*79,00*MXC**14,00**Central America**
+1428*Mexico Distrito Federal*7,00*79,00*MXC*MXC-DF*14,00**Central America**
+1429*Mexico Northeast*7,00*79,00*MXE**14,00**Central America**
+1430*Mexico Northwest*7,00*79,00*MXN**14,00**Central America**
+1431*Mexico Southeast*7,00*79,00*MXT**14,00**Central America**
+1432*Mexico Southwest*7,00*79,00*MXS**14,00**Central America**
+1433*México State*7,00*79,00*MXC*MXC-ME*14,00**Central America**
+1434*Michigan*7,00*75,00*MIC*MIC-OO*13,00**North America**
+1435*Michoacán*7,00*79,00*MXS*MXS-MI*14,00**Central America**
+1436*Micronesia Federated States*6,00*62,00*CRL*CRL-MF*9,00*F*Micronesia**
+1437*Middle Congo*2,00*23,00*CON*CON-OO*10,00*B*Cameroons and Congo*Congo*
+1438*Middle I.*9,00*90,00*TDC*TDC-OO*19,00**Antarctica and Subantarctic Islands**
+1439*Middleton Reef*5,00*50,00*NFK*NFK-LH*7,00**Australia**
+1440*Midway Is.*6,00*63,00*HAW*HAW-MI*9,00*G*Hawai'ian Islands**
+1441*Mikura-jima*3,00*38,00*JAP*JAP-HN*4,00**Eastern Asia**
+1442*Milos*1,00*13,00*GRC*GRC-OO*1,00**Europe**one of Kikladhes
+1443*Minami Tori-shima*6,00*62,00*MCS*MCS-OO*9,00*F*Micronesia*Marcus I.*
+1444*Minas Gerais*8,00*84,00*BZL*BZL-MG*16,00**East Tropical South America**
+1445*Mindanao*4,00*42,00*PHI*PHI-OO*6,00*D*Philippines**
+1446*Mindoro*4,00*42,00*PHI*PHI-OO*6,00*D*Philippines**
+1447*Minicoy Is.*4,00*40,00*LDV*LDV-OO*5,00**India**
+1448*Minnesota*7,00*74,00*MIN*MIN-OO*13,00**North America**
+1449*Minorca*1,00*12,00*BAL*BAL-OO*1,00**Europe*Menorca*
+1450*Misiones*8,00*85,00*AGE*AGE-MI*18,00**Temperate South America**
+1451*Miskito Cays*8,00*81,00*SWC*SWC-NC*14,00**Central America**
+1452*Misool*4,00*42,00*NWG*NWG-IJ*6,00*E*New Guinea**
+1453*Mississippi*7,00*78,00*MSI*MSI-OO*13,00**North America**
+1454*Missouri*7,00*74,00*MSO*MSO-OO*13,00**North America**
+1455*Mitre I.*6,00*60,00*SCZ*SCZ-OO*9,00*A*Melanesia**
+1456*Miyake-jima*3,00*38,00*JAP*JAP-HN*4,00**Eastern Asia**
+1457*Miyako*3,00*38,00*NNS*NNS-OO*4,00**Eastern Asia**part of Sakishima-gunto
+1458*Mizoram*4,00*40,00*ASS*ASS-MI*5,00**India**
+1459*Moa I.*5,00*50,00*QLD*QLD-QU*7,00**Australia**
+1460*Moçambique*2,00*26,00*MOZ*MOZ-OO*10,00*E*South Tropical Africa*Mozambique*
+1461*Moldaviya*1,00*14,00*UKR*UKR-MO*1,00**Europe*Moldova*
+1462*Moldova*1,00*14,00*UKR*UKR-MO*1,00**Europe**
+1463*Molokai*6,00*63,00*HAW*HAW-HI*9,00*G*Hawai'ian Islands**
+1464*Moluccas*4,00*42,00*MOL*MOL-OO*6,00*C*Malay Islands*Maluku*
+1465*Mona I.*8,00*81,00*PUE*PUE-OO*15,00**West Indies**
+1466*Monaco*1,00*12,00*FRA*FRA-MO*1,00**Europe**
+1467*Mongolia*3,00*37,00*MON*MON-OO*3,00**Northern Asia**
+1468*Mongolia, Inner*3,00*36,00*CHI**4,00**Eastern Asia**
+1469*Mongolian Autonomous Region*3,00*36,00*CHI*CHI-NM*4,00**Eastern Asia*Nei Mongol*
+1470*Mono I.*6,00*60,00*SOL*SOL-SO*9,00*A*Melanesia**
+1471*Montana*7,00*73,00*MNT*MNT-OO*13,00**North America**
+1472*Montenegro*1,00*13,00*YUG*YUG-MN*1,00**Europe**
+1473*Montserrat*8,00*81,00*LEE*LEE-MO*15,00**West Indies**U.K. Crown Colony
+1474*Moorea*6,00*61,00*SCI*SCI-OO*9,00*E*S.E. Polynesia**one of Iles du Vent
+1475*Morant Cays*8,00*81,00*JAM*JAM-OO*15,00**West Indies**
+1476*Mordoviya*1,00*14,00*RUC*RUC-OO*1,00**Europe**
+1477*Morelos*7,00*79,00*MXC*MXC-MO*14,00**Central America**
+1478*Morocco*2,00*20,00*MOR*MOR-MO*2,00*B*North Africa**excluding Ceuta and Melilla
+1479*Morocco*2,00*20,00*MOR**2,00*B*North Africa**including Ceuta and Melilla
+1480*Mortlock I.*6,00*62,00*CRL*CRL-MF*9,00*F*Micronesia**[Caroline Is]
+1481*Mortlock Is.*6,00*60,00*SOL*SOL-SO*9,00*A*Melanesia*Tauu Is.*
+1482*Moscow*1,00*14,00*RUC*RUC-OO*1,00**Europe**
+1483*Mozambique*2,00*26,00*MOZ*MOZ-OO*10,00*E*South Tropical Africa**
+1484*Mozambique Channel Is.*2,00*29,00*MCI*MCI-OO*11,00**Madagascar and Mascarenes**
+1485*Mu Nggava*6,00*60,00*SOL*SOL-SO*9,00*A*Melanesia*Rennell I.*
+1486*Muko-jima*3,00*38,00*OGA*OGA-OO*4,00**Eastern Asia**
+1487*Mulgrave I.*5,00*50,00*QLD*QLD-QU*7,00**Australia*Badu I.*
+1488*Murmansk*1,00*14,00*RUN*RUN-OO*1,00**Europe**
+1489*Murray I.*5,00*50,00*QLD*QLD-QU*7,00**Australia**
+1490*Mururoa*6,00*61,00*TUA*TUA-OO*9,00*E*S.E. Polynesia**
+1491*Muscat*3,00*35,00*OMA*OMA-OO*2,00*A*Orient**
+1492*Mussau*4,00*42,00*BIS*BIS-OO*6,00*E*New Guinea**one of St.Matthias Is.
+1493*Mustique*8,00*81,00*WIN*WIN-SV*15,00**West Indies**one of Grenadines of St.Vincent
+1494*Myanmar*4,00*41,00*MYA*MYA-OO*5,00**India**
+1495*Myojin-jima*3,00*38,00*JAP*JAP-HN*4,00**Eastern Asia**
+1496*Nagaland*4,00*40,00*ASS*ASS-NA*5,00**India**
+1497*Nagar Haveli*4,00*40,00*IND*IND-DD*5,00**India**
+1498*Nagorno Karabakh*3,00*33,00*TCS*TCS-NK*2,00*A*Orient**
+1499*Nakano-shima*3,00*38,00*NNS*NNS-OO*4,00**Eastern Asia**part of Tokara-retto
+1500*Nakhichevan*3,00*33,00*TCS*TCS-NA*2,00*A*Orient**
+1502*Namibia*2,00*27,00*NAM*NAM-OO*12,00**South Africa**Excluding Caprivi Strip
+1503*Namonuito*6,00*62,00*CRL*CRL-MF*9,00*F*Micronesia**
+1504*Nan-sha*4,00*41,00*SCS*SCS-SI*6,00*F*South China Sea Islands**
+1506*Nansei-Shoto*3,00*38,00*NNS*NNS-OO*4,00**Eastern Asia**
+1507*Nanumanga*6,00*60,00*TUV*TUV-OO*9,00*D*Samoan Islands**
+1508*Nanumea*6,00*60,00*TUV*TUV-OO*9,00*D*Samoan Islands**
+1509*Nanusa Is.*4,00*42,00*SUL*SUL-OO*6,00*C*Malay Islands**
+1510*Narcondom I.*4,00*41,00*AND*AND-AN*5,00**India**
+1511*Nassau I.*6,00*60,00*TOK*TOK-MA*9,00*E*S.E. Polynesia**[Pacific]
+1512*Natal*2,00*27,00*NAT*NAT-OO*12,00**South Africa*KwaZulu Natal*
+1513*Natuna Is.*4,00*42,00*BOR*BOR-KA*6,00*C*Malay Islands**
+1514*Nauru*6,00*60,00*NRU*NRU-OO*9,00*D*Samoan Islands**
+1515*Navassa I.*8,00*81,00*HAI*HAI-NI*15,00**West Indies**
+1516*Naxos*1,00*13,00*GRC*GRC-OO*1,00**Europe**one of Kikladhes
+1517*Nayarit*7,00*79,00*MXS*MXS-NA*14,00**Central America**
+1518*Ndeni I.*6,00*60,00*SCZ*SCZ-OO*9,00*A*Melanesia**
+1519*Near I.*7,00*70,00*ALU*ALU-OO*13,00**North America**
+1520*Nebraska*7,00*74,00*NEB*NEB-OO*13,00**North America**
+1521*Necker I.*6,00*63,00*HAW*HAW-HI*9,00*G*Hawai'ian Islands**
+1522*Negeri Sembilan*4,00*42,00*MLY*MLY-PM*6,00*A*Malay Peninsula**
+1524*Negri Sembilan*4,00*42,00*MLY*MLY-PM*6,00*A*Malay Peninsula*Negeri Sembilan*
+1525*Negros*4,00*42,00*PHI*PHI-OO*6,00*D*Philippines**
+1526*Nei Mongol*3,00*36,00*CHI*CHI-NM*4,00**Eastern Asia**
+1527*Nepal*4,00*40,00*NEP*NEP-OO*5,00**India**
+1528*Netherlands*1,00*11,00*NET*NET-OO*1,00**Europe**
+1529*Netherlands Antilles*8,00*81,00*NLA**15,00**West Indies**excluding Netherlands Leeward Is.; self-governing part of Netherlands realm
+1530*Netherlands Guiana*8,00*82,00*SUR*SUR-OO*16,00**East Tropical South America*Surinam*
+1531*Netherlands Leeward Is.*8,00*81,00*LEE*LEE-NL*15,00**West Indies**
+1532*Neuquén*8,00*85,00*AGS*AGS-NE*18,00**Temperate South America**
+1533*Nevada*7,00*76,00*NEV*NEV-OO*13,00**North America**
+1534*Nevis*8,00*81,00*LEE*LEE-SK*15,00**West Indies**
+1535*New Brunswick*7,00*72,00*NBR*NBR-OO*13,00**North America**
+1536*New Britain*4,00*42,00*BIS*BIS-OO*6,00*E*New Guinea**
+1537*New Caledonia*6,00*60,00*NWC*NWC-OO*9,00*B*New Caledonia**Overseas Territory of France
+1538*New Georgia*6,00*60,00*SOL*SOL-SO*9,00*A*Melanesia**
+1539*New Guinea*4,00*42,00*NWG**6,00*E*New Guinea**
+1540*New Hampshire*7,00*75,00*NWH*NWH-OO*13,00**North America**
+1541*New Hanover*4,00*42,00*BIS*BIS-OO*6,00*E*New Guinea**
+1542*New Hebrides*6,00*60,00*VAN*VAN-OO*9,00*A*Melanesia*Vanuatu*
+1543*New Ireland*4,00*42,00*BIS*BIS-OO*6,00*E*New Guinea**
+1544*New Jersey*7,00*75,00*NWJ*NWJ-OO*13,00**North America**
+1545*New Mexico*7,00*77,00*NWM*NWM-OO*13,00**North America**
+1546*New Providence*8,00*81,00*BAH*BAH-OO*15,00**West Indies**
+1547*New Siberian Is.*3,00*30,00*YAK*YAK-OO*3,00**Northern Asia*Novosibirskiye Ostrova*
+1548*New South Wales*5,00*50,00*NSW*NSW-NS*7,00**Australia**excluding Australian Capital Territory
+1549*New South Wales*5,00*50,00*NSW**7,00**Australia**including Australian Capital Territory
+1550*New York*7,00*75,00*NWY*NWY-OO*13,00**North America**
+1551*New Zealand North*5,00*51,00*NZN*NZN-OO*8,00**New Zealand**
+1552*New Zealand South*5,00*51,00*NZS*NZS-OO*8,00**New Zealand**
+1553*Newfoundland I.*7,00*72,00*NFL*NFL-NE*13,00**North America**excluding St.Pierre-Miquelon
+1554*Newfoundland*7,00*72,00*NFL**13,00**North America**including St.Pierre-Miquelon
+1555*Ngatik*6,00*62,00*CRL*CRL-MF*9,00*F*Micronesia**
+1556*Nias*4,00*42,00*SUM*SUM-OO*6,00*C*Malay Islands**
+1557*Nicaragua*8,00*80,00*NIC*NIC-OO*14,00**Central America**
+1558*Nicaraguan Caribbean Is.*8,00*81,00*SWC*SWC-NC*14,00**Central America**
+1559*Nicholson I.*6,00*60,00*NUE*NUE-OO*9,00*D*Samoan Islands**part of Beveridge Reef
+1560*Nicobar Is.*4,00*41,00*NCB*NCB-OO*5,00**India**
+1561*Niger*2,00*22,00*NGR*NGR-OO*10,00*A*West Tropical Africa**
+1562*Nigeria*2,00*22,00*NGA*NGA-OO*10,00*A*West Tropical Africa**
+1563*Nightingale I.*9,00*90,00*TDC*TDC-OO*19,00**Antarctica and Subantarctic Islands**
+1564*Nihoa*6,00*63,00*HAW*HAW-HI*9,00*G*Hawai'ian Islands**
+1565*Nii-jima*3,00*38,00*JAP*JAP-HN*4,00**Eastern Asia**
+1566*Niihua*6,00*63,00*HAW*HAW-HI*9,00*G*Hawai'ian Islands**
+1567*Nikumaroro*6,00*60,00*PHX*PHX-OO*9,00*D*Samoan Islands**
+1568*Nikunau*6,00*60,00*GIL*GIL-OO*9,00*D*Samoan Islands**
+1569*Ningshia Autonomous Region*3,00*36,00*CHI*CHI-NX*4,00**Eastern Asia*Ningxia*
+1570*Ningxia*3,00*36,00*CHI*CHI-NX*4,00**Eastern Asia**
+1571*Ninigo Is.*4,00*42,00*BIS*BIS-OO*6,00*E*New Guinea**
+1572*Nishino-shima*3,00*38,00*OGA*OGA-OO*4,00**Eastern Asia**
+1573*Nissan*6,00*60,00*SOL*SOL-NO*9,00*A*Melanesia**one of Green Is.
+1574*Niuafoou*6,00*60,00*TON*TON-OO*9,00*D*Samoan Islands**
+1575*Niuatoputapu*6,00*60,00*TON*TON-OO*9,00*D*Samoan Islands**
+1576*Niue*6,00*60,00*NUE*NUE-OO*9,00*D*Samoan Islands**self-governing Territory Overseas in free association with New Zealand
+1577*Niulakita*6,00*60,00*TUV*TUV-OO*9,00*D*Samoan Islands**
+1578*Niutao*6,00*60,00*TUV*TUV-OO*9,00*D*Samoan Islands**
+1579*Nizhny Novgorod*1,00*14,00*RUC*RUC-OO*1,00**Europe**
+1580*Nomuka*6,00*60,00*TON*TON-OO*9,00*D*Samoan Islands**
+1581*Norfolk I.*5,00*50,00*NFK*NFK-NI*7,00**Australia**External Territory of Australia
+1582*Norge*1,00*10,00*NOR*NOR-OO*1,00**Europe*Norway*
+1583*North Borneo*4,00*42,00*BOR*BOR-SB*6,00*C*Malay Islands*Sabah*
+1584*North Carolina*7,00*78,00*NCA*NCA-OO*13,00**North America**
+1585*North Caucasus*3,00*33,00*NCS**2,00*A*Orient**
+1586*North Dakota*7,00*74,00*NDA*NDA-OO*13,00**North America**
+1587*North Korea*3,00*38,00*KOR*KOR-NK*4,00**Eastern Asia**
+1588*North Solomons*6,00*60,00*SOL*SOL-NO*9,00*A*Melanesia**
+1589*North Yemen*3,00*35,00*YEM*YEM-NY*2,00*A*Orient**
+1590*Northern Ireland*1,00*10,00*IRE*IRE-NI*1,00**Europe**
+1591*Northern Marianas*6,00*62,00*MRN*MRN-NM*9,00*F*Micronesia**
+1592*Northern Rhodesia*2,00*26,00*ZAM*ZAM-OO*10,00*E*South Tropical Africa*Zambia*
+1593*Northern Territory*5,00*50,00*NTA*NTA-OO*7,00**Australia**[Australia]
+1594*Northwest Territories*7,00*70,00*NWT**13,00**North America**
+1595*Norway*1,00*10,00*NOR*NOR-OO*1,00**Europe**
+1596*Norwegian Antarctic Territory*9,00*91,00*ANT*ANT-OO*19,00**Antarctica and Subantarctic Islands**
+1597*Nottingham I.*7,00*70,00*NWT*NWT-OO*13,00**North America**
+1598*Nova Scotia*7,00*72,00*NSC*NSC-OO*13,00**North America**
+1599*Novaya Zemlya*3,00*30,00*WSB*WSB-OO*3,00**Northern Asia**
+1600*Novgorod*1,00*14,00*RUW*RUW-OO*1,00**Europe**
+1601*Novosibirsk*3,00*30,00*WSB*WSB-OO*3,00**Northern Asia**
+1602*Novosibirskiye Ostrova*3,00*30,00*YAK*YAK-OO*3,00**Northern Asia**
+1603*Nueva Esparta*8,00*81,00*VNA*VNA-OO*17,00**West Tropical South America**
+1604*Nuevo León*7,00*79,00*MXE*MXE-NL*14,00**Central America**
+1605*Nuguria Is.*6,00*60,00*SOL*SOL-NO*9,00*A*Melanesia**
+1606*Nui*6,00*60,00*TUV*TUV-OO*9,00*D*Samoan Islands**
+1607*Nuku Hiva*6,00*61,00*MRQ*MRQ-OO*9,00*E*S.E. Polynesia**
+1608*Nukufetau*6,00*60,00*TUV*TUV-OO*9,00*D*Samoan Islands**
+1609*Nukulaelae*6,00*60,00*TUV*TUV-OO*9,00*D*Samoan Islands**
+1610*Nukumanu Is.*6,00*60,00*SOL*SOL-NO*9,00*A*Melanesia**
+1611*Nukunau*6,00*60,00*GIL*GIL-OO*9,00*D*Samoan Islands*Nikunau*
+1612*Nukunono*6,00*60,00*TOK*TOK-TO*9,00*D*Samoan Islands**
+1613*Nukuoro*6,00*62,00*CRL*CRL-MF*9,00*F*Micronesia**
+1614*Nupani I.*6,00*60,00*SCZ*SCZ-OO*9,00*A*Melanesia**
+1615*Nurakita*6,00*60,00*TUV*TUV-OO*9,00*D*Samoan Islands*Niulakita*
+1616*Nyasaland*2,00*26,00*MLW*MLW-OO*10,00*E*South Tropical Africa*Malawi*
+1617*Oahu*6,00*63,00*HAW*HAW-HI*9,00*G*Hawai'ian Islands**
+1618*Oaxaca*7,00*79,00*MXS*MXS-OA*14,00**Central America**
+1619*Obi Is.*4,00*42,00*MOL*MOL-OO*6,00*C*Malay Islands**
+1620*Ocean I.*6,00*60,00*GIL*GIL-OO*9,00*D*Samoan Islands*Banaba*
+1621*Ocussi Ambeno*4,00*42,00*LSI*LSI-ET*6,00*C*Malay Islands*East Timor*
+1622*Oeno I.*6,00*61,00*PIT*PIT-OO*9,00*E*S.E. Polynesia**
+1623*Ofu*6,00*60,00*SAM*SAM-AS*9,00*D*Samoan Islands**
+1624*Ogasawara-shoto*3,00*38,00*OGA*OGA-OO*4,00**Eastern Asia**
+1625*O'Higgins*8,00*85,00*CLN*CLC-OH*18,00**Temperate South America**
+1626*Ohio*7,00*75,00*OHI*OHI-OO*13,00**North America**
+1627*Oki*3,00*38,00*JAP*JAP-HN*4,00**Eastern Asia**
+1628*Okina Daito*3,00*38,00*NNS*NNS-OO*4,00**Eastern Asia**one of Dainto Is.
+1629*Okinawa*3,00*38,00*NNS*NNS-OO*4,00**Eastern Asia**I. Prefecture of Japan
+1630*Okinoeraba-shima*3,00*38,00*NNS*NNS-OO*4,00**Eastern Asia**part of Amami-shoto
+1631*Oklahoma*7,00*74,00*OKL*OKL-OO*13,00**North America**
+1632*Olosega*6,00*60,00*SAM*SAM-AS*9,00*D*Samoan Islands**
+1633*Oman*3,00*35,00*OMA*OMA-OO*2,00*A*Orient**
+1634*Omsk*3,00*30,00*WSB*WSB-OO*3,00**Northern Asia**
+1635*Onotoa*6,00*60,00*GIL*GIL-OO*9,00*D*Samoan Islands**
+1636*Ontario*7,00*72,00*ONT*ONT-OO*13,00**North America**
+1637*Ontong Java*6,00*60,00*SOL*SOL-SO*9,00*A*Melanesia**
+1638*Orange Free State*2,00*27,00*OFS*OFS-OO*12,00**South Africa*Free State*
+1639*Orchila I.*8,00*81,00*VNA*VNA-OO*17,00**West Tropical South America**
+1640*Oregon*7,00*73,00*ORE*ORE-OO*13,00**North America**
+1641*Orel*1,00*14,00*RUC*RUC-OO*1,00**Europe**
+1642*Orenburg*1,00*14,00*RUE*RUE-OO*1,00**Europe**
+1643*Orissa*4,00*40,00*IND*IND-OR*5,00**India**
+1644*Orkney Is.*1,00*10,00*GRB*GRB-OO*1,00**Europe**part of Scotland
+1645*Orlov*1,00*14,00*RUC*RUC-OO*1,00**Europe*Orel*
+1646*Oroluk*6,00*62,00*CRL*CRL-MF*9,00*F*Micronesia**
+1647*Orona*6,00*60,00*PHX*PHX-OO*9,00*D*Samoan Islands**
+1648*O-shima*3,00*38,00*NNS*NNS-OO*4,00**Eastern Asia**part of Amami-shoto
+1649*O-shima*3,00*38,00*JAP*JAP-HN*4,00**Eastern Asia**[Izu-shoto]
+1650*Osterreich*1,00*11,00*AUT*AUT-AU*1,00**Europe*Austria*
+1651*Osumi-shoto*3,00*38,00*JAP*JAP-KY*4,00**Eastern Asia**
+1652*O'Tahiti*6,00*61,00*SCI*SCI-OO*9,00*E*S.E. Polynesia*Tahiti*one of Iles du Vent
+1653*Oubangui Shari*2,00*23,00*CAF*CAF-OO*10,00*B*Cameroons and Congo*Central African Republic*
+1654*Pagalu*2,00*23,00*GGI*GGI-AN*10,00*B*Cameroons and Congo*Annobon*
+1655*Pagan*6,00*62,00*MRN*MRN-NM*9,00*F*Micronesia**
+1656*Pahang*4,00*42,00*MLY*MLY-PM*6,00*A*Malay Peninsula**
+1657*Pakistan*4,00*40,00*PAK*PAK-OO*5,00**India**
+1658*Pakistan East*4,00*40,00*BAN*BAN-OO*5,00**India**
+1659*Palau*6,00*62,00*CRL*CRL-PA*9,00*F*Micronesia**
+1660*Palau Is.*6,00*62,00*CRL*CRL-PA*9,00*F*Micronesia**
+1661*Palawan*4,00*42,00*PHI*PHI-OO*6,00*D*Philippines**
+1662*Palestine*3,00*34,00*PAL**2,00*A*Orient**
+1663*Palliser Is.*6,00*61,00*TUA*TUA-OO*9,00*E*S.E. Polynesia**
+1664*Palmerston I.*6,00*61,00*COO*COO-OO*9,00*E*S.E. Polynesia*Avarau*
+1665*Palmyra I.*6,00*61,00*LIN*LIN-US*9,00*E*S.E. Polynesia**
+1666*Panamá*8,00*80,00*PAN*PAN-OO*17,00**West Tropical South America**
+1667*Panamá Canal Zone*8,00*80,00*PAN*PAN-OO*17,00**West Tropical South America**
+1668*Panay*4,00*42,00*PHI*PHI-OO*6,00*D*Philippines**
+1669*Pandaidori Is.*4,00*42,00*NWG*NWG-IJ*6,00*E*New Guinea**
+1670*Pandora Bank*6,00*60,00*SCZ*SCZ-OO*9,00*A*Melanesia**
+1671*Panjang I.*4,00*41,00*VIE*VIE-OO*6,00*B*Indo-China*Hon Panjang*
+1672*Pantelleria*1,00*13,00*SIC*SIC-SI*1,00**Europe**
+1673*Papua New Guinea*4,00*42,00*NWG*NWG-PN*6,00*E*New Guinea**excluding Bismarck Archipelago and Bougainville Is.
+1674*Pará*8,00*84,00*BZN*BZN-PA*16,00**East Tropical South America**
+1675*Paracel Is.*4,00*41,00*SCS*SCS-PI*6,00*B*Indo-China**
+1676*Paraguay*8,00*85,00*PAR*PAR-OO*16,00**East Tropical South America**
+1677*Paraíba*8,00*84,00*BZE*BZE-PB*16,00**East Tropical South America**
+1678*Paraná*8,00*84,00*BZS*BZS-PR*16,00**East Tropical South America**
+1679*Parang*4,00*42,00*JAW*JAW-OO*6,00*C*Malay Islands**
+1680*Parece Vela*3,00*38,00*KZN*KZN-OO*4,00**Eastern Asia**
+1681*Paros*1,00*13,00*GRC*GRC-OO*1,00**Europe**one of Kikladhes
+1682*Parry Is.*7,00*70,00*NWT*NWT-OO*13,00**North America**
+1683*Pascua I.*6,00*61,00*EAS*EAS-OO*9,00*E*S.E. Polynesia*Easter I.*
+1684*Patagonia*8,00*85,00*AGS**18,00**Temperate South America**
+1685*Patmos*3,00*34,00*EAI*EAI-OO*2,00*A*Orient**one of Dhodekanisos
+1686*Patos I.*8,00*82,00*VEN*VEN-OO*17,00**West Tropical South America**
+1687*Paumotu*6,00*61,00*TUA*TUA-OO*9,00*E*S.E. Polynesia**
+1688*Peale I.*6,00*62,00*WAK*WAK-OO*9,00*F*Micronesia**
+1689*Pedra da Gale*2,00*23,00*GGI*GGI-PR*10,00*B*Cameroons and Congo**
+1690*Pedro Cays*8,00*81,00*JAM*JAM-OO*15,00**West Indies**
+1691*Peking*3,00*36,00*CHN*CHN-HB*4,00**Eastern Asia*Beijing*
+1692*Pelagie Is.*1,00*13,00*SIC*SIC-SI*1,00**Europe**
+1693*Peloponnisos*1,00*13,00*GRC*GRC-OO*1,00**Europe**
+1694*Pemba I.*2,00*25,00*TAN*TAN-OO*10,00*D*East Tropical Africa**
+1695*Penang*4,00*42,00*MLY*MLY-PM*6,00*A*Malay Peninsula*Pinang*
+1696*P'eng-hu Lieh-tao*3,00*38,00*TAI*TAI-OO*4,00**Eastern Asia**
+1697*Penida*4,00*42,00*LSI*LSI-BA*6,00*C*Malay Islands**
+1698*Pennisular Malaysia*4,00*42,00*MLY*MLY-PM*6,00*A*Malay Peninsula**
+1699*Penju Is.*4,00*42,00*MOL*MOL-OO*6,00*C*Malay Islands**
+1700*Pennsylvania*7,00*75,00*PEN*PEN-OO*13,00**North America**
+1701*Penrhyn I.*6,00*60,00*TOK*TOK-MA*9,00*E*S.E. Polynesia*Tongareva*
+1702*Pentecost I.*6,00*60,00*VAN*VAN-OO*9,00*A*Melanesia**
+1703*Penza*1,00*14,00*RUC*RUC-OO*1,00**Europe**
+1704*Perak*4,00*42,00*MLY*MLY-PM*6,00*A*Malay Peninsula**
+1705*Perim*3,00*35,00*YEM*YEM-SY*2,00*A*Orient**
+1706*Perlas Is.*8,00*80,00*PAN*PAN-OO*17,00**West Tropical South America**
+1707*Perlis*4,00*42,00*MLY*MLY-PM*6,00*A*Malay Peninsula**
+1708*Perm*1,00*14,00*RUE*RUE-OO*1,00**Europe**
+1709*Pernambuco*8,00*84,00*BZE*BZE-PE*16,00**East Tropical South America**
+1710*Persia*3,00*34,00*IRN*IRN-OO*2,00*A*Orient*Iran*
+1711*Peru*8,00*83,00*PER*PER-OO*17,00**West Tropical South America**
+1712*Pescadores*3,00*38,00*TAI*TAI-OO*4,00**Eastern Asia*P'eng-hu Lieh-tao*
+1713*Peter I Oy*9,00*91,00*ANT*ANT-OO*19,00**Antarctica and Subantarctic Islands**part of Ellsworth Land
+1714*Petite Terre, Isles de la*8,00*81,00*LEE*LEE-GU*15,00**West Indies**
+1715*Philippines*4,00*42,00*PHI*PHI-OO*6,00*D*Philippines**
+1716*Phillip I.*5,00*50,00*NFK*NFK-NI*7,00**Australia**
+1717*Phoenix Is.*6,00*60,00*PHX*PHX-OO*9,00*D*Samoan Islands**
+1718*Phu Quoc*4,00*41,00*VIE*VIE-OO*6,00*B*Indo-China**
+1719*Piauí*8,00*84,00*BZE*BZE-PI*16,00**East Tropical South America**
+1720*Pico*2,00*21,00*AZO*AZO-OO*2,00*C*Atlantic Islands**
+1721*Pinang*4,00*42,00*MLY*MLY-PM*6,00*A*Malay Peninsula**
+1722*Pines I.*6,00*60,00*NWC*NWC-OO*9,00*B*New Caledonia*Ile des Pins*[Pacific]
+1723*Pingelap*6,00*62,00*CRL*CRL-MF*9,00*F*Micronesia**
+1724*Pinipel I.*6,00*60,00*SOL*SOL-NO*9,00*A*Melanesia**one of Green Is.
+1725*Pinos I.*8,00*81,00*CUB*CUB-OO*15,00**West Indies*Isla de Juventud*[Caribbean]
+1726*Pins, Ile des*6,00*60,00*NWC*NWC-OO*9,00*B*New Caledonia**
+1727*Pinta I.*8,00*83,00*GAL*GAL-OO*17,00**West Tropical South America**
+1728*Pitcairn*6,00*61,00*PIT*PIT-OO*9,00*E*S.E. Polynesia**
+1729*Pitcairn Is.*6,00*61,00*PIT*PIT-OO*9,00*E*S.E. Polynesia**U.K. Dependent Territory
+1730*Pitt I.*5,00*51,00*CTM*CTM-OO*8,00**New Zealand**
+1731*Platte Is.*2,00*29,00*ALD*ALD-OO*11,00**Madagascar and Mascarenes**
+1732*Pohnpei*6,00*62,00*CRL*CRL-MF*9,00*F*Micronesia**
+1733*Poivre*2,00*29,00*ALD*ALD-OO*11,00**Madagascar and Mascarenes**part of Amirante group
+1734*Poland*1,00*11,00*POL*POL-OO*1,00**Europe**
+1735*Ponape*6,00*62,00*CRL*CRL-MF*9,00*F*Micronesia*Pohnpei*
+1736*Pondicherry*4,00*40,00*IND*IND-PO*5,00**India**
+1737*Porcs I.*9,00*90,00*CRZ*CRZ-OO*19,00**Antarctica and Subantarctic Islands*Ile aux Cochons*
+1738*Porto Santo*2,00*21,00*MDR*MDR-OO*2,00*C*Atlantic Islands**
+1739*Portugal*1,00*12,00*POR*POR-OO*1,00**Europe**excluding Azores and Madeira
+1740*Portuguese Congo*2,00*26,00*ANG*ANG-OO*10,00*E*South Tropical Africa**
+1741*Portuguese East Africa*2,00*26,00*MOZ*MOZ-OO*10,00*E*South Tropical Africa*Mozambique*
+1742*Portuguese Guinea*2,00*22,00*GNB*GNB-OO*10,00*A*West Tropical Africa*Guinea-Bissau*
+1743*Portuguese Maiombe*2,00*23,00*CAB*CAB-OO*10,00*B*Cameroons and Congo*Cabinda*
+1744*Portuguese Timor*4,00*42,00*LSI*LSI-ET*6,00*C*Malay Islands*East Timor*
+1745*Possession I.*9,00*90,00*CRZ*CRZ-OO*19,00**Antarctica and Subantarctic Islands**
+1746*Poulo Condore*4,00*41,00*VIE*VIE-OO*6,00*B*Indo-China*Con Son*
+1747*Praslin I.*2,00*29,00*SEY*SEY-OO*11,00**Madagascar and Mascarenes**
+1748*Pratas I.*3,00*36,00*CHS*CHS-GD*4,00**Eastern Asia*Dongsha Qundao*
+1749*Pratus I.*3,00*36,00*CHS*CHS-GD*4,00**Eastern Asia*Dongsha Qundao*
+1750*Preparis I.*4,00*41,00*AND*AND-CO*5,00**India**
+1751*Pribilov Is.*7,00*70,00*ASK*ASK-OO*13,00**North America**
+1752*Primorskiy Kray*3,00*31,00*PRM*PRM-OO*3,00**Northern Asia*Primorye*
+1753*Primorye*3,00*31,00*PRM*PRM-OO*3,00**Northern Asia**
+1754*Prince Edward I.*7,00*72,00*PEI*PEI-OO*13,00**North America**[Canada]
+1755*Prince Edward I.*9,00*90,00*MPE*MPE-OO*19,00**Antarctica and Subantarctic Islands**
+1756*Prince of Wales I.*7,00*70,00*ASK*ASK-OO*13,00**North America**[Alaska]
+1757*Prince of Wales I.*7,00*70,00*NWT*NWT-OO*13,00**North America**[Canada]
+1758*Prince of Wales I.*4,00*42,00*MLY*MLY-PM*6,00*A*Malay Peninsula*Pinang*[Malaya]
+1759*Prince of Wales I.*5,00*50,00*QLD*QLD-QU*7,00**Australia**[Torres Strait]
+1760*Princess Elizabeth Land*9,00*91,00*ANT*ANT-OO*19,00**Antarctica and Subantarctic Islands**part of Australian Antarctic Territory
+1761*Principe*2,00*23,00*GGI*GGI-PR*10,00*B*Cameroons and Congo**
+1762*Providence group*2,00*29,00*ALD*ALD-OO*11,00**Madagascar and Mascarenes**
+1763*Providence I.*2,00*29,00*ALD*ALD-OO*11,00**Madagascar and Mascarenes**one of Providence group
+1764*Providencia I.*8,00*81,00*SWC*SWC-CC*14,00**Central America**
+1765*Psara*3,00*34,00*EAI*EAI-OO*2,00*A*Orient**
+1766*Pskov*1,00*14,00*RUW*RUW-OO*1,00**Europe**
+1767*Puebla*7,00*79,00*MXC*MXC-PU*14,00**Central America**
+1768*Puerto Rico*8,00*81,00*PUE*PUE-OO*15,00**West Indies**excluding Navassa I.; self-governing commonwealth associated with U.S.A.
+1769*Pukapuka*6,00*60,00*TOK*TOK-MA*9,00*E*S.E. Polynesia**[Manihiki]
+1770*Pukapuka*6,00*61,00*TUA*TUA-OO*9,00*E*S.E. Polynesia**[Tuamotu]
+1771*Pulo Ana*6,00*62,00*CRL*CRL-PA*9,00*F*Micronesia**
+1772*Punjab*4,00*40,00*IND*IND-PU*5,00**India**[India]
+1773*Punjab*4,00*40,00*PAK*PAK-OO*5,00**India**[Pakistan]
+1774*Purdy Is.*4,00*42,00*BIS*BIS-OO*6,00*E*New Guinea**
+1775*Qatar*3,00*35,00*GST*GST-QA*2,00*A*Orient**
+1776*Qinghai*3,00*36,00*CHQ**4,00**Eastern Asia**
+1777*Québec*7,00*72,00*QUE*QUE-OO*13,00**North America**
+1778*Queen Charlotte Is.*7,00*71,00*BRC*BRC-OO*13,00**North America**
+1779*Queen Elizabeth Is.*7,00*70,00*NWT*NWT-OO*13,00**North America**
+1780*Queen Mary Land*9,00*91,00*ANT*ANT-OO*19,00**Antarctica and Subantarctic Islands**part of Australian Antarctic Territory
+1781*Queensland*5,00*50,00*QLD*QLD-QU*7,00**Australia**excluding Coral Sea Is. Territory
+1782*Queensland*5,00*50,00*QLD**7,00**Australia**including Coral Sea Is. Territory
+1783*Quelpart I.*3,00*38,00*KOR*KOR-SK*4,00**Eastern Asia*Cheju Do*
+1784*Quemoy*3,00*36,00*CHS*CHS-KI*4,00**Eastern Asia*Kin-Men*
+1785*Querétaro*7,00*79,00*MXE*MXE-QU*14,00**Central America**
+1786*Quintana Roo*7,00*79,00*MXT*MXT-QR*14,00**Central America**
+1787*Quita Sueño*8,00*81,00*SWC*SWC-CC*14,00**Central America**
+1788*Rabi*6,00*60,00*FIJ*FIJ-OO*9,00*C*Fiji Islands**
+1789*Raeffsky Is.*6,00*61,00*TUA*TUA-OO*9,00*E*S.E. Polynesia**
+1790*Ragged I.*8,00*81,00*BAH*BAH-OO*15,00**West Indies**
+1791*Raiatea*6,00*61,00*SCI*SCI-OO*9,00*E*S.E. Polynesia**one of Iles sous le Vent
+1792*Raivavae*6,00*61,00*TUB*TUB-OO*9,00*E*S.E. Polynesia**
+1793*Rajasthan*4,00*40,00*IND*IND-RA*5,00**India**
+1794*Rajaswaree Reef*2,00*29,00*ALD*ALD-OO*11,00**Madagascar and Mascarenes**
+1795*Rakahanga*6,00*60,00*TOK*TOK-MA*9,00*E*S.E. Polynesia**
+1796*Ralik chain*6,00*62,00*MRS*MRS-OO*9,00*F*Micronesia**
+1797*Rambi*6,00*60,00*FIJ*FIJ-OO*9,00*C*Fiji Islands*Rabi*
+1798*Rangiroa*6,00*61,00*TUA*TUA-OO*9,00*E*S.E. Polynesia**
+1799*Raoul I.*5,00*51,00*KER*KER-OO*8,00**New Zealand**
+1800*Rapa I.*6,00*61,00*TUB*TUB-OO*9,00*E*S.E. Polynesia*Rapa-Iti*
+1801*Rapa Nui*6,00*61,00*EAS*EAS-OO*9,00*E*S.E. Polynesia*Easter I.*
+1802*Rapa-Iti*6,00*61,00*TUB*TUB-OO*9,00*E*S.E. Polynesia**
+1803*Raroia*6,00*61,00*TUA*TUA-OO*9,00*E*S.E. Polynesia**
+1804*Rarotonga*6,00*61,00*COO*COO-OO*9,00*E*S.E. Polynesia**
+1805*Ras Al-Khaimah*3,00*35,00*GST*GST-UA*2,00*A*Orient*Ra's al Khaymah*
+1806*Rasa-shima*3,00*38,00*NNS*NNS-OO*4,00**Eastern Asia**one of Daito Is.
+1807*Ratak chain*6,00*62,00*MRS*MRS-OO*9,00*F*Micronesia**
+1808*Rawaki*6,00*60,00*PHX*PHX-OO*9,00*D*Samoan Islands**
+1809*Redonda*8,00*81,00*LEE*LEE-AB*15,00**West Indies**
+1810*Reirson I.*6,00*60,00*TOK*TOK-MA*9,00*E*S.E. Polynesia*Rakahanga*
+1811*Remire*2,00*29,00*ALD*ALD-OO*11,00**Madagascar and Mascarenes**part of Amirante group
+1812*Rennell I.*6,00*60,00*SOL*SOL-SO*9,00*A*Melanesia**
+1813*Réunion*2,00*29,00*REU*REU-OO*11,00**Madagascar and Mascarenes**Overseas Departement of France
+1814*Revillagigedo Is.*7,00*79,00*MXI*MXI-RG*14,00**Central America**
+1815*Rhode I.*7,00*75,00*RHO*RHO-OO*13,00**North America**
+1816*Rhodes*3,00*34,00*EAI*EAI-OO*2,00*A*Orient*Rhodos*
+1817*Rhodesia*2,00*26,00*ZIM*ZIM-OO*10,00*E*South Tropical Africa*Zimbabwe*
+1818*Rhodesia, Northern*2,00*26,00*ZAM*ZAM-OO*10,00*E*South Tropical Africa*Zambia*
+1819*Rhodesia, Southern*2,00*26,00*ZIM*ZIM-OO*10,00*E*South Tropical Africa*Zimbabwe*
+1820*Riau Is.*4,00*42,00*SUM*SUM-OO*6,00*C*Malay Islands**
+1821*Rimatara*6,00*61,00*TUB*TUB-OO*9,00*E*S.E. Polynesia**
+1822*Rio de Janeiro*8,00*84,00*BZL*BZL-RJ*16,00**East Tropical South America**
+1823*Rio de Oro*2,00*20,00*WSA*WSA-OO*2,00*B*North Africa*Western Sahara*
+1824*Rio Grande do Norte*8,00*84,00*BZE*BZE-RN*16,00**East Tropical South America**
+1825*Rio Grande do Sul*8,00*84,00*BZS*BZS-RS*16,00**East Tropical South America**
+1826*Rio Muni*2,00*23,00*EQG*EQG-OO*10,00*B*Cameroons and Congo*Equatorial Guinea*
+1827*Rio Negro*8,00*85,00*AGS*AGS-RN*18,00**Temperate South America**
+1828*Roatan*8,00*81,00*SWC*SWC-HC*14,00**Central America**one of Bahia Is.
+1829*Robinson Crusoe I.*8,00*85,00*JNF*JNF-OO*18,00**Temperate South America**
+1830*Roca Catedral*8,00*85,00*DSV*DSV-OO*18,00**Temperate South America**
+1831*Rocas Alijos*7,00*79,00*MXI*MXI-RA*14,00**Central America**
+1832*Rockall*1,00*10,00*GRB*GRB-OO*1,00**Europe**
+1833*Rhodos*3,00*34,00*EAI*EAI-OO*2,00*A*Orient**
+1834*Rodrigues*2,00*29,00*ROD*ROD-OO*11,00**Madagascar and Mascarenes**
+1835*Rolas Is.*2,00*23,00*GGI*GGI-ST*10,00*B*Cameroons and Congo**
+1836*Romania*1,00*13,00*ROM*ROM-OO*1,00**Europe**
+1837*Roncador Cay*8,00*81,00*SWC*SWC-CC*14,00**Central America**
+1838*Ronde*8,00*81,00*WIN*WIN-GR*15,00**West Indies**one of Grenadines of Grenada
+1839*Rondônia*8,00*84,00*BZN*BZN-RO*16,00**East Tropical South America**
+1840*Rooke Is.*4,00*42,00*BIS*BIS-OO*6,00*E*New Guinea*Umboi*
+1841*Roraima*8,00*84,00*BZN*BZN-RM*16,00**East Tropical South America**
+1842*Rose I.*6,00*60,00*SAM*SAM-AS*9,00*D*Samoan Islands**
+1843*Ross Dependency*9,00*91,00*ANT*ANT-OO*19,00**Antarctica and Subantarctic Islands**Antarctic Territory Overseas of New Zealand
+1844*Rossel I.*4,00*42,00*NWG*NWG-PN*6,00*E*New Guinea**part of Louisiade Archipelago
+1845*Rostov*1,00*14,00*RUS*RUS-OO*1,00**Europe**
+1846*Rota*6,00*62,00*MRN*MRN-NM*9,00*F*Micronesia**
+1847*Rotuma*6,00*60,00*FIJ*FIJ-OO*9,00*C*Fiji Islands**
+1848*Round I.*2,00*29,00*MAU*MAU-OO*11,00**Madagascar and Mascarenes**
+1849*Ruanda*2,00*23,00*RWA*RWA-OO*10,00*B*Cameroons and Congo*Rwanda*
+1850*Rumania*1,00*13,00*ROM*ROM-OO*1,00**Europe*Romania*
+1851*Rurutu*6,00*61,00*TUB*TUB-OO*9,00*E*S.E. Polynesia**
+1852*Russell Is.*6,00*60,00*SOL*SOL-SO*9,00*A*Melanesia**
+1853*Russia*1,00*14,00***1,00**Europe*Russia North, Russia South, Russia Northwest, Russia Central and Russia East;  also U.S.S.R.*
+1854*Russia Central*1,00*14,00*RUC*RUC-OO*1,00**Europe*Central European Russia*
+1855*Russia East*1,00*14,00*RUE*RUE-OO*1,00**Europe*East European Russia*
+1856*Russia North*1,00*14,00*RUN*RUN-OO*1,00**Europe*North European Russia*
+1857*Russia Northwest*1,00*14,00*RUW*RUW-OO*1,00**Europe*Northwest European Russia*
+1858*Russia South*1,00*14,00*RUS*RUS-OO*1,00**Europe*South European Russia*
+1859*Rwanda*2,00*23,00*RWA*RWA-OO*10,00*B*Cameroons and Congo**
+1860*Ryazan*1,00*14,00*RUC*RUC-OO*1,00**Europe**
+1861*Ryukyu Is.*3,00*38,00*NNS*NNS-OO*4,00**Eastern Asia**
+1862*Saba*8,00*81,00*LEE*LEE-NL*15,00**West Indies**
+1863*Sabah*4,00*42,00*BOR*BOR-SB*6,00*C*Malay Islands**
+1864*Sabalana Is.*4,00*42,00*SUL*SUL-OO*6,00*C*Malay Islands**
+1865*Sable I.*7,00*72,00*NSC*NSC-OO*13,00**North America**[Atlantic]
+1866*Sable I.*6,00*60,00*NWC*NWC-OO*9,00*B*New Caledonia**[South Pacific]
+1867*Saibai I.*5,00*50,00*QLD*QLD-QU*7,00**Australia**
+1868*Saintes, Iles des*8,00*81,00*LEE*LEE-GU*15,00**West Indies**
+1869*Saipan*6,00*62,00*MRN*MRN-NM*9,00*F*Micronesia**
+1870*Sakala*4,00*42,00*JAW*JAW-OO*6,00*C*Malay Islands**
+1871*Sakhalin*3,00*31,00*SAK*SAK-OO*3,00**Northern Asia**
+1872*Sakishima-gunto*3,00*38,00*NNS*NNS-OO*4,00**Eastern Asia**
+1873*Sala y Gomez*6,00*61,00*EAS*EAS-OO*9,00*E*S.E. Polynesia**
+1874*Salta*8,00*85,00*AGW*AGW-SA*18,00**Temperate South America**
+1875*Salvador, El*8,00*80,00*ELS*ELS-OO*14,00**Central America**
+1876*Salvage Is.*2,00*21,00*SEL*SEL-OO*2,00*C*Atlantic Islands**
+1877*Samana Cay*8,00*81,00*BAH*BAH-OO*15,00**West Indies**
+1878*Samar*4,00*42,00*PHI*PHI-OO*6,00*D*Philippines**
+1879*Samara*1,00*14,00*RUE*RUE-OO*1,00**Europe**
+1880*Samhah I.*2,00*24,00*SOC*SOC-OO*10,00*C*North East Tropical Africa**
+1881*Samoa*6,00*60,00*SAM**9,00*D*Samoan Islands**
+1882*Samos*3,00*34,00*EAI*EAI-OO*2,00*A*Orient**one of Dhodekanisos
+1883*Samothrace*1,00*13,00*GRC*GRC-OO*1,00**Europe*Samothraki*
+1884*Samothraki*1,00*13,00*GRC*GRC-OO*1,00**Europe**
+1885*San Ambrosio I.*8,00*85,00*DSV*DSV-OO*18,00**Temperate South America**
+1886*San Andrés I.*8,00*81,00*SWC*SWC-CC*14,00**Central America**
+1887*San Clemente I.*7,00*76,00*CAL*CAL-OO*13,00**North America**
+1888*San Cristobal*8,00*83,00*GAL*GAL-OO*17,00**West Tropical South America**[Galápagos]
+1889*San Cristobal*6,00*60,00*SOL*SOL-SO*9,00*A*Melanesia**[SW. Pacific]
+1890*San Felix I.*8,00*85,00*DSV*DSV-OO*18,00**Temperate South America**
+1891*San Juan*8,00*85,00*AGW*AGW-SJ*18,00**Temperate South America**
+1892*San Luis*8,00*85,00*AGW*AGW-SL*18,00**Temperate South America**
+1893*San Luis Potosí*7,00*79,00*MXE*MXE-SL*14,00**Central America**
+1894*San Marino*1,00*13,00*ITA*ITA-SM*1,00**Europe**
+1895*San Miguel I.*7,00*76,00*CAL*CAL-OO*13,00**North America**
+1896*San Nicolas I.*7,00*76,00*CAL*CAL-OO*13,00**North America**
+1897*San Salvador*8,00*81,00*BAH*BAH-OO*15,00**West Indies**[Caribbean]
+1898*San Salvador*8,00*83,00*GAL*GAL-OO*17,00**West Tropical South America**[Galapagos]
+1899*Sanak I.*7,00*70,00*ALU*ALU-OO*13,00**North America**
+1900*Sand I.*6,00*63,00*HAW*HAW-MI*9,00*G*Hawai'ian Islands**
+1901*Sandwich Is.*6,00*63,00*HAW*HAW-HI*9,00*G*Hawai'ian Islands*Hawai'ian Is.*
+1902*Sangir Is.*4,00*42,00*SUL*SUL-OO*6,00*C*Malay Islands**
+1903*Santa Catalina I.*7,00*76,00*CAL*CAL-OO*13,00**North America**
+1904*Santa Catarina*8,00*84,00*BZS*BZS-SC*16,00**East Tropical South America**
+1905*Santa Cruz I.*7,00*76,00*CAL*CAL-OO*13,00**North America**[California]
+1906*Santa Cruz I.*8,00*83,00*GAL*GAL-OO*17,00**West Tropical South America**[Galápagos]
+1907*Santa Cruz Is.*6,00*60,00*SCZ*SCZ-OO*9,00*A*Melanesia**[South Pacific]
+1908*Santa Cruz*8,00*85,00*AGS*AGS-SC*18,00**Temperate South America**[Argentina]
+1909*Santa Fé*8,00*85,00*AGS*AGS-SF*18,00**Temperate South America**
+1910*Santa Isabel*6,00*60,00*SOL*SOL-SO*9,00*A*Melanesia**
+1911*Santa Maria*2,00*21,00*AZO*AZO-OO*2,00*C*Atlantic Islands**
+1912*Santa Maria I.*6,00*60,00*VAN*VAN-OO*9,00*A*Melanesia**[Vanuatu]
+1913*Santa Maria I.*8,00*83,00*GAL*GAL-OO*17,00**West Tropical South America**[Galápagos]
+1914*Santa Rosa I.*7,00*76,00*CAL*CAL-OO*13,00**North America**
+1915*Santa Ysabel*6,00*60,00*SOL*SOL-SO*9,00*A*Melanesia*Santa Isabel*
+1916*Santiago*8,00*85,00*CLN*CLC-SA*18,00**Temperate South America**
+1917*Santiago del Estero*8,00*85,00*AGW*AGW-SE*18,00**Temperate South America**
+1918*Santorini*1,00*13,00*GRC*GRC-OO*1,00**Europe*Thira*one of Kikladhes
+1919*Sao Jorge*2,00*21,00*AZO*AZO-OO*2,00*C*Atlantic Islands**
+1920*São Paulo*8,00*84,00*BZL*BZL-SP*16,00**East Tropical South America**
+1921*São Pedro e São Paulo*8,00*84,00*BZE*BZE-FN*16,00**East Tropical South America**
+1922*São Tomé*2,00*23,00*GGI*GGI-ST*10,00*B*Cameroons and Congo**
+1923*Sarangani Is.*4,00*42,00*PHI*PHI-OO*6,00*D*Philippines**
+1924*Saratov*1,00*14,00*RUS*RUS-OO*1,00**Europe**
+1925*Sarawak*4,00*42,00*BOR*BOR-SR*6,00*C*Malay Islands**
+1926*Sardegna*1,00*12,00*SAR*SAR-OO*1,00**Europe**I. region of Italy
+1927*Sardinia*1,00*12,00*SAR*SAR-OO*1,00**Europe*Sardegna*
+1928*Saria*1,00*13,00*KRI*KRI-OO*1,00**Europe**
+1929*Sarigan*6,00*62,00*MRN*MRN-NM*9,00*F*Micronesia**
+1930*Sark*1,00*12,00*FRA*FRA-CI*1,00**Europe**
+1931*Saskatchewan*7,00*71,00*SAS*SAS-OO*13,00**North America**
+1932*Saudi Arabia*3,00*35,00*SAU*SAU-OO*2,00*A*Orient**
+1933*Savaii*6,00*60,00*SAM*SAM-WS*9,00*D*Samoan Islands**
+1934*Savu*4,00*42,00*LSI*LSI-LS*6,00*C*Malay Islands**
+1935*Scarpanto*1,00*13,00*KRI*KRI-OO*1,00**Europe*Karpathos*
+1936*Schouten Is.*4,00*42,00*NWG*NWG-IJ*6,00*E*New Guinea*Panaidori Is.*
+1937*Scotland*1,00*10,00*GRB*GRB-OO*1,00**Europe**
+1938*Scott I.*9,00*91,00*ANT*ANT-OO*19,00**Antarctica and Subantarctic Islands**part of Ross Dependency
+1939*Seal Cays*8,00*81,00*TCI*TCI-OO*15,00**West Indies**
+1940*Seal I.*6,00*63,00*HAW*HAW-HI*9,00*G*Hawai'ian Islands**
+1941*Seguia el Hamara*2,00*20,00*WSA*WSA-OO*2,00*B*North Africa*Western Sahara*
+1942*Selangor*4,00*42,00*MLY*MLY-PM*6,00*A*Malay Peninsula**
+1943*Selvagens*2,00*21,00*SEL*SEL-OO*2,00*C*Atlantic Islands**
+1944*Senegal*2,00*22,00*SEN*SEN-OO*10,00*A*West Tropical Africa**
+1945*Senkaku-gunto*3,00*38,00*NNS*NNS-OO*4,00**Eastern Asia**
+1946*Sepanjang*4,00*42,00*JAW*JAW-OO*6,00*C*Malay Islands**
+1947*Seram*4,00*42,00*MOL*MOL-OO*6,00*C*Malay Islands**
+1948*Serbia*1,00*13,00*YUG*YUG-SE*1,00**Europe**
+1949*Sergeya Kirova Ostrova*3,00*30,00*KRA*KRA-OO*3,00**Northern Asia**
+1950*Sergipe*8,00*84,00*BZE*BZE-SE*16,00**East Tropical South America**
+1951*Sermata Is.*4,00*42,00*LSI*LSI-LS*6,00*C*Malay Islands**
+1952*Serrana Bank*8,00*81,00*SWC*SWC-CC*14,00**Central America**
+1953*Serranilla Bank*8,00*81,00*SWC*SWC-CC*15,00**West Indies**
+1954*Sete Pedras Is.*2,00*23,00*GGI*GGI-ST*10,00*B*Cameroons and Congo**
+1955*Severnaya Zemlya*3,00*30,00*KRA*KRA-OO*3,00**Northern Asia**
+1956*Severo-Osetiya*3,00*33,00*NCS*NCS-SO*2,00*A*Orient**
+1957*Seychelles*2,00*29,00*SEY*SEY-OO*11,00**Madagascar and Mascarenes**
+1958*Shaanxi*3,00*36,00*CHN*CHN-SA*4,00**Eastern Asia**
+1959*Shag Rocks*9,00*90,00*SGE*SGE-OO*19,00**Antarctica and Subantarctic Islands**
+1960*Shandong*3,00*36,00*CHN*CHN-SD*4,00**Eastern Asia**
+1961*Shanghai*3,00*36,00*CHS*CHS-JS*4,00**Eastern Asia**
+1962*Shansi*3,00*36,00*CHN*CHN-SX*4,00**Eastern Asia*Shanxi*
+1963*Shantarskiye Ostrova*3,00*31,00*KHA*KHA-OO*3,00**Northern Asia**
+1964*Shantung*3,00*36,00*CHN*CHN-SD*4,00**Eastern Asia*Shandong*
+1965*Shanxi*3,00*36,00*CHN*CHN-SX*4,00**Eastern Asia**
+1966*Sharjah*3,00*35,00*GST*GST-UA*2,00*A*Orient*Ash Shariqah*
+1967*Shensi*3,00*36,00*CHN*CHN-SA*4,00**Eastern Asia*Shaanxi*
+1968*Shepherd I.*6,00*60,00*VAN*VAN-OO*9,00*A*Melanesia**
+1969*Shetland Is.*1,00*10,00*GRB*GRB-OO*1,00**Europe**part of Scotland
+1970*Shikine-jima*3,00*38,00*JAP*JAP-HN*4,00**Eastern Asia**
+1971*Shikoku*3,00*38,00*JAP*JAP-SH*4,00**Eastern Asia**I. Prefecture of Japan
+1972*Shikotan*3,00*31,00*KUR*KUR-OO*3,00**Northern Asia**
+1973*Shortland Is.*6,00*60,00*SOL*SOL-SO*9,00*A*Melanesia**
+1974*Shqiperi*1,00*13,00*ALB*ALB-OO*1,00**Europe*Albania*
+1975*Siam*4,00*41,00*THA*THA-OO*6,00*B*Indo-China*Thailand*
+1976*Sichuan*3,00*36,00*CHC*CHC-SC*4,00**Eastern Asia**
+1977*Sicilia*1,00*13,00*SIC*SIC-SI*1,00**Europe**excluding Malta
+1978*Sicilia*1,00*13,00*SIC**1,00**Europe**including Malta
+1979*Sicily*1,00*13,00*SIC*SIC-SI*1,00**Europe**
+1980*Sierra Leone*2,00*22,00*SIE*SIE-OO*10,00*A*West Tropical Africa**
+1981*Sikkim*4,00*40,00*EHM*EHM-SI*5,00**India**
+1982*Silhouette I.*2,00*29,00*SEY*SEY-OO*11,00**Madagascar and Mascarenes**
+1983*Simeulue*4,00*42,00*SUM*SUM-OO*6,00*C*Malay Islands**
+1984*Simi*3,00*34,00*EAI*EAI-OO*2,00*A*Orient**one of Dhodekanisos
+1985*Sinai*3,00*34,00*SIN*SIN-OO*2,00*A*Orient**
+1986*Sinaloa*7,00*79,00*MXN*MXN-SI*14,00**Central America**
+1987*Sind*4,00*40,00*PAK*PAK-OO*5,00**India**
+1988*Singapore*4,00*42,00*MLY*MLY-SI*6,00*A*Malay Peninsula**
+1989*Singihe Is.*4,00*42,00*SUL*SUL-OO*6,00*C*Malay Islands*Sangir Is.*
+1990*Sinkiang*3,00*36,00*CHX*CHX-OO*4,00**Eastern Asia*Xinjiang*
+1991*Sint Eustatius*8,00*81,00*LEE*LEE-NL*15,00**West Indies**
+1992*Sint Maarten*8,00*81,00*LEE*LEE-NL*15,00**West Indies**
+1993*Sirna*1,00*13,00*GRC*GRC-OO*1,00**Europe**
+1994*Sitsang*3,00*36,00*CHT*CHT-OO*4,00**Eastern Asia*Tibet*
+1995*Skiros*1,00*13,00*GRC*GRC-OO*1,00**Europe**
+1996*Skopelos Kaloyeroi*1,00*13,00*GRC*GRC-OO*1,00**Europe**
+1997*Slovenija*1,00*13,00*YUG*YUG-SL*1,00**Europe*Slovenia*
+1998*Smolensk*1,00*14,00*RUC*RUC-OO*1,00**Europe**
+1999*Snake I.*8,00*81,00*LEE*LEE-AG*15,00**West Indies**
+2000*Snares I.*5,00*51,00*NZS*NZS-OO*8,00**New Zealand**
+2001*Society Is.*6,00*61,00*SCI*SCI-OO*9,00*E*S.E. Polynesia**
+2002*Socotra*2,00*24,00*SOC*SOC-OO*10,00*C*North East Tropical Africa**
+2003*Sofu-gan*3,00*38,00*JAP*JAP-HN*4,00**Eastern Asia**
+2004*Sokotra*2,00*24,00*SOC*SOC-OO*10,00*C*North East Tropical Africa*Socotra*
+2005*Solomon Is.*6,00*60,00*SOL**9,00*A*Melanesia**including North Solomons and South Solomons, excluding Santa Cruz Is.
+2006*Solor Is.*4,00*42,00*LSI*LSI-LS*6,00*C*Malay Islands**
+2007*Somalia*2,00*24,00*SOM*SOM-OO*10,00*C*North East Tropical Africa**
+2008*Somaliland Protectorate*2,00*24,00*SOM*SOM-OO*10,00*C*North East Tropical Africa*British Somaliland*
+2009*Somaliland, British*2,00*24,00*SOM*SOM-OO*10,00*C*North East Tropical Africa**
+2010*Somaliland, French*2,00*24,00*DJI*DJI-OO*10,00*C*North East Tropical Africa*Djibouti*
+2011*Somaliland, Italian*2,00*24,00*SOM*SOM-OO*10,00*C*North East Tropical Africa**
+2012*Sombrero*8,00*81,00*LEE*LEE-AG*15,00**West Indies**
+2013*Sonora*7,00*79,00*MXN*MXN-SO*14,00**Central America**
+2014*Sonsorol*6,00*62,00*CRL*CRL-PA*9,00*F*Micronesia**
+2015*Soongaria*3,00*36,00*CHX*CHX-OO*4,00**Eastern Asia*Dzungaria*
+2016*South Africa*2,00*27,00***12,00**South Africa*Cape Province, Natal, Orange Free State, Transvaal, Walvis Bay and Marion-Prince Edward Is.*
+2017*South Australia*5,00*50,00*SOA*SOA-OO*7,00**Australia**
+2018*South Carolina*7,00*78,00*SCA*SCA-OO*13,00**North America**
+2019*South China Sea*4,00*41,00*SCS******split between areas 6 B Indo-China and 6 C Malay Is. of Kew system
+2020*South Dakota*7,00*74,00*SDA*SDA-OO*13,00**North America**
+2021*South Georgia*9,00*90,00*SGE*SGE-OO*19,00**Antarctica and Subantarctic Islands**Dependency of Falkland Is.
+2022*South Korea*3,00*38,00*KOR*KOR-SK*4,00**Eastern Asia**
+2023*South Orkney Is.*9,00*91,00*ANT*ANT-OO*19,00**Antarctica and Subantarctic Islands**part of British Antarctic Territory
+2024*South Sandwich Is.*9,00*90,00*SSA*SSA-OO*19,00**Antarctica and Subantarctic Islands**Dependency of Falkland Is.
+2025*South Shetland Is.*9,00*91,00*ANT*ANT-OO*19,00**Antarctica and Subantarctic Islands**part of British Antarctic Territory
+2026*South Solomons*6,00*60,00*SOL*SOL-SO*9,00*A*Melanesia**
+2027*South West Africa*2,00*27,00*NAM*NAM-OO*12,00**South Africa*Namibia*
+2028*South Yemen*3,00*35,00*YEM*YEM-SY*2,00*A*Orient**
+2029*Southampton I.*7,00*70,00*NUN*NUN-OO*13,00**North America**
+2030*Southern Rhodesia*2,00*26,00*ZIM*ZIM-OO*10,00*E*South Tropical Africa*Zimbabwe*
+2031*Southwest Caribbean*8,00*81,00*SWC******split between areas 14 Central America and 15 West Indies of Kew system
+2032*Spain*1,00*12,00*SPA*SPA-SP*1,00**Europe**excluding Baleares, Canary Is., Ceuta and Melilla
+2033*Spain*1,00*12,00*SPA**1,00**Europe**excluding Baleares, Canary Is., Ceuta and Melilla; including Andorra and Gibraltar
+2034*Spanish Guinea*2,00*23,00*EQG*EQG-OO*10,00*B*Cameroons and Congo*Equatorial Guinea*
+2035*Spanish Morocco*2,00*20,00*MOR*MOR-MO*2,00*B*North Africa*Ifni*
+2036*Spanish Sahara*2,00*20,00*WSA*WSA-OO*2,00*B*North Africa*Western Sahara*
+2037*Spanish West Africa*2,00*20,00*WSA*WSA-OO*2,00*B*North Africa*Western Sahara*
+2038*Spitsbergen*1,00*10,00*SVA*SVA-OO*1,00**Europe**
+2039*Sporadhes*3,00*34,00*EAI*EAI-OO*2,00*A*Orient*Dhodekanisos;  also Voriai Sporadhes [13 Southeastern Europe]*
+2040*Spratly Is.*4,00*41,00*SCS*SCS-SI*6,00*F*South China Sea Islands**
+2041*Srbija*1,00*13,00*YUG*YUG-SE*1,00**Europe*Serbia*
+2042*Sri Lanka*4,00*40,00*SRL*SRL-OO*5,00**India**
+2043*St.Anne I.*2,00*29,00*SEY*SEY-OO*11,00**Madagascar and Mascarenes**
+2044*St.Barthélémy*8,00*81,00*LEE*LEE-SM*15,00**West Indies**
+2045*St.Bartholomew*8,00*81,00*LEE*LEE-SM*15,00**West Indies*St.Barthelemy*
+2046*St.Brandon*2,00*29,00*MAU*MAU-OO*11,00**Madagascar and Mascarenes**
+2047*St.Christopher*8,00*81,00*LEE*LEE-SK*15,00**West Indies*St.Kitts*
+2048*St.Croix*8,00*81,00*LEE*LEE-VI*15,00**West Indies**
+2049*St.Eustatius*8,00*81,00*LEE*LEE-NL*15,00**West Indies*Sint Eustatius*
+2050*St.Helena*2,00*28,00*STH*STH-OO*10,00*F*St Helena and Ascension**U.K. Dependent Territory
+2051*St.John*8,00*81,00*LEE*LEE-VI*15,00**West Indies**
+2052*St.Kilda*1,00*10,00*GRB*GRB-OO*1,00**Europe**part of Scotland
+2053*St.Kitts-Nevis*8,00*81,00*LEE*LEE-SK*15,00**West Indies**
+2054*St.Kitts*8,00*81,00*LEE*LEE-SK*15,00**West Indies**
+2055*St.Lawrence I.*7,00*70,00*ASK*ASK-OO*13,00**North America**
+2056*St.Lucia*8,00*81,00*WIN*WIN-SL*15,00**West Indies**
+2057*St.Martin-St.Barthélémy*8,00*81,00*LEE*LEE-SM*15,00**West Indies**
+2058*St.Martin*8,00*81,00*LEE*LEE-SM*15,00**West Indies**[French]
+2059*St.Martin*8,00*81,00*LEE*LEE-NL*15,00**West Indies*Sint Maarten*[Dutch]
+2060*St.Matthew I.*7,00*70,00*ASK*ASK-OO*13,00**North America**
+2061*St.Matthias Is.*4,00*42,00*BIS*BIS-OO*6,00*E*New Guinea**
+2062*St.Paul I.*9,00*90,00*ASP*ASP-OO*19,00**Antarctica and Subantarctic Islands**[S. Indian Ocean]
+2063*St.Peter and St.Paul Rocks*8,00*84,00*BZE*BZE-FN*16,00**East Tropical South America*Sao Pedro e Sao Paulo*
+2064*St.Pierre*2,00*29,00*ALD*ALD-OO*11,00**Madagascar and Mascarenes**[Indian Ocean] part of Providence group
+2065*St.Pierre-Miquelon*7,00*72,00*NFL*NFL-SP*13,00**North America**Overseas Departement of France
+2066*St.Thomas*8,00*81,00*LEE*LEE-VI*15,00**West Indies**
+2067*St.Vincent*8,00*81,00*WIN*WIN-SV*15,00**West Indies**
+2068*Starbuck I.*6,00*61,00*LIN*LIN-KI*9,00*E*S.E. Polynesia**
+2069*Stavropol*3,00*33,00*NCS*NCS-ST*2,00*A*Orient**
+2070*Stewart I.*5,00*51,00*NZS*NZS-OO*8,00**New Zealand**[New Zealand]
+2071*Stewart Is.*6,00*60,00*SOL*SOL-SO*9,00*A*Melanesia**[Solomon Is.]
+2072*Stoltenhoff I.*9,00*90,00*TDC*TDC-OO*19,00**Antarctica and Subantarctic Islands**
+2073*Stromboli*1,00*13,00*SIC*SIC-SI*1,00**Europe**
+2074*Sudan*2,00*24,00*SUD*SUD-OO*10,00*C*North East Tropical Africa**
+2075*Sula Is.*4,00*42,00*MOL*MOL-OO*6,00*C*Malay Islands**
+2076*Sulawesi*4,00*42,00*SUL*SUL-OO*6,00*C*Malay Islands**
+2077*Sulu Is.*4,00*42,00*PHI*PHI-OO*6,00*D*Philippines**
+2078*Sumatera*4,00*42,00*SUM*SUM-OO*6,00*C*Malay Islands**
+2079*Sumatra*4,00*42,00*SUM*SUM-OO*6,00*C*Malay Islands*Sumatera*
+2080*Sumba*4,00*42,00*LSI*LSI-LS*6,00*C*Malay Islands**
+2081*Sumbawa*4,00*42,00*LSI*LSI-LS*6,00*C*Malay Islands**
+2082*Sumisu-jima*3,00*38,00*JAP*JAP-HN*4,00**Eastern Asia**
+2083*Sunda*4,00*42,00*LSI*LSI-LS*6,00*C*Malay Islands**
+2084*Sunday I.*5,00*51,00*KER*KER-OO*8,00**New Zealand*Raoul I.*
+2085*Surinam*8,00*82,00*SUR*SUR-OO*16,00**East Tropical South America**
+2086*Suvorov I.*6,00*60,00*TOK*TOK-MA*9,00*E*S.E. Polynesia**
+2087*Suwanose-jima*3,00*38,00*NNS*NNS-OO*4,00**Eastern Asia**part of Tokara-retto
+2088*Suwarrow I.*6,00*60,00*TOK*TOK-MA*9,00*E*S.E. Polynesia*Suvorov I.*
+2089*Svalbard*1,00*10,00*SVA*SVA-OO*1,00**Europe**
+2090*Sverdlovsk*3,00*30,00*WSB*WSB-OO*3,00**Northern Asia**
+2091*Sverige*1,00*10,00*SWE*SWE-OO*1,00**Europe*Sweden*
+2092*Swains I.*6,00*60,00*TOK*TOK-SW*9,00*D*Samoan Islands**
+2093*Swallow Is.*6,00*60,00*SCZ*SCZ-OO*9,00*A*Melanesia**
+2094*Swallow Reef*4,00*41,00*SCS*SCS-SI*6,00*F*South China Sea Islands**
+2095*Swan Is.*8,00*81,00*SWC*SWC-HC*14,00**Central America**
+2096*Swat*4,00*40,00*PAK*PAK-OO*5,00**India**
+2097*Swaziland*2,00*27,00*SWZ*SWZ-OO*12,00**South Africa**
+2098*Sweden*1,00*10,00*SWE*SWE-OO*1,00**Europe**
+2099*Switzerland*1,00*11,00*SWI*SWI-OO*1,00**Europe**
+2100*Sydney I.*6,00*60,00*PHX*PHX-OO*9,00*D*Samoan Islands*Manra*
+2101*Sylhet*4,00*40,00*BAN*BAN-OO*5,00**India**
+2102*Syria*3,00*34,00*LBS*LBS-SY*2,00*A*Orient**
+2103*Syrian Arab Republic*3,00*34,00*LBS*LBS-SY*2,00*A*Orient*Syria*
+2104*Szechuan*3,00*36,00*CHC*CHC-SC*4,00**Eastern Asia*Sichuan*
+2105*Tabar Is.*4,00*42,00*BIS*BIS-OO*6,00*E*New Guinea**
+2106*Tabasco*7,00*79,00*MXT*MXT-TB*14,00**Central America**
+2107*Tabiteuea*6,00*60,00*GIL*GIL-OO*9,00*D*Samoan Islands**
+2108*Table I.*4,00*41,00*AND*AND-CO*5,00**India**
+2109*Tabuaeran*6,00*61,00*LIN*LIN-KI*9,00*E*S.E. Polynesia**
+2110*Tadzhikistan*3,00*32,00*TZK*TZK-OO*3,00**Northern Asia**
+2111*Tafahi*6,00*60,00*TON*TON-OO*9,00*D*Samoan Islands**
+2112*Tahaa*6,00*61,00*SCI*SCI-OO*9,00*E*S.E. Polynesia**one of Iles sous le Vent
+2113*Tahiti*6,00*61,00*SCI*SCI-OO*9,00*E*S.E. Polynesia**one of Iles du Vent
+2114*Taiwan*3,00*38,00*TAI*TAI-OO*4,00**Eastern Asia**
+2115*Takeshima*3,00*38,00*JAP*JAP-HN*4,00**Eastern Asia*Tok-to*
+2116*Talaud Is.*4,00*42,00*SUL*SUL-OO*6,00*C*Malay Islands**
+2117*Tamana*6,00*60,00*GIL*GIL-OO*9,00*D*Samoan Islands**
+2118*Tamaulipas*7,00*79,00*MXE*MXE-TA*14,00**Central America**
+2119*Tambelan Is.*4,00*42,00*BOR*BOR-KA*6,00*C*Malay Islands**
+2120*Tambov*1,00*14,00*RUC*RUC-OO*1,00**Europe**
+2121*Tamil Nadu*4,00*40,00*IND*IND-TN*5,00**India**
+2122*Tana*6,00*60,00*VAN*VAN-OO*9,00*A*Melanesia*Tanna*
+2123*Tanega*3,00*38,00*NNS*NNS-OO*4,00**Eastern Asia**
+2124*Tanga Is.*4,00*42,00*BIS*BIS-OO*6,00*E*New Guinea**
+2125*Tanganyika*2,00*25,00*TAN*TAN-OO*10,00*D*East Tropical Africa*Tanzania*
+2126*Tangier*2,00*20,00*MOR*MOR-MO*2,00*B*North Africa*Tanger*
+2127*Tanimbar Is.*4,00*42,00*LSI*LSI-LS*6,00*C*Malay Islands**
+2128*Tanna*6,00*60,00*VAN*VAN-OO*9,00*A*Melanesia**
+2129*Tanzania*2,00*25,00*TAN*TAN-OO*10,00*D*East Tropical Africa**
+2130*Tarapacá*8,00*85,00*CLN*CLN-TA*18,00**Temperate South America**
+2131*Tarawa*6,00*60,00*GIL*GIL-OO*9,00*D*Samoan Islands**
+2132*Tartar*1,00*14,00*RUE*RUE-OO*1,00**Europe*Tartariya*
+2133*Tasmania*5,00*50,00*TAS*TAS-OO*7,00**Australia**
+2134*Tartariya*1,00*14,00*RUE*RUE-OO*1,00**Europe**
+2135*Tau*6,00*60,00*SAM*SAM-AS*9,00*D*Samoan Islands**
+2136*Tauu Is.*6,00*60,00*SOL*SOL-NO*9,00*A*Melanesia**
+2137*Taveuni*6,00*60,00*FIJ*FIJ-OO*9,00*C*Fiji Islands**
+2138*Tawitawi*4,00*42,00*PHI*PHI-OO*6,00*D*Philippines**one of Sulu Is.
+2139*Taymyr*3,00*30,00*KRA*KRA-OO*3,00**Northern Asia**
+2140*Tchad*2,00*24,00*CHA*CHA-OO*10,00*B*Cameroons and Congo*Chad*
+2141*Tenasserim*4,00*41,00*MYA*MYA-OO*5,00**India**
+2142*Tenedos*3,00*34,00*TUR*TUR-OO*2,00*A*Orient*Bozcaada*
+2143*Tenerife*2,00*21,00*CNY*CNY-OO*2,00*C*Atlantic Islands**
+2144*Tengah Is.*4,00*42,00*SUL*SUL-OO*6,00*C*Malay Islands**
+2145*Tennessee*7,00*78,00*TEN*TEN-OO*13,00**North America**
+2146*Teraina*6,00*61,00*LIN*LIN-KI*9,00*E*S.E. Polynesia**
+2147*Terceira*2,00*21,00*AZO*AZO-OO*2,00*C*Atlantic Islands**
+2148*Terengganu*4,00*42,00*MLY*MLY-PM*6,00*A*Malay Peninsula**
+2149*Terra Adelie*9,00*91,00*ANT*ANT-OO*19,00**Antarctica and Subantarctic Islands**
+2150*Terre de Bas*8,00*81,00*LEE*LEE-GU*15,00**West Indies**one of Iles des Saintes
+2151*Terre de Haut*8,00*81,00*LEE*LEE-GU*15,00**West Indies**one of Iles des Saintes
+2152*Testigos, Los*8,00*81,00*VNA*VNA-OO*17,00**West Tropical South America**
+2153*Tetiaroa*6,00*61,00*SCI*SCI-OO*9,00*E*S.E. Polynesia**one of Iles du Vent
+2154*Texas*7,00*77,00*TEX*TEX-OO*13,00**North America**
+2155*Thailand*4,00*41,00*THA*THA-OO*6,00*B*Indo-China**
+2156*Thasos*1,00*13,00*GRC*GRC-OO*1,00**Europe**
+2157*The Gambia*2,00*22,00*GAM*GAM-OO*10,00*A*West Tropical Africa**
+2158*The Netherlands*1,00*11,00*NET*NET-OO*1,00**Europe**
+2159*Thira*1,00*13,00*GRC*GRC-OO*1,00**Europe**one of Kikladhes
+2160*Thitu Is.*4,00*41,00*SCS*SCS-SI*6,00*F*South China Sea Islands**
+2161*Three Kings Is.*5,00*51,00*NZN*NZN-OO*8,00**New Zealand**
+2162*Thursday I.*5,00*50,00*QLD*QLD-QU*7,00**Australia**
+2163*Tianjin*3,00*36,00*CHN*CHN-HB*4,00**Eastern Asia**
+2164*Tibet*3,00*36,00*CHT*CHT-OO*4,00**Eastern Asia*Tibet*
+2165*Tibet-Qinghai*3,00*36,00*CHT**4,00**Eastern Asia**see Tibet and see Qinghai
+2166*Tientsin*3,00*36,00*CHN*CHN-HB*4,00**Eastern Asia*Tianjin*
+2167*Tierra del Fuego*8,00*85,00***18,00**Temperate South America*Tierra del Fuego (Argentina) and Tierra del Fuego (Chile)*
+2168*Tierra del Fuego (Argentina)*8,00*85,00*AGS*AGS-TF*18,00**Temperate South America**
+2169*Tierra del Fuego (Chile)*8,00*85,00*CLS*CLS-MG*18,00**Temperate South America**
+2170*Tikopia I.*6,00*60,00*SCZ*SCZ-OO*9,00*A*Melanesia**
+2171*Tilos*3,00*34,00*EAI*EAI-OO*2,00*A*Orient**one of Dhodekanisos
+2172*Timor*4,00*42,00*LSI*LSI-LS*6,00*C*Malay Islands**
+2173*Tinhosa I.*2,00*23,00*GGI*GGI-PR*10,00*B*Cameroons and Congo**
+2174*Tinian*6,00*62,00*MRN*MRN-NM*9,00*F*Micronesia**
+2175*Tinos*1,00*13,00*GRC*GRC-OO*1,00**Europe**one of Kikladhes
+2176*Tlaxcala*7,00*79,00*MXC*MXC-TL*14,00**Central America**
+2177*To-shima*3,00*38,00*JAP*JAP-HN*4,00**Eastern Asia**
+2178*Tobago*8,00*81,00*TRT*TRT-OO*15,00**West Indies**
+2179*Tobago I.*8,00*81,00*LEE*LEE-BV*15,00**West Indies**[Virgin Is.]
+2180*Tobi*6,00*62,00*CRL*CRL-PA*9,00*F*Micronesia**
+2181*Tocantins*8,00*84,00*BZN*BZN-TO*16,00**East Tropical South America**
+2182*Tofua*6,00*60,00*TON*TON-OO*9,00*D*Samoan Islands**
+2183*Togo*2,00*22,00*TOG*TOG-OO*10,00*A*West Tropical Africa**
+2184*Tok-to*3,00*38,00*JAP*JAP-HN*4,00**Eastern Asia**
+2185*Tokara-retto*3,00*38,00*NNS*NNS-OO*4,00**Eastern Asia**
+2186*Tokelau Is.*6,00*60,00*TOK*TOK-TO*9,00*D*Samoan Islands*Tokelau*I. Territory Overseas of New Zealand
+2187*Tokuno-shima*3,00*38,00*NNS*NNS-OO*4,00**Eastern Asia**part of Amami-shoto
+2188*Tolokiwa I.*4,00*42,00*BIS*BIS-OO*6,00*E*New Guinea**
+2189*Tomsk*3,00*30,00*WSB*WSB-OO*3,00**Northern Asia**
+2190*Tonga*6,00*60,00*TON*TON-OO*9,00*D*Samoan Islands**
+2191*Tongareva*6,00*60,00*TOK*TOK-MA*9,00*E*S.E. Polynesia**
+2192*Tongatapu Is.*6,00*60,00*TON*TON-OO*9,00*D*Samoan Islands**
+2193*Tonkin*4,00*41,00*VIE*VIE-OO*6,00*B*Indo-China**
+2194*Tori-shima*3,00*38,00*JAP*JAP-HN*4,00**Eastern Asia**
+2195*Torres Is.*6,00*60,00*VAN*VAN-OO*9,00*A*Melanesia**
+2196*Tortola*8,00*81,00*LEE*LEE-BV*15,00**West Indies**
+2197*Tortuga, La*8,00*81,00*VNA*VNA-OO*17,00**West Tropical South America**
+2198*Transcaucasus*3,00*33,00*TCS**2,00*A*Orient**
+2199*Transjordan*3,00*34,00*PAL*PAL-JO*2,00*A*Orient*Jordan*
+2200*Transkei*2,00*27,00*NAT*CPP-EC*12,00**South Africa**
+2201*Transvaal*2,00*27,00*TVL**12,00**South Africa*Northern Provinces*
+2202*Treasury Is.*6,00*60,00*SOL*SOL-SO*9,00*A*Melanesia**
+2203*Tregosse Islets*5,00*50,00*QLD*QLD-CS*7,00**Australia**
+2204*Tres Marias Is.*7,00*79,00*MXS*MXS-NA*14,00**Central America*Marias Is.*
+2205*Trindade*8,00*84,00*BZL*BZL-TR*16,00**East Tropical South America**
+2206*Trinidad*8,00*81,00*TRT*TRT-OO*15,00**West Indies**
+2207*Trinidad-Tobago*8,00*81,00*TRT*TRT-OO*15,00**West Indies**
+2208*Tripura*4,00*40,00*ASS*ASS-TR*5,00**India**
+2209*Tristan da Cunha*9,00*90,00*TDC*TDC-OO*19,00**Antarctica and Subantarctic Islands**Dependency of St. Helena
+2210*Trobriand Is.*4,00*42,00*NWG*NWG-PN*6,00*E*New Guinea**
+2211*Tromelin I.*2,00*29,00*REU*REU-OO*11,00**Madagascar and Mascarenes**
+2212*Trucial States*3,00*35,00*GST*GST-UA*2,00*A*Orient*United Arab Emirates*
+2213*Truk*6,00*62,00*CRL*CRL-MF*9,00*F*Micronesia**
+2214*Tsinghai*3,00*36,00*CHQ**4,00**Eastern Asia*Qinghai*
+2215*Tsushima*3,00*38,00*JAP*JAP-KY*4,00**Eastern Asia**
+2216*Tuamotu*6,00*61,00*TUA*TUA-OO*9,00*E*S.E. Polynesia**
+2217*Tubuai I.*6,00*61,00*TUB*TUB-OO*9,00*E*S.E. Polynesia**
+2218*Tucumán*8,00*85,00*AGW*AGW-TU*18,00**Temperate South America**
+2219*Tukangbesi Is.*4,00*42,00*SUL*SUL-OO*6,00*C*Malay Islands**
+2220*Tula*1,00*14,00*RUS*RUS-OO*1,00**Europe**
+2221*Tunisia*2,00*20,00*TUN*TUN-OO*2,00*B*North Africa**
+2222*Turkey*3,00*34,00*TUR*TUR-OO*2,00*A*Orient**excluding Turkey-in-Europe
+2223*Turkey-in-Europe*1,00*13,00*TUE*TUE-OO*1,00**Europe**
+2224*Turkmenistan*3,00*32,00*TKM*TKM-OO*3,00**Northern Asia**
+2225*Turkmeniya*3,00*32,00*TKM*TKM-OO*3,00**Northern Asia*Turkmenistan*
+2226*Turks Is.*8,00*81,00*TCI*TCI-OO*15,00**West Indies**
+2227*Turks-Caicos Is.*8,00*81,00*TCI*TCI-OO*15,00**West Indies**U.K. Dependent Territory
+2228*Turtle I.*5,00*50,00*QLD*QLD-CS*7,00**Australia**[Great Barrier Reef]
+2229*Turtle I.*5,00*50,00*WAU*WAU-WA*7,00**Australia**[W. Australia]
+2230*Tutuila*6,00*60,00*SAM*SAM-AS*9,00*D*Samoan Islands**
+2231*Tuva*3,00*30,00*TVA*TVA-OO*3,00**Northern Asia**
+2232*Tuvalu*6,00*60,00*TUV*TUV-OO*9,00*D*Samoan Islands**
+2233*Tuvinskaya A.S.S.R.*3,00*30,00*TVA*TVA-OO*3,00**Northern Asia**
+2234*Tver*1,00*14,00*RUC*RUC-OO*1,00**Europe**
+2235*Tyumen*3,00*30,00*WSB*WSB-OO*3,00**Northern Asia**
+2236*U.S. Line Is.*6,00*61,00*LIN*LIN-US*9,00*E*S.E. Polynesia**
+2237*Ua Huka*6,00*61,00*MRQ*MRQ-OO*9,00*E*S.E. Polynesia**
+2238*Uap*6,00*62,00*CRL*CRL-MF*9,00*F*Micronesia*Yap*
+2239*Ubangui*2,00*23,00*CAF*CAF-OO*10,00*B*Cameroons and Congo**
+2240*Ubangui Shari*2,00*23,00*CAF*CAF-OO*10,00*B*Cameroons and Congo*Central African Republic*
+2241*Udmurtiya*1,00*14,00*RUE*RUE-OO*1,00**Europe**
+2242*Uganda*2,00*25,00*UGA*UGA-OO*10,00*D*East Tropical Africa**
+2243*Ukraina*1,00*14,00*UKR**1,00**Europe*Ukraine*excluding Krym, including Moldova
+2244*Ukraina*1,00*14,00*UKR*UKR-UK*1,00**Europe*Ukraine*excluding Krym and Moldova
+2245*Ukraine*1,00*14,00*UKR*UKR-UK*1,00**Europe**excluding Krym and Moldova
+2246*Ullung do*3,00*38,00*KOR*KOR-SK*4,00**Eastern Asia**
+2247*Ulyanovsk*1,00*14,00*RUC*RUC-OO*1,00**Europe**
+2248*Umboi*4,00*42,00*BIS*BIS-OO*6,00*E*New Guinea**
+2249*Umm Al-Qaywayn*3,00*35,00*GST*GST-UA*2,00*A*Orient**
+2250*Unimak I.*7,00*70,00*ALU*ALU-OO*13,00**North America**
+2251*Union Is.*6,00*60,00*TOK*TOK-TO*9,00*D*Samoan Islands**[Pacific]
+2252*Union*8,00*81,00*WIN*WIN-SV*15,00**West Indies**[Caribbean] one of Grenadines of St.Vincent
+2253*United Arab Emirates*3,00*35,00*GST*GST-UA*2,00*A*Orient**
+2254*United Arab Republic*****2,00*A*Orient*Egypt, Sinai and Syria*
+2255*United Kingdom*1,00*10,00***1,00**Europe*Great Britain and Northern Ireland*
+2256*United States of America*7,00****13,00**North America*Alaska, Aleutian Is. and Regions 63 North-Central Pacific, 73 Northwestern U.S.A., 74 North-Central U.S.A., 75 Northeastern U.S.A., 76 Southwestern U.S.A., 77 South-Central U.S.A. and 78 Southeastern U.S.A.*
+2257*U.S.A.*7,00****13,00**North America*Alaska, Aleutian Is. and Regions 63 North-Central Pacific, 73 Northwestern U.S.A., 74 North-Central U.S.A., 75 Northeastern U.S.A., 76 Southwestern U.S.A., 77 South-Central U.S.A. and 78 Southeastern U.S.A.*
+2258*U.S.S.R.********Regions 14 Eastern Europe, 30 Siberia, 31 Russian Far East, 32 Middle Asia, 33 Caucasus*split between areas 1 Europe and 3 Northern Asia of Kew system
+2259*Ust-Ordinskiy Buryat*3,00*30,00*IRK*IRK-OO*3,00**Northern Asia**
+2260*Ustica*1,00*13,00*SIC*SIC-SI*1,00**Europe**
+2261*Utah*7,00*76,00*UTA*UTA-OO*13,00**North America**
+2262*Uttar Pradesh*4,00*40,00*IND*IND-UP*5,00**India**
+2263*Utupua I.*6,00*60,00*SCZ*SCZ-OO*9,00*A*Melanesia**
+2264*Uvea*6,00*60,00*WAL*WAL-OO*9,00*D*Samoan Islands**one of Wallis Is.
+2265*Uzbekistan*3,00*32,00*UZB*UZB-OO*3,00**Northern Asia**
+2266*Vaitupu*6,00*60,00*TUV*TUV-OO*9,00*D*Samoan Islands**
+2267*Valparaíso*8,00*85,00*CLC*CLC-VA*18,00**Temperate South America**
+2268*Vancouver I.*7,00*71,00*BRC*BRC-OO*13,00**North America**
+2269*Vanikoro I.*6,00*60,00*SCZ*SCZ-OO*9,00*A*Melanesia**
+2270*Vanua Lava*6,00*60,00*VAN*VAN-OO*9,00*A*Melanesia**
+2271*Vamua Levu*6,00*60,00*FIJ*FIJ-OO*9,00*C*Fiji Islands**
+2272*Vanuatu*6,00*60,00*VAN*VAN-OO*9,00*A*Melanesia**
+2273*Vate*6,00*60,00*VAN*VAN-OO*9,00*A*Melanesia*Efate*
+2274*Vatican City*1,00*13,00*ITA*ITA-VC*1,00**Europe**Ecclesiastical State
+2275*Vatoa Is.*6,00*60,00*FIJ*FIJ-OO*9,00*C*Fiji Islands**
+2276*Vatulele*6,00*60,00*FIJ*FIJ-OO*9,00*C*Fiji Islands**
+2277*Vavau Is.*6,00*60,00*TON*TON-OO*9,00*D*Samoan Islands**
+2278*Venda*2,00*27,00*TVL**12,00**South Africa**
+2279*Venezuela*8,00*82,00*VEN*VEN-OO*17,00**West Tropical South America**
+2280*Venezuelan Antilles*8,00*81,00*VNA*VNA-OO*17,00**West Tropical South America**
+2281*Veracruz*7,00*79,00*MXG*MXG-VC*14,00**Central America**
+2282*Vereker Banks*3,00*36,00*CHS*CHS-GD*4,00**Eastern Asia**
+2283*Vermont*7,00*75,00*VER*VER-OO*13,00**Northern Asia**
+2284*Victoria*5,00*50,00*VIC*VIC-OO*7,00**Australia**
+2285*Vieques I.*8,00*81,00*PUE*PUE-OO*15,00**West Indies**
+2286*Vietnam*4,00*41,00*VIE*VIE-OO*6,00*B*Indo-China**
+2287*Vietnam, North*4,00*41,00*VIE*VIE-OO*6,00*B*Indo-China**
+2288*Vietnam, South*4,00*41,00*VIE*VIE-OO*6,00*B*Indo-China**
+2289*Virgin Gorda*8,00*81,00*LEE*LEE-BV*15,00**West Indies**
+2290*Virgin Is.*8,00*81,00*LEE*LEE-VI*15,00**West Indies**[American]
+2291*Virgin Is.*8,00*81,00*LEE*LEE-BV*15,00**West Indies**[British]
+2292*Virginia*7,00*78,00*VRG*VRG-OO*13,00**North America**
+2293*Viti Levu*6,00*60,00*FIJ*FIJ-OO*9,00*C*Fiji Islands**
+2294*Vitu Is.*4,00*42,00*BIS*BIS-OO*6,00*E*New Guinea*Witu Is.*
+2295*Vladimir*1,00*14,00*RUC*RUC-OO*1,00**Europe**
+2296*Vojvodina*1,00*13,00*YUG*YUG-SE*1,00**Europe**
+2297*Volcano Is.*3,00*38,00*KZN*KZN-OO*4,00**Eastern Asia*Kazan-retto*
+2298*Volgograd*1,00*14,00*RUS*RUS-OO*1,00**Europe**
+2299*Vologda*1,00*14,00*RUN*RUN-OO*1,00**Europe**
+2300*Voriai Sporadhes*1,00*13,00*GRC*GRC-OO*1,00**Europe**[see also Sporadhes 34 Western Asia]
+2301*Voronezh*1,00*14,00*RUC*RUC-OO*1,00**Europe**
+2302*Vostok I.*6,00*61,00*LIN*LIN-KI*9,00*E*S.E. Polynesia**
+2303*Vrangelya Ostrova*3,00*31,00*MAG*MAG-OO*3,00**Northern Asia**
+2304*Waigeo*4,00*42,00*NWG*NWG-IJ*6,00*E*New Guinea**
+2305*Wake I.*6,00*62,00*WAK*WAK-OO*9,00*F*Micronesia**
+2306*Wales*1,00*10,00*GRB*GRB-OO*1,00**Europe**
+2307*Walfish Bay*2,00*27,00*NAM*NAM-OO*12,00**South Africa**
+2308*Wallis Is.*6,00*60,00*WAL*WAL-OO*9,00*D*Samoan Islands**
+2309*Wallis-Futuna Is.*6,00*60,00*WAL*WAL-OO*9,00*D*Samoan Islands**sel-governing Overseas Territory of France
+2310*Walpole I.*6,00*60,00*NWC*NWC-OO*9,00*B*New Caledonia**
+2311*Walvis Bay*2,00*27,00*NAM*NAM-OO*12,00**South Africa**
+2312*Washington DC*7,00*78,00*WDC*WDC-OO*13,00**North America**
+2313*Washington I.*6,00*61,00*LIN*LIN-KI*9,00*E*S.E. Polynesia**
+2314*Washington*7,00*73,00*WAS*WAS-OO*13,00**North America**[state]
+2315*Way I.*4,00*41,00*VIE*VIE-OO*6,00*B*Indo-China*Ko Way*
+2316*Wenman I.*8,00*83,00*GAL*GAL-OO*17,00**West Tropical South America**
+2317*West Bengal*4,00*40,00*IND*IND-WB*5,00**India**
+2318*West Berlin*1,00*11,00*GER*GER-OO*1,00**Europe**
+2319*West Cameroons*2,00*******British Cameroons*split between areas 10 A West Tropical Africa and 10 B Cameroons and Congo of Kew system
+2320*West Germany*1,00*11,00*GER*GER-OO*1,00**Europe**
+2321*West Irian*4,00*42,00*NWG*NWG-IJ*6,00*E*New Guinea*Irian Jaya*
+2322*West Kazakhstan*1,00*14,00*RUS*RUS-OO*1,00**Europe**[west of Ural River]
+2323*West Pakistan*4,00*40,00*PAK*PAK-OO****Pakistan (i.e. not East Pakistan [Bangladesh])*split between areas 2 A Orient ('Baluchistan') and 5 India in Kew system
+2324*West Siberia*3,00*30,00*WSB*WSB-OO*3,00**Northern Asia**
+2325*West Virginia*7,00*75,00*WVA*WVA-OO*13,00**North America**
+2326*Western Australia*5,00*50,00*WAU*WAU-WA*7,00**Australia**excluding Ashmore-Cartier
+2327*Western Australia*5,00*50,00*WAU**7,00**Australia**including Ashmore-Cartier
+2328*Western Sahara*2,00*20,00*WSA*WSA-OO*2,00*B*North Africa**
+2329*Western Samoa*6,00*60,00*SAM*SAM-WS*9,00*D*Samoan Islands**
+2330*Wetar*4,00*42,00*LSI*LSI-LS*6,00*C*Malay Islands**one of Barat Daya Is.
+2331*Wharekauri*5,00*51,00*CTM*CTM-OO*8,00**New Zealand*Chatham Is.*
+2332*White Russia*1,00*14,00*BLR*BLR-OO*1,00**Europe**
+2333*Wilkes I.*6,00*62,00*WAK*WAK-OO*9,00*F*Micronesia**
+2334*Wilkes Land*9,00*91,00*ANT*ANT-OO*19,00**Antarctica and Subantarctic Islands**part of Australian Antarctic Territory
+2335*Willis Is.*5,00*50,00*QLD*QLD-CS*7,00**Australia**
+2336*Windward Is.*8,00*81,00*WIN**15,00**West Indies**[Caribbean]
+2337*Windward Is.*5,00*51,00*ATP*ATP-OO*19,00**Antarctica and Subantarctic Islands**[New Zealand]
+2338*Windward Is.*6,00*61,00*SCI*SCI-OO*9,00*E*S.E. Polynesia**[Pacific] part of Iles du Vent
+2339*Winslow Reef*6,00*60,00*PHX*PHX-OO*9,00*D*Samoan Islands**
+2340*Wisconsin*7,00*74,00*WIS*WIS-OO*13,00**North America**
+2341*Witu Is.*4,00*42,00*BIS*BIS-OO*6,00*E*New Guinea**
+2342*Woleai*6,00*62,00*CRL*CRL-MF*9,00*F*Micronesia**
+2343*Woodlark I.*4,00*42,00*NWG*NWG-PN*6,00*E*New Guinea**
+2344*Wotje*6,00*62,00*MRS*MRS-OO*9,00*F*Micronesia**part of Ratak chain
+2345*Wrangel I.*3,00*31,00*MAG*MAG-OO*3,00**Northern Asia*Vrangelya Ostrova*
+2346*Wuvulu I.*4,00*42,00*BIS*BIS-OO*6,00*E*New Guinea**one of Ninigo Is.
+2347*Wyoming*7,00*73,00*WYO*WYO-OO*13,00**North America**
+2348*Xianggang*3,00*36,00*CHS*CHS-HK*4,00**Eastern Asia*Hong Kong*
+2349*Xinjiang*3,00*36,00*CHX*CHX-OO*4,00**Eastern Asia**
+2350*Xisha Is.*4,00*41,00*SCS*SCS-PI*6,00*B*Indo-China*Paracel Is.*
+2351*Xizang*3,00*36,00*CHQ*CHQ-OO*4,00**Eastern Asia**
+2352*Yaku-shima*3,00*38,00*JAP*JAP-KY*4,00**Eastern Asia**part of Osumi-shoto
+2353*Yakutskiya*3,00*30,00*YAK*YAK-OO*3,00**Northern Asia**
+2354*Yamalo-Nenets*3,00*30,00*WSB*WSB-OO*3,00**Northern Asia**
+2355*Yanam*4,00*40,00*IND*IND-YA*5,00**India**
+2356*Yap*6,00*62,00*CRL*CRL-MF*9,00*F*Micronesia**
+2357*Yapen*4,00*42,00*NWG*NWG-IJ*6,00*E*New Guinea**
+2358*Yaroslavl*1,00*14,00*RUC*RUC-OO*1,00**Europe**
+2359*Yasawa Is.*6,00*60,00*FIJ*FIJ-OO*9,00*C*Fiji Islands**
+2360*Yemen Arab Republic*3,00*35,00*YEM*YEM-NY*2,00*A*Orient*North Yemen*
+2361*Yemen*3,00*35,00*YEM**2,00*A*Orient**excluding Socotra
+2362*Yemen, People's Democratic Republic of*3,00*35,00*YEM*YEM-SY*2,00*A*Orient**
+2363*Yevreysk*3,00*31,00*KHA*KHA-OO*3,00**Northern Asia**
+2364*Yianisadhes*1,00*13,00*KRI*KRI-OO*1,00**Europe**
+2365*Yonaguni*3,00*38,00*NNS*NNS-OO*4,00**Eastern Asia**part of Sakishima-gunto
+2366*Young I.*9,00*91,00*ANT*ANT-OO*19,00**Antarctica and Subantarctic Islands**part of Ross Dependency
+2367*Yucatán*7,00*79,00*MXT*MXT-YU*14,00**Central America**
+2368*Yugo-Osetiya*3,00*33,00*TCS*TCS-GR*2,00*A*Orient**
+2369*Yugoslavia*1,00*13,00*YUG**1,00**Europe**
+2370*Yukon*7,00*70,00*YUK*YUK-OO*13,00**North America**
+2371*Yunnan*3,00*36,00*CHC*CHC-YN*4,00**Eastern Asia**
+2372*Zacatecas*7,00*79,00*MXE*MXE-ZA*14,00**Central America**
+2373*Zafora*1,00*13,00*GRC*GRC-OO*1,00**Europe**
+2374*Zaire*2,00*23,00*ZAI*ZAI-OO*10,00*B*Cameroons and Congo**
+2375*Zakinthos*1,00*13,00*GRC*GRC-OO*1,00**Europe**
+2376*Zambia*2,00*26,00*ZAM*ZAM-OO*10,00*E*South Tropical Africa**
+2377*Zante*1,00*13,00*GRC*GRC-OO*1,00**Europe*Zakinthos*
+2378*Zanzibar*2,00*25,00*TAN*TAN-OO*10,00*D*East Tropical Africa**
+2379*Zemlya Franz Josef*3,00*30,00*WSB*WSB-OO*3,00**Northern Asia*Zemlya Frantsa-Iosifa*
+2380*Zhejiang*3,00*36,00*CHS*CHS-ZJ*4,00**Eastern Asia**
+2381*Zimbabwe*2,00*26,00*ZIM*ZIM-OO*10,00*E*South Tropical Africa**
+2382*Zufar*3,00*35,00*OMA*OMA-OO*2,00*A*Orient**
+2383*Zululand*2,00*27,00*NAT*NAT-OO*12,00**South Africa**
+2385*Abu Zabi*3,00*35,00*GST*GST-UA*2,00*A*Orient*United Arab Emirates*
+2387*African Is.*2,00*29,00*ALD*ALD-OO*11,00**Madagascar and Mascarenes**part of Amirante group
+2389*Arabian Peninsula*3,00*35,00***2,00*A*Orient**
+2390*Bendel Province, Nigeria*2,00*22,00*NGA*NGA-OO*10,00*A*West Tropical Africa**
+2391*Islas las Aves*8,00*81,00*VNA*VNA-OO*17,00**West Tropical South America**[off Venezuela]
+2393*Kefallinia*1,00*13,00*GRC*GRC-OO*1,00**Europe**
+2394*Zemlya Frantsa-Iosifa*3,00*30,00*WSB*WSB-OO*3,00**Northern Asia**
+2395*Johor*4,00*42,00*MLY*MLY-PM*6,00*A*Malay Peninsula**
+2396*Kalmykyia*1,00*14,00*RUS*RUS-OO*1,00**Europe**
+2397*Mamanuca Is.*6,00*60,00*FIJ*FIJ-OO*9,00*C*Fiji Islands**
+2398*Ile des Pins*6,00*60,00*NWC*NWC-OO*9,00*B*New Caledonia**[Pacific]
+2399*Isla de Juventud*8,00*81,00*CUB*CUB-OO*15,00**West Indies**[Caribbean]
+2400*Ra's al Khaymah*3,00*35,00*GST*GST-UA*2,00*A*Orient**
+2401*Tanger*2,00*20,00*MOR*MOR-MO*2,00*B*North Africa**
+2402*Uruguay*8,00*85,00*URU*URU-OO*18,00**Temperate South America**
+2405*Lindsay Is.*6,00*60,00*SOL*SOL-SO*9,00*A*Melanesia**part of Brummitt Federation
+2407*Czech Republic*1,00*11,00*CZE*CZE-CZ*1,00**Europe**
+2408*Slovakia*1,00*11,00*CZE*CZE-SK*1,00**Europe**
+2409*Slovenia*1,00*13,00*YUG*YUG-SL*1,00**Europe**
+2410*Islas Chafarinas*2,00*20,00*MOR*MOR-SP*2,00*B*North Africa**
+2411*Chafarinas Is.*2,00*20,00*MOR*MOR-SP*2,00*B*North Africa*Islas Chafarinas*
+2412*Penon de Velez de la Gomera*2,00*20,00*MOR*MOR-SP*2,00*B*North Africa**
+2413*Penon de Alhucemas*2,00*20,00*MOR*MOR-SP*2,00*B*North Africa**
+2414*Northern Cape Province*2,00*27,00*CPP*CPP-NC*12,00**South Africa**
+2415*Eastern Cape Province*2,00*27,00*CPP*CPP-EC*12,00**South Africa**
+2416*Western Cape Province*2,00*27,00*CPP*CPP-WC*12,00**South Africa**
+2417*Northern Province*2,00*27,00*TVL*TVL-NP*12,00**South Africa**
+2418*North West Province*2,00*27,00*TVL*TVL-NW*12,00**South Africa**
+2419*Gauteng*2,00*27,00*TVL*TVL-GA*12,00**South Africa**
+2420*Mpumalanga*2,00*27,00*TVL*TVL-MP*12,00**South Africa**
+2421*Northern Provinces*2,00*27,00*TVL**12,00**South Africa**
+2422*Free State*2,00*27,00*OFS*OFS-OO*12,00**South Africa**
+2423*KwaZulu Natal*2,00*27,00*NAT*NAT-OO*12,00**South Africa**
+2424*Garhwal*4,00*40,00*WHM*WHM-UT*5,00**India**
+2425*Kumaon*4,00*40,00*WHM*WHM-UT*5,00**India**
+2426*Uttaranchal*4,00*40,00*WHM*WHM-UT*5,00**India**
+2427*Utrakhand*4,00*40,00*WHM*WHM-UT*5,00**India*Uttaranchal*
+2428*West Himalaya*4,00*40,00*WHM**5,00**India**
+2429*East Himalaya*4,00*40,00*EHM**5,00**India**
+2431*Tokelau*6,00*60,00*TOK*TOK-TO*9,00*D*Samoan Islands**
+2432*Tokelau-Manihiki*6,00*60,00*TOK**9,00*D*Samoan Islands**
+2433*Chile Central*8,00*85,00*CLC**18,00**Temperate South Aerica**
+2434*Sado I.*3,00*38,00*JAP*JAP-HN*4,00**Eastern Asia**
+2435*Awaji-shoto*3,00*38,00*JAP*JAP-HN*4,00**Eastern Asia**
+2436*Shodo-shoto*3,00*38,00*JAP*JAP-SH*4,00**Eastern Asia**
+2437*Ie-shima*3,00*38,00*JAP*JAP-HN*4,00**Eastern Asia**
+2438*Te-shima*3,00*38,00*JAP*JAP-SH*4,00**Eastern Asia**
+2439*Yashiro-jima*3,00*38,00*JAP*JAP-HN*4,00**Eastern Asia**
+2440*Nako-jima*3,00*38,00*JAP*JAP-SH*4,00**Eastern Asia**
+2441*Kurahashi-jima*3,00*38,00*JAP*JAP-HN*4,00**Eastern Asia**
+2442*Uoshima*3,00*38,00*JAP*JAP-SH*4,00**Eastern Asia**
+2443*Omi-shoto*3,00*38,00*JAP*JAP-SH*4,00**Eastern Asia**
+2444*Inno-shima*3,00*38,00*JAP*JAP-HN*4,00**Eastern Asia**
+2445*Hakata-shima*3,00*38,00*JAP*JAP-SH*4,00**Eastern Asia**
+2446*Heigun-to*3,00*38,00*JAP*JAP-HN*4,00**Eastern Asia**
+2447*Ya-shima*3,00*38,00*JAP*JAP-HN*4,00**Eastern Asia**
+2448*Hime-shima*3,00*38,00*JAP*JAP-KY*4,00**Eastern Asia**
+2449*Naga-shima*3,00*38,00*JAP*JAP-HN*4,00**Eastern Asia**
+2450*Koshiki-jima*3,00*38,00*JAP*JAP-KY*4,00**Eastern Asia**
+2451*Goto-retto*3,00*38,00*JAP*JAP-KY*4,00**Eastern Asia**
+2452*Iki*3,00*38,00*JAP*JAP-KY*4,00**Eastern Asia**
+2453*Rebun-to*3,00*38,00*JAP*JAP-HK*4,00**Eastern Asia**
+2455*Rishiri-to*3,00*38,00*JAP*JAP-HK*4,00**Eastern Asia**
+2456*Izu Is.*3,00*38,00*JAP*JAP-HN*4,00**Eastern Asia**
+2457*Oki Is.*3,00*38,00*JAP*JAP-HN*4,00**Eastern Asia**
+2458*Dozen*3,00*38,00*JAP*JAP-HN*4,00**Eastern Asia**
+2459*Dogo*3,00*38,00*JAP*JAP-HN*4,00**Eastern Asia**
+2460*Gaja-jima*3,00*38,00*NNS*NNS-OO*4,00**Eastern Asia**
+2461*Io-jima*3,00*38,00*KZN*KZN-OO*4,00**Eastern Asia**
+2462*Kita-io-jima*3,00*38,00*KZN*KZN-OO*4,00**Eastern Asia**
+2463*Minami-io-jima*3,00*38,00*KZN*KZN-OO*4,00**Eastern Asia**
+2464*Yome-jima*3,00*38,00*OGA*OGA-OO*4,00**Eastern Asia**
+2465*Yonakuni*3,00*38,00*NNS*NNS-OO*4,00**Eastern Asia**part of Sakishima-gunto
+2466*Fukue*3,00*38,00*JAP*JAP-KY*4,00**Eastern Asia**
+2467*Okushiri-to*3,00*38,00*JAP*JAP-HK*4,00**Eastern Asia**
+2470*Latviya*1,00*14,00*BLT*BLT-LA*1,00**Europe*Latvia*
+2471*Belorussia*1,00*14,00*BLR*BLR-OO*1,00**Europe*Belarus*
+2473*Ukraine*1,00*14,00*UKR**1,00**Europe**excluding Krym, including Moldova
+2474*Eritrea*2,00*24,00*ERI*ERI-OO*10,00*C*North East Tropical Africa**
+2475*Central European Russia*1,00*14,00*RUC**1,00****
+2476*East European Russia*1,00*14,00*RUE*RUE-OO*1,00****
+2477*North European Russia*1,00*14,00*RUN*RUN-OO*0,00****
+2480*Northwest European Russia*1,00*14,00*RUW*RUW-OO*1,00****
+2485*Upper Volta*2,00*22,00*BKN*BKN-OO*10,00*A**Burkina*
+2487*Jharkhand*4,00*40,00*IND*IND-JK*5,00**India**
+2488*Chattisgarh*4,00*40,00*IND*IND-CT*5,00**India**

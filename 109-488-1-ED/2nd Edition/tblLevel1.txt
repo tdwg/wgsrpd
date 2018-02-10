@@ -1,0 +1,10 @@
+L1 code*L1 continent
+1,00*Europe
+2,00*Africa
+3,00*Asia-Temperate
+4,00*Asia-Tropical
+5,00*Australasia
+6,00*Pacific
+7,00*Northern America
+8,00*Southern America
+9,00*Antarctic

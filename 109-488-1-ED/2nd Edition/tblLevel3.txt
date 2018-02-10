@@ -1,0 +1,370 @@
+L3 code*L3 area*L2 code*L3 ISOcode*Ed2status*Notes
+ABT*Alberta*71,00*CA**
+AFG*Afghanistan*34,00*AF**
+AGE*Argentina Northeast*85,00*AR**
+AGS*Argentina South*85,00*AR**
+AGW*Argentina Northwest*85,00*AR**
+ALA*Alabama*78,00*US**
+ALB*Albania*13,00*AL**
+ALD*Aldabra*29,00*SC**
+ALG*Algeria*20,00*DZ**
+ALT*Altay*30,00*RU**
+ALU*Aleutian Is.*70,00*US**
+AMU*Amur*31,00*RU**
+AND*Andaman Is.*41,00***
+ANG*Angola*26,00*AO**
+ANT*Antarctica*91,00*AQ**
+ARI*Arizona*76,00*US**
+ARK*Arkansas*78,00*US**
+ARU*Aruba*81,00*AW**
+ASC*Ascension*28,00*SH**
+ASK*Alaska*70,00*US**
+ASP*Amsterdam-St.Paul Is.*90,00*TF**
+ASS*Assam*40,00*IN**
+ATP*Antipodean Is.*51,00*NZ**
+AUT*Austria*11,00***
+AZO*Azores*21,00*PT**
+BAH*Bahamas*81,00*BS**
+BAL*Baleares*12,00*ES**
+BAN*Bangladesh*40,00*BD**
+BEN*Benin*22,00*BJ**
+BER*Bermuda*81,00*BM**
+BGM*Belgium*11,00***
+BIS*Bismarck Archipelago*43,00*PG**
+BKN*Burkina*22,00*BF**
+BLR*Belarus*14,00*RU*N*Belorussiya
+BLT*Baltic States*14,00***
+BLZ*Belize*80,00*BZ**
+BOL*Bolivia*83,00*BO**
+BOR*Borneo*42,00***
+BOT*Botswana*27,00*BW**
+BOU*Bouvet I.*90,00*BV**
+BRC*British Columbia*71,00*CA**
+BRY*Buryatiya*30,00*RU**
+BUL*Bulgaria*13,00*BG**
+BUR*Burundi*23,00*BI**
+BZC*Brazil West-Central*84,00*BR**
+BZE*Brazil Northeast*84,00*BR**
+BZL*Brazil Southeast*84,00*BR**
+BZN*Brazil North*84,00*BR**
+BZS*Brazil South*84,00*BR**
+CAB*Cabinda*23,00*AO**
+CAF*Central African Republic*23,00*CF**
+CAL*California*76,00*US**
+CAY*Cayman Is.*81,00*KY**
+CBD*Cambodia*41,00*KH**
+CGS*Chagos Archipelago*29,00*IO*T*L2 code 40
+CHA*Chad*24,00*TD**
+CHC*China South-Central*36,00*CN**
+CHH*Hainan*36,00*CN**
+CHI*Inner Mongolia*36,00*CN**
+CHM*Manchuria*36,00*CN**
+CHN*China North-Central*36,00*CN**
+CHQ*Qinghai*36,00*CN**
+CHS*China Southeast*36,00***
+CHT*Tibet*36,00*CN**
+CHX*Xinjiang*36,00*CN**
+CKI*Cocos (Keeling) Is.*42,00*CC**
+CLC*Chile Central*85,00*CL**
+CLM*Colombia*83,00*CO**
+CLN*Chile North*85,00*CL**
+CLS*Chile South*85,00*CL**
+CMN*Cameroon*23,00*CM**
+CNT*Connecticut*75,00*US**
+CNY*Canary Is.*21,00*ES**
+COL*Colorado*73,00*US**
+COM*Comoros*29,00***
+CON*Congo*23,00*CG**
+COO*Cook Is.*61,00*CK**
+COR*Corse*12,00*FR**
+COS*Costa Rica*80,00*CR**
+CPI*Central American Pacific Is.*80,00***
+CPP*Cape Provinces*27,00*ZA**
+CPV*Caprivi Strip*27,00*NA**
+CRL*Caroline Is.*62,00***
+CRZ*Crozet Is.*90,00*TF**
+CTA*Chita*30,00*RU**
+CTM*Chatham Is.*51,00*NZ**
+CUB*Cuba*81,00*CU**
+CVI*Cape Verde*21,00*CV**
+CYP*Cyprus*34,00*CY**
+CZE*Czechoslovakia*11,00*CS**
+DEL*Delaware*78,00*US**
+DEN*Denmark*10,00*DK**
+DJI*Djibouti*24,00*DJ**
+DOM*Dominican Republic*81,00*DO**
+DSV*Desventurados Is.*85,00*CL**
+EAI*East Aegean Is.*34,00*GR**
+EAS*Easter Is.*61,00*CL**
+ECU*Ecuador*83,00*EC**
+EGY*Egypt*20,00*EG**
+EHM*East Himalaya*40,00***
+ELS*El Salvador*80,00*SV**
+EQG*Equatorial Guinea*23,00*GQ**
+ERI*Eritrea*24,00*ER**
+ETH*Ethiopia*24,00*ET**
+FAL*Falkland Is.*90,00*FK**
+FIJ*Fiji*60,00*FJ**
+FIN*Finland*10,00*FI**
+FLA*Florida*78,00*US**
+FOR*Føroyar*10,00*FO**
+FRA*France*12,00***
+FRG*French Guiana*82,00*GF**
+GAB*Gabon*23,00*GA**
+GAL*Galápagos*83,00*EC**
+GAM*Gambia, The*22,00*GM**
+GEO*Georgia*78,00*US**
+GER*Germany*11,00*DE**
+GGI*Gulf of Guinea Is.*23,00***
+GHA*Ghana*22,00*GH**
+GIL*Gilbert Is.*60,00*KI**
+GNB*Guinea-Bissau*22,00*GW**
+GNL*Greenland*70,00*GL**
+GRB*Great Britain*10,00*UK**
+GRC*Greece*13,00*GR**
+GST*Gulf States*35,00***
+GUA*Guatemala*80,00*GT**
+GUI*Guinea*22,00*GN**
+GUY*Guyana*82,00*GY**
+HAI*Haiti*81,00***
+HAW*Hawaii*63,00***
+HBI*Howland-Baker Is.*60,00*UM**
+HMD*Heard-McDonald Is.*90,00*HM**
+HON*Honduras*80,00*HN**
+HUN*Hungary*11,00*HU**
+ICE*Iceland*10,00*IS**
+IDA*Idaho*73,00*US**
+ILL*Illinois*74,00*US**
+IND*India*40,00*IN**
+INI*Indiana*75,00*US**
+IOW*Iowa*74,00*US**
+IRE*Ireland*10,00***
+IRK*Irkutsk*30,00*RU**
+IRN*Iran*34,00*IR**
+IRQ*Iraq*34,00*IQ**
+ITA*Italy*13,00***
+IVO*Ivory Coast*22,00*CI**
+JAM*Jamaica*81,00*JM**
+JAP*Japan*38,00*JP**
+JAW*Jawa*42,00*ID**
+JNF*Juan Fernández Is.*85,00*CL**
+KAM*Kamchatka*31,00*RU**
+KAN*Kansas*74,00*US**
+KAZ*Kazakhstan*32,00*KZ**
+KEG*Kerguelen*90,00*TF**
+KEN*Kenya*25,00*KE**
+KER*Kermadec Is.*51,00*NZ**
+KGZ*Kirgizistan*32,00*KG**
+KHA*Khabarovsk*31,00*RU**
+KOR*Korea*38,00***
+KRA*Krasnoyarsk*30,00*RU**
+KRI*Kriti*13,00*GR**
+KRY*Krym*14,00*UA**
+KTY*Kentucky*78,00*US**
+KUR*Kuril Is.*31,00*RU**
+KUW*Kuwait*35,00*KW**
+KZN*Kazan-retto*38,00*JP**
+LAB*Labrador*72,00*CA**
+LAO*Laos*41,00*LA**
+LBR*Liberia*22,00*LR**
+LBS*Lebanon-Syria*34,00***
+LBY*Libya*20,00*LY**
+LDV*Laccadive Is.*40,00*IN**
+LEE*Leeward Is.*81,00***
+LES*Lesotho*27,00*LS**
+LIN*Line Is.*61,00***
+LOU*Louisiana*78,00*US**
+LSI*Lesser Sunda Is.*42,00***
+MAG*Magadan*31,00*RU**
+MAI*Maine*75,00*US**
+MAN*Manitoba*71,00*CA**
+MAQ*Macquarie Is.*90,00*AU**
+MAS*Masachusettes*75,00*US**
+MAU*Mauritius*29,00*MU**
+MCI*Mozambique Channel Is.*29,00*RE**
+MCS*Marcus I.*62,00*JP**
+MDG*Madagascar*29,00*MG**
+MDR*Madeira*21,00*PT**
+MDV*Maldives*40,00*MV**
+MIC*Michigan*75,00*US**
+MIN*Minnesota*74,00*US**
+MLI*Mali*22,00*ML**
+MLW*Malawi*26,00*MW**
+MLY*Malaya*42,00***
+MNT*Montana*73,00*US**
+MOL*Maluku*42,00*ID**
+MON*Mongolia*37,00*MN**
+MOR*Morocco*20,00***
+MOZ*Mozambique*26,00*MZ**
+MPE*Marion-Prince Edward Is.*90,00*ZA**
+MRN*Marianas*62,00***
+MRQ*Marquesas*61,00*PF**
+MRS*Marshall Is.*62,00*MH**
+MRY*Maryland*78,00*US**
+MSI*Mississippi*78,00*US**
+MSO*Missouri*74,00*US**
+MTN*Mauritania*22,00*MR**
+MXC*Mexico Central*79,00*MX**
+MXE*Mexico Northeast*79,00*MX**
+MXG*Mexico Gulf*79,00*MX**
+MXI*Mexican Pacific Is.*79,00*MX**
+MXN*Mexico Northwest*79,00*MX**
+MXS*Mexico Southwest*79,00*MX**
+MXT*Mexico Southeast*79,00*MX**
+MYA*Myanmar*41,00*MM**
+NAM*Namibia*27,00*ZA**
+NAT*KwaZulu-Natal*27,00*ZA**
+NBR*New Brunswick*72,00*CA**
+NCA*North Carolina*78,00*US**
+NCB*Nicobar Is.*41,00*IN**
+NCS*North Caucasus*33,00*RU**
+NDA*North Dakota*74,00*US**
+NEB*Nebraska*74,00*US**
+NEP*Nepal*40,00*NP**
+NET*Netherlands*11,00*NL**
+NEV*Nevada*76,00*US**
+NFK*Norfolk Is.*50,00***
+NFL*Newfoundland*72,00***
+NGA*Nigeria*22,00*NG**
+NGR*Niger*22,00*NE**
+NIC*Nicaragua*80,00*NI**
+NLA*Netherlands Antilles*81,00*AN**
+NNS*Nansei-shoto*38,00*JP**
+NOR*Norway*10,00*NO**
+NRU*Nauru*60,00*NR**
+NSC*Nova Scotia*72,00*CA**
+NSW*New South Wales*50,00*AU**
+NTA*Northern Territory*50,00*AU**
+NUE*Niue*60,00*NU**
+NUN*Nunavut*70,00*CA**
+NWC*New Caledonia*60,00*NC**
+NWG*New Guinea*43,00***
+NWH*New Hampshire*75,00*US**
+NWJ*New Jersey*75,00*US**
+NWM*New Mexico*77,00*US**
+NWT*Northwest Territories*70,00*CA**
+NWY*New York*75,00*US**
+NZN*New Zealand North*51,00*NZ**
+NZS*New Zealand South*51,00*NZ**
+OFS*Free State*27,00*ZA**
+OGA*Ogasawara-shoto*38,00*JP**
+OHI*Ohio*75,00*US**
+OKL*Oklahoma*74,00*US**
+OMA*Oman*35,00*OM**
+ONT*Ontario*72,00*CA**
+ORE*Oregon*73,00*US**
+PAK*Pakistan*40,00*PK**
+PAL*Palestine*34,00***
+PAN*Panamá*80,00*PA**
+PAR*Paraguay*85,00*PY**
+PEI*Prince Edward I.*72,00*CA**
+PEN*Pennsylvania*75,00*US**
+PER*Peru*83,00*PE**
+PHI*Philippines*42,00*PH**
+PHX*Phoenix Is.*60,00*KI**
+PIT*Pitcairn Is.*61,00*PN**
+POL*Poland*11,00*PL**
+POR*Portugal*12,00*PT**
+PRM*Primorye*31,00*RU**
+PUE*Puerto Rico*81,00*PR**
+QLD*Queensland*50,00*AU**
+QUE*Québec*72,00*CA**
+REU*Réunion*29,00*RE**
+RHO*Rhode I.*75,00*US**
+ROD*Rodrigues*29,00*MU**
+ROM*Romania*13,00*RO**
+RUC*Central European Russia*14,00*RU**
+RUE*East European Russia*14,00*RU**
+RUN*North European Russia*14,00*RU**
+RUS*South European Russia*14,00***
+RUW*Northwest European Russia*14,00*RU**
+RWA*Rwanda*23,00*RW**
+SAK*Sakhalin*31,00*RU**
+SAM*Samoa*60,00***
+SAR*Sardegna*12,00*IT**
+SAS*Saskatchewan*71,00*CA**
+SAU*Saudi Arabia*35,00*SA**
+SCA*South Carolina*78,00*US**
+SCI*Society Is.*61,00*PF**
+SCS*South China Sea*41,00***
+SCZ*Santa Cruz Is.*60,00*SB**
+SDA*South Dakota*74,00*US**
+SEL*Selvagens*21,00*PT**
+SEN*Senegal*22,00*SN**
+SEY*Seychelles*29,00*SC**
+SGE*South Georgia*90,00*GS**
+SIC*Sicilia*13,00***
+SIE*Sierra Leone*22,00*SL**
+SIN*Sinai*34,00*EG**
+SOA*South Australia*50,00*AU**
+SOC*Socotra*24,00*YE**
+SOL*Solomon Is.*43,00***
+SOM*Somalia*24,00*SO**
+SPA*Spain*12,00***
+SRL*Sri Lanka*40,00*LK**
+SSA*South Sandwich Is.*90,00*GS**
+STH*St.Helena*28,00*SH**
+SUD*Sudan*24,00*SD**
+SUL*Sulawesi*42,00*ID**
+SUM*Sumatera*42,00*ID**
+SUR*Suriname*82,00*SR*N*Surinam
+SVA*Svalbard*10,00*SJ**
+SWC*Southwest Caribbean*81,00***
+SWE*Sweden*10,00*SE**
+SWI*Switzerland*11,00*CH**
+SWZ*Swaziland*27,00*SZ**
+TAI*Taiwan*38,00*TW**
+TAN*Tanzania*25,00*TZ**
+TAS*Tasmania*50,00*AU**
+TCI*Turks-Caicos Is.*81,00*TC**
+TCS*Transcaucasus*33,00***
+TDC*Tristan da Cunha*90,00*SH**
+TEN*Tennessee*78,00*US**
+TEX*Texas*77,00*US**
+THA*Thailand*41,00*TH**
+TKM*Turkmenistan*32,00*TM**
+TOG*Togo*22,00*TG**
+TOK*Tokelau-Manihiki*60,00***
+TON*Tonga*60,00*TO**
+TRT*Trinidad-Tobago*81,00*TT**
+TUA*Tuamotu*61,00*PF**
+TUB*Tubuai Is.*61,00*PF**
+TUE*Turkey-in-Europe*13,00*TR**
+TUN*Tunisia*20,00*TN**
+TUR*Turkey*34,00*TR**
+TUV*Tuvalu*60,00*TV**
+TVA*Tuva*30,00*RU**
+TVL*Northern Provinces*27,00*ZA**
+TZK*Tadzhikistan*32,00*TJ**
+UGA*Uganda*25,00*UG**
+UKR*Ukraine*14,00***
+URU*Uruguay*85,00*UY**
+UTA*Utah*76,00*US**
+UZB*Uzbekistan*32,00*UZ**
+VAN*Vanuatu*60,00*VU**
+VEN*Venezuela*82,00*VE**
+VER*Vermont*75,00*US**
+VIC*Victoria*50,00*AU**
+VIE*Vietnam*41,00*VN**
+VNA*Venezuelan Antilles*81,00*VE**
+VRG*Virginia*78,00*US**
+WAK*Wake I.*62,00*UM**
+WAL*Wallis-Futuna Is.*60,00*WF**
+WAS*Washington*73,00*US**
+WAU*Western Australia*50,00*AU**
+WDC*District of Columbia*78,00*US**
+WHM*West Himalaya*40,00***
+WIN*Windward Is.*81,00***
+WIS*Wisconsin*74,00*US**
+WSA*Western Sahara*20,00*EH**
+WSB*West Siberia*30,00*RU**
+WVA*West Virginia*75,00*US**
+WYO*Wyoming*73,00*US**
+XMS*Christmas I.*42,00*CX**
+YAK*Yakutskiya*30,00*RU**
+YEM*Yemen*35,00*YE**
+YUG*Yugoslavia*13,00*YU**
+YUK*Yukon*70,00*CA**
+ZAI*Zaire*23,00*CD**
+ZAM*Zambia*26,00*ZM**
+ZIM*Zimbabwe*26,00*ZW**

@@ -1,0 +1,53 @@
+L2 code*L2 region*L1 code*L2 ISOcode
+10,00*Northern Europe*1,00*
+11,00*Middle Europe*1,00*
+12,00*Southwestern Europe*1,00*
+13,00*Southeastern Europe*1,00*
+14,00*Eastern Europe*1,00*
+20,00*Northern Africa*2,00*
+21,00*Macaronesia*2,00*
+22,00*West Tropical Africa*2,00*
+23,00*West-Central Tropical Africa*2,00*
+24,00*Northeast Tropical Africa*2,00*
+25,00*East Tropical Africa*2,00*
+26,00*South Tropical Africa*2,00*
+27,00*Southern Africa*2,00*
+28,00*Middle Atlantic Ocean*2,00*
+29,00*Western Indian Ocean*2,00*
+30,00*Siberia*3,00*
+31,00*Russian Far East*3,00*
+32,00*Middle Asia*3,00*
+33,00*Caucasus*3,00*
+34,00*Western Asia*3,00*
+35,00*Arabian Peninsula*3,00*
+36,00*China*3,00*
+37,00*Mongolia*3,00*
+38,00*Eastern Asia*3,00*
+40,00*Indian Subcontinent*4,00*
+41,00*Indo-China*4,00*
+42,00*Malesia*4,00*
+43,00*Papuasia*4,00*
+50,00*Australia*5,00*
+51,00*New Zealand*5,00*
+60,00*Southwestern Pacific*6,00*
+61,00*South-Central Pacific*6,00*
+62,00*Northwestern Pacific*6,00*
+63,00*North-Central Pacific*6,00*
+70,00*Subarctic America*7,00*
+71,00*Western Canada*7,00*
+72,00*Eastern Canada*7,00*
+73,00*Northwestern U.S.A.*7,00*
+74,00*North-Central U.S.A.*7,00*
+75,00*Northeastern U.S.A.*7,00*
+76,00*Southwestern U.S.A.*7,00*
+77,00*South-Central U.S.A.*7,00*
+78,00*Southeastern U.S.A.*7,00*
+79,00*Mexico*7,00*
+80,00*Central America*8,00*
+81,00*Caribbean*8,00*
+82,00*Northern South America*8,00*
+83,00*Western South America*8,00*
+84,00*Brazil*8,00*
+85,00*Southern South America*8,00*
+90,00*Subantarctic Islands*9,00*
+91,00*Antarctic Continent*9,00*
