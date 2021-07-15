@@ -336,7 +336,7 @@ MAG-OO*Magadan*MAG*RU**
 MAI-OO*Maine*MAI*US**
 MAN-OO*Manitoba*MAN*CA**
 MAQ-OO*Macquarie Is.*MAQ*AU**
-MAS-OO*Masachusettes*MAS*US**
+MAS-OO*Massachusetts*MAS*US**
 MAU-OO*Mauritius*MAU*MU**
 MCI-OO*Mozambique Channel Is.*MCI*RE**
 MCS-OO*Marcus I.*MCS*JP**

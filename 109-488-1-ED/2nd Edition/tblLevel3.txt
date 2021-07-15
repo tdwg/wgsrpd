@@ -179,7 +179,7 @@ MAG*Magadan*31,00*RU**
 MAI*Maine*75,00*US**
 MAN*Manitoba*71,00*CA**
 MAQ*Macquarie Is.*90,00*AU**
-MAS*Masachusettes*75,00*US**
+MAS*Massachusetts*75,00*US**
 MAU*Mauritius*29,00*MU**
 MCI*Mozambique Channel Is.*29,00*RE**
 MCS*Marcus I.*62,00*JP**
