@@ -1104,7 +1104,7 @@ ID*Gazetteer*L1 code*L2 code*L3 code*L4 code*Kew region code*Kew region subdivis
 1393*Mas a Tierra*8,00*85,00*JNF*JNF-OO*18,00**Temperate South America*Robinson Crusoe I.*
 1394*Mas Afuera*8,00*85,00*JNF*JNF-OO*18,00**Temperate South America*Alejandro Selkirk I.*
 1395*Masalembu Besar*4,00*42,00*JAW*JAW-OO*6,00*C*Malay Islands**
-1396*Masachusettes*7,00*75,00*MAS*MAS-OO*13,00**North America**
+1396*Massachusetts*7,00*75,00*MAS*MAS-OO*13,00**North America**
 1397*Mato Grosso*8,00*84,00*BZC*BZC-MT*16,00**East Tropical South America**
 1398*Mato Grosso do Sul*8,00*84,00*BZC*BZC-MS*16,00**East Tropical South America**
 1399*Matthew Is.*6,00*60,00*NWC*NWC-OO*9,00*B*New Caledonia**
